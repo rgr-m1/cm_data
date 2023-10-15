@@ -94,7 +94,7 @@ def write_spawn_data(name, data):
             doc.addHeader(2, spawn["id"])
             doc.writeTextLine("Rarity: " + spawn["bucket"])
             doc.writeTextLine("Levels: " + spawn["level"])
-            presets_path = "data/spawn_data"
+            presets_path = "/data/spawn_data"
             if "presets" in spawn:
                 doc.addHeader(3, "World Presets")
                 for preset in spawn["presets"]:

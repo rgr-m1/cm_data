@@ -5,7 +5,7 @@ Rarity: uncommon
 Levels: 5-30  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Min Y: 0  
@@ -26,8 +26,8 @@ Rarity: common
 Levels: 5-30  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [desert_pyramid](data/spawn_data/desert_pyramid.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [desert_pyramid](/data/spawn_data/desert_pyramid.md)  
   
 ### Conditions  
 Can See Sky: False  

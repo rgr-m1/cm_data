@@ -5,7 +5,7 @@ Rarity: common
 Levels: 1-21  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -19,7 +19,7 @@ Rarity: common
 Levels: 1-21  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -33,7 +33,7 @@ Rarity: uncommon
 Levels: 1-21  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Max Y: 62  
@@ -54,7 +54,7 @@ Rarity: uncommon
 Levels: 1-21  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Max Y: 62  
@@ -75,7 +75,7 @@ Rarity: common
 Levels: 1-21  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -95,7 +95,7 @@ Rarity: common
 Levels: 1-21  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -115,7 +115,7 @@ Rarity: common
 Levels: 1-21  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -129,7 +129,7 @@ Rarity: common
 Levels: 1-21  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -143,7 +143,7 @@ Rarity: uncommon
 Levels: 1-21  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -157,7 +157,7 @@ Rarity: uncommon
 Levels: 1-21  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  

@@ -5,8 +5,8 @@ Rarity: uncommon
 Levels: 30-53  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [wild](data/spawn_data/wild.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [wild](/data/spawn_data/wild.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -20,7 +20,7 @@ Rarity: uncommon
 Levels: 30-53  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Max Y: 0  
@@ -41,7 +41,7 @@ Rarity: uncommon
 Levels: 30-53  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Max Y: 0  

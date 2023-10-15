@@ -5,8 +5,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [urban](data/spawn_data/urban.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [urban](/data/spawn_data/urban.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -32,8 +32,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [village](data/spawn_data/village.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [village](/data/spawn_data/village.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -55,8 +55,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [urban](data/spawn_data/urban.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [urban](/data/spawn_data/urban.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -76,8 +76,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [village](data/spawn_data/village.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [village](/data/spawn_data/village.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -91,8 +91,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [illager_structures](data/spawn_data/illager_structures.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [illager_structures](/data/spawn_data/illager_structures.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -113,8 +113,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [illager_structures](data/spawn_data/illager_structures.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [illager_structures](/data/spawn_data/illager_structures.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -129,7 +129,7 @@ Rarity: uncommon
 Levels: 4-29  
   
 ### World Presets  
-* [illager_structures](data/spawn_data/illager_structures.md)  
+* [illager_structures](/data/spawn_data/illager_structures.md)  
   
 ### Conditions  
 Min Y: 62  
@@ -144,8 +144,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [urban](data/spawn_data/urban.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [urban](/data/spawn_data/urban.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -166,8 +166,8 @@ Rarity: common
 Levels: 4-29  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [village](data/spawn_data/village.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [village](/data/spawn_data/village.md)  
   
 ### Conditions  
 Can See Sky: True  

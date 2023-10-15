@@ -5,8 +5,8 @@ Rarity: rare
 Levels: 23-48  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [wild](data/spawn_data/wild.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [wild](/data/spawn_data/wild.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -20,7 +20,7 @@ Rarity: rare
 Levels: 23-48  
   
 ### World Presets  
-* [underwater](data/spawn_data/underwater.md)  
+* [underwater](/data/spawn_data/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  

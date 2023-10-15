@@ -5,7 +5,7 @@ Rarity: common
 Levels: 49-52  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -25,7 +25,7 @@ Rarity: common
 Levels: 49-52  
   
 ### World Presets  
-* [redstone](data/spawn_data/redstone.md)  
+* [redstone](/data/spawn_data/redstone.md)  
   
 ### Conditions  
   

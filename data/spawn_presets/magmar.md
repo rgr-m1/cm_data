@@ -5,7 +5,7 @@ Rarity: common
 Levels: 30-50  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -25,7 +25,7 @@ Rarity: common
 Levels: 30-50  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -39,7 +39,7 @@ Rarity: common
 Levels: 30-50  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
   

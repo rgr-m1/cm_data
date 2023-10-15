@@ -5,8 +5,8 @@ Rarity: common
 Levels: 30-50  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
-* [wild](data/spawn_data/wild.md)  
+* [natural](/data/spawn_data/natural.md)  
+* [wild](/data/spawn_data/wild.md)  
   
 ### Conditions  
 Min Y: 48  

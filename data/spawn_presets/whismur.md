@@ -5,7 +5,7 @@ Rarity: uncommon
 Levels: 1-24  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -19,7 +19,7 @@ Rarity: common
 Levels: 1-24  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Max Y: 0  

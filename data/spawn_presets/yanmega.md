@@ -5,8 +5,8 @@ Rarity: common
 Levels: 33-52  
   
 ### World Presets  
-* [water_surface](data/spawn_data/water_surface.md)  
-* [freshwater](data/spawn_data/freshwater.md)  
+* [water_surface](/data/spawn_data/water_surface.md)  
+* [freshwater](/data/spawn_data/freshwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -16,7 +16,7 @@ Rarity: common
 Levels: 33-52  
   
 ### World Presets  
-* [water_surface](data/spawn_data/water_surface.md)  
+* [water_surface](/data/spawn_data/water_surface.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -30,7 +30,7 @@ Rarity: common
 Levels: 33-52  
   
 ### World Presets  
-* [water_surface](data/spawn_data/water_surface.md)  
+* [water_surface](/data/spawn_data/water_surface.md)  
   
 ### Conditions  
   

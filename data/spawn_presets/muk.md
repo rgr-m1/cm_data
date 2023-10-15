@@ -5,7 +5,7 @@ Rarity: common
 Levels: 38-50  
   
 ### World Presets  
-* [water_surface](data/spawn_data/water_surface.md)  
+* [water_surface](/data/spawn_data/water_surface.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -19,8 +19,8 @@ Rarity: common
 Levels: 38-50  
   
 ### World Presets  
-* [water_surface](data/spawn_data/water_surface.md)  
-* [urban](data/spawn_data/urban.md)  
+* [water_surface](/data/spawn_data/water_surface.md)  
+* [urban](/data/spawn_data/urban.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -40,8 +40,8 @@ Rarity: common
 Levels: 38-50  
   
 ### World Presets  
-* [water_surface](data/spawn_data/water_surface.md)  
-* [village](data/spawn_data/village.md)  
+* [water_surface](/data/spawn_data/water_surface.md)  
+* [village](/data/spawn_data/village.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -55,7 +55,7 @@ Rarity: common
 Levels: 38-50  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
   

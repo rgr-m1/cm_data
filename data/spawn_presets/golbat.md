@@ -5,7 +5,7 @@ Rarity: common
 Levels: 22-45  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -31,7 +31,7 @@ Rarity: common
 Levels: 22-45  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -51,7 +51,7 @@ Rarity: uncommon
 Levels: 22-45  
   
 ### World Presets  
-* [derelict](data/spawn_data/derelict.md)  
+* [derelict](/data/spawn_data/derelict.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -71,7 +71,7 @@ Rarity: common
 Levels: 22-45  
   
 ### World Presets  
-* [natural](data/spawn_data/natural.md)  
+* [natural](/data/spawn_data/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
