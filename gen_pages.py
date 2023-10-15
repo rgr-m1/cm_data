@@ -46,6 +46,9 @@ def write_world_preset(name, preset):
             if "neededBaseBlocks" in preset["condition"]:
                 doc.addHeader(3, "Needed Blocks")
                 doc.addUnorderedList(preset["condition"]["neededBaseBlocks"])
+            
+            if "fluid" in preset["condition"]:
+                doc.writeTextLine("Fluid: " + str(preset["condition"]["fluid"]))
 
         if "anticondition" in preset:
             doc.addHeader(2, "Anti-Conditions")
@@ -66,6 +69,9 @@ def write_world_preset(name, preset):
             if "neededBaseBlocks" in preset["anticondition"]:
                 doc.addHeader(3, "Needed Blocks")
                 doc.addUnorderedList(preset["anticondition"]["neededBaseBlocks"])
+
+            if "fluid" in preset["anticondition"]:
+                doc.writeTextLine("Fluid: " + str(preset["anticondition"]["fluid"]))
         
 
 def load_pokemon_spawn_pool():
@@ -122,6 +128,9 @@ def write_spawn_data(name, data):
                     doc.addHeader(4, "Needed Blocks")
                     doc.addUnorderedList(spawn["condition"]["neededBaseBlocks"])
 
+                if "fluid" in preset["condition"]:
+                    doc.writeTextLine("Fluid: " + str(preset["condition"]["fluid"]))
+
             if "anticondition" in spawn:
                 doc.addHeader(3, "Anti-Conditions")
                 if "minY" in spawn["anticondition"]:
@@ -144,6 +153,9 @@ def write_spawn_data(name, data):
                 if "neededBaseBlocks" in spawn["anticondition"]:
                     doc.addHeader(4, "Needed Blocks")
                     doc.addUnorderedList(spawn["anticondition"]["neededBaseBlocks"])
+
+                if "fluid" in preset["anticondition"]:
+                    doc.writeTextLine("Fluid: " + str(preset["anticondition"]["fluid"]))
 
 
 def main():
