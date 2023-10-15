@@ -5,8 +5,8 @@ Rarity: uncommon
 Levels: 35-45  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [nether_structures](/data/spawn_data/nether_structures.md)  
+* [natural](/data/world_presets/natural.md)  
+* [nether_structures](/data/world_presets/nether_structures.md)  
   
 ### Conditions  
   

@@ -5,7 +5,7 @@ Rarity: rare
 Levels: 23-48  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
@@ -18,7 +18,7 @@ Rarity: uncommon
 Levels: 23-48  
   
 ### World Presets  
-* [mansion](/data/spawn_data/mansion.md)  
+* [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
 Can See Sky: False  

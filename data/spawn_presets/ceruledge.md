@@ -5,8 +5,8 @@ Rarity: common
 Levels: 21-53  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [nether_structures](/data/spawn_data/nether_structures.md)  
+* [natural](/data/world_presets/natural.md)  
+* [nether_structures](/data/world_presets/nether_structures.md)  
   
 ### Conditions  
   
@@ -19,7 +19,7 @@ Rarity: uncommon
 Levels: 21-53  
   
 ### World Presets  
-* [ruined_portal](/data/spawn_data/ruined_portal.md)  
+* [ruined_portal](/data/world_presets/ruined_portal.md)  
   
 ### Conditions  
   

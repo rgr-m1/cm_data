@@ -5,7 +5,7 @@ Rarity: common
 Levels: 29-49  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
@@ -18,7 +18,7 @@ Rarity: uncommon
 Levels: 29-49  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   

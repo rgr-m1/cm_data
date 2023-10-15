@@ -5,8 +5,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -20,8 +20,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -35,8 +35,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -51,8 +51,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -66,8 +66,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -97,8 +97,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -112,9 +112,9 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [freshwater](/data/spawn_data/freshwater.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -124,8 +124,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -139,8 +139,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -156,8 +156,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -171,8 +171,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -186,8 +186,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -201,8 +201,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -216,9 +216,9 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [urban](/data/spawn_data/urban.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [urban](/data/world_presets/urban.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -232,8 +232,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -247,8 +247,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -262,8 +262,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -279,8 +279,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -295,8 +295,8 @@ Rarity: common
 Levels: 12-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [flowers](/data/spawn_data/flowers.md)  
+* [natural](/data/world_presets/natural.md)  
+* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
 Can See Sky: True  

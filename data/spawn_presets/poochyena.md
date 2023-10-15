@@ -5,7 +5,7 @@ Rarity: common
 Levels: 1-22  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -20,8 +20,8 @@ Rarity: common
 Levels: 1-22  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [pillager_outpost](/data/spawn_data/pillager_outpost.md)  
+* [natural](/data/world_presets/natural.md)  
+* [pillager_outpost](/data/world_presets/pillager_outpost.md)  
   
 ### Conditions  
 Can See Sky: True  

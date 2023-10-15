@@ -5,7 +5,7 @@ Rarity: common
 Levels: 26-53  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -19,7 +19,7 @@ Rarity: common
 Levels: 26-53  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  

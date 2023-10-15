@@ -5,7 +5,7 @@ Rarity: ultra-rare
 Levels: 16-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -20,7 +20,7 @@ Rarity: ultra-rare
 Levels: 16-41  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   

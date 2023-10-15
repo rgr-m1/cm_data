@@ -5,7 +5,7 @@ Rarity: ultra-rare
 Levels: 40-50  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
@@ -18,7 +18,7 @@ Rarity: ultra-rare
 Levels: 40-50  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
   

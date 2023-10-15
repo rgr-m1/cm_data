@@ -5,7 +5,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
@@ -19,7 +19,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [lava_surface](/data/spawn_data/lava_surface.md)  
+* [lava_surface](/data/world_presets/lava_surface.md)  
   
 ### Conditions  
   
@@ -32,7 +32,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [lava_surface](/data/spawn_data/lava_surface.md)  
+* [lava_surface](/data/world_presets/lava_surface.md)  
   
 ### Conditions  
   
@@ -51,7 +51,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
@@ -64,7 +64,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [lava_surface](/data/spawn_data/lava_surface.md)  
+* [lava_surface](/data/world_presets/lava_surface.md)  
   
 ### Conditions  
   

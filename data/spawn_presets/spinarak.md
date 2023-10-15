@@ -5,8 +5,8 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [treetop](/data/spawn_data/treetop.md)  
+* [natural](/data/world_presets/natural.md)  
+* [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -28,7 +28,7 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -48,7 +48,7 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [derelict](/data/spawn_data/derelict.md)  
+* [derelict](/data/world_presets/derelict.md)  
   
 ### Conditions  
 Min Y: 0  
@@ -69,7 +69,7 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -83,7 +83,7 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [mansion](/data/spawn_data/mansion.md)  
+* [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
 Can See Sky: False  

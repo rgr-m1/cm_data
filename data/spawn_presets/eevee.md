@@ -5,7 +5,7 @@ Rarity: ultra-rare
 Levels: 5-33  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -26,7 +26,7 @@ Rarity: rare
 Levels: 5-33  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -40,8 +40,8 @@ Rarity: uncommon
 Levels: 5-33  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [urban](/data/spawn_data/urban.md)  
+* [natural](/data/world_presets/natural.md)  
+* [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -61,8 +61,8 @@ Rarity: uncommon
 Levels: 5-33  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [village](/data/spawn_data/village.md)  
+* [natural](/data/world_presets/natural.md)  
+* [village](/data/world_presets/village.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -76,7 +76,7 @@ Rarity: uncommon
 Levels: 5-33  
   
 ### World Presets  
-* [mansion](/data/spawn_data/mansion.md)  
+* [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
 Can See Sky: False  

@@ -5,8 +5,8 @@ Rarity: ultra-rare
 Levels: 28-53  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [freshwater](/data/spawn_data/freshwater.md)  
+* [natural](/data/world_presets/natural.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -16,8 +16,8 @@ Rarity: ultra-rare
 Levels: 28-53  
   
 ### World Presets  
-* [freshwater](/data/spawn_data/freshwater.md)  
-* [underwater](/data/spawn_data/underwater.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -27,8 +27,8 @@ Rarity: uncommon
 Levels: 28-53  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [urban](/data/spawn_data/urban.md)  
+* [natural](/data/world_presets/natural.md)  
+* [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -48,8 +48,8 @@ Rarity: uncommon
 Levels: 28-53  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [village](/data/spawn_data/village.md)  
+* [natural](/data/world_presets/natural.md)  
+* [village](/data/world_presets/village.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -63,7 +63,7 @@ Rarity: uncommon
 Levels: 28-53  
   
 ### World Presets  
-* [mansion](/data/spawn_data/mansion.md)  
+* [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
 Can See Sky: False  

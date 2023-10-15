@@ -25,7 +25,7 @@ Rarity: common
 Levels: 22-50  
   
 ### World Presets  
-* [mansion](/data/spawn_data/mansion.md)  
+* [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
 Can See Sky: False  

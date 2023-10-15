@@ -5,7 +5,7 @@ Rarity: common
 Levels: 8-33  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  

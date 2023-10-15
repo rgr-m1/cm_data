@@ -5,8 +5,8 @@ Rarity: common
 Levels: 33-50  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [freshwater](/data/spawn_data/freshwater.md)  
+* [natural](/data/world_presets/natural.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -16,8 +16,8 @@ Rarity: common
 Levels: 33-50  
   
 ### World Presets  
-* [freshwater](/data/spawn_data/freshwater.md)  
-* [underwater](/data/spawn_data/underwater.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  

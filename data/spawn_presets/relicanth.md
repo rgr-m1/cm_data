@@ -5,7 +5,7 @@ Rarity: uncommon
 Levels: 24-49  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Max Y: 48  
@@ -19,8 +19,8 @@ Rarity: common
 Levels: 24-49  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
-* [ocean_ruins](/data/spawn_data/ocean_ruins.md)  
+* [underwater](/data/world_presets/underwater.md)  
+* [ocean_ruins](/data/world_presets/ocean_ruins.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -34,7 +34,7 @@ Rarity: rare
 Levels: 24-49  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: False  

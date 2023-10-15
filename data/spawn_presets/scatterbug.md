@@ -5,8 +5,8 @@ Rarity: common
 Levels: 1-20  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [foliage](/data/spawn_data/foliage.md)  
+* [natural](/data/world_presets/natural.md)  
+* [foliage](/data/world_presets/foliage.md)  
   
 ### Conditions  
 Can See Sky: True  

@@ -5,9 +5,9 @@ Rarity: common
 Levels: 18-43  
   
 ### World Presets  
-* [freshwater](/data/spawn_data/freshwater.md)  
-* [natural](/data/spawn_data/natural.md)  
-* [treetop](/data/spawn_data/treetop.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
+* [natural](/data/world_presets/natural.md)  
+* [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -17,8 +17,8 @@ Rarity: common
 Levels: 18-43  
   
 ### World Presets  
-* [freshwater](/data/spawn_data/freshwater.md)  
-* [water_surface](/data/spawn_data/water_surface.md)  
+* [freshwater](/data/world_presets/freshwater.md)  
+* [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -44,7 +44,7 @@ Rarity: common
 Levels: 18-43  
   
 ### World Presets  
-* [water_surface](/data/spawn_data/water_surface.md)  
+* [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
   

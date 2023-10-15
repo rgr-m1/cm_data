@@ -89,12 +89,10 @@ def write_spawn_data(name, data):
     with MarkdownGenerator(filename=(name + ".md"), enable_write=True) as doc:
         doc.addHeader(1, name + " spawns")
         for spawn in spawns:
-            if spawn["pokemon"] == "dratini":
-                print(spawn)
             doc.addHeader(2, spawn["id"])
             doc.writeTextLine("Rarity: " + spawn["bucket"])
             doc.writeTextLine("Levels: " + spawn["level"])
-            presets_path = "/data/spawn_data"
+            presets_path = "/data/world_presets"
             if "presets" in spawn:
                 doc.addHeader(3, "World Presets")
                 for preset in spawn["presets"]:

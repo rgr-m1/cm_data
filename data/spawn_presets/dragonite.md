@@ -5,7 +5,7 @@ Rarity: rare
 Levels: 55-60  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Max Y: 32  
@@ -20,7 +20,7 @@ Rarity: rare
 Levels: 55-60  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -34,8 +34,8 @@ Rarity: uncommon
 Levels: 55-60  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
-* [ocean_ruins](/data/spawn_data/ocean_ruins.md)  
+* [underwater](/data/world_presets/underwater.md)  
+* [ocean_ruins](/data/world_presets/ocean_ruins.md)  
   
 ### Conditions  
 Can See Sky: True  

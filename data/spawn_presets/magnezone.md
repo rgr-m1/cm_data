@@ -5,7 +5,7 @@ Rarity: uncommon
 Levels: 42-54  
   
 ### World Presets  
-* [redstone](/data/spawn_data/redstone.md)  
+* [redstone](/data/world_presets/redstone.md)  
   
 ### Conditions  
   

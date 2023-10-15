@@ -5,7 +5,7 @@ Rarity: uncommon
 Levels: 5-30  
   
 ### World Presets  
-* [ancient_city](/data/spawn_data/ancient_city.md)  
+* [ancient_city](/data/world_presets/ancient_city.md)  
   
 ### Conditions  
 Can See Sky: False  
@@ -19,7 +19,7 @@ Rarity: common
 Levels: 5-30  
   
 ### World Presets  
-* [trail_ruins](/data/spawn_data/trail_ruins.md)  
+* [trail_ruins](/data/world_presets/trail_ruins.md)  
   
 ### Conditions  
   
@@ -32,9 +32,9 @@ Rarity: common
 Levels: 5-30  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [desert_pyramid](/data/spawn_data/desert_pyramid.md)  
-* [jungle_pyramid](/data/spawn_data/jungle_pyramid.md)  
+* [natural](/data/world_presets/natural.md)  
+* [desert_pyramid](/data/world_presets/desert_pyramid.md)  
+* [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
   
 ### Conditions  
   

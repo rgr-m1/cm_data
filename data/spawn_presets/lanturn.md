@@ -5,7 +5,7 @@ Rarity: common
 Levels: 27-46  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Max Y: 48  

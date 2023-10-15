@@ -5,8 +5,8 @@ Rarity: common
 Levels: 8-33  
   
 ### World Presets  
-* [natural](/data/spawn_data/natural.md)  
-* [wild](/data/spawn_data/wild.md)  
+* [natural](/data/world_presets/natural.md)  
+* [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
 Can See Sky: True  
@@ -20,7 +20,7 @@ Rarity: common
 Levels: 8-33  
   
 ### World Presets  
-* [underwater](/data/spawn_data/underwater.md)  
+* [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
 Can See Sky: True  
