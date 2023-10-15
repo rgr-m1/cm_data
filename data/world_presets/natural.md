@@ -2,7 +2,7 @@
   
 ## Conditions  
   
-### Needed Blocks  
+### Needed Base Blocks  
   * minecraft:big_dripleaf
   * minecraft:lily_pad
   * minecraft:moss_block

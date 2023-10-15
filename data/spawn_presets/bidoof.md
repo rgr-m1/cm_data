@@ -9,7 +9,6 @@ Levels: 1-25
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## bidoof-2  
 Rarity: common  
@@ -20,4 +19,3 @@ Levels: 1-25
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  

@@ -8,7 +8,6 @@ Levels: 14-39
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_grassland

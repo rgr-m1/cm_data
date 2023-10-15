@@ -8,7 +8,6 @@ Levels: 9-34
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_coast
@@ -22,7 +21,6 @@ Levels: 9-34
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean

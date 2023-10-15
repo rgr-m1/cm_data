@@ -5,3 +5,9 @@
 ### Structures  
   * #minecraft:ruined_portal
   
+  
+### Needed Nearby Blocks  
+  * minecraft:crying_obsidian
+  * minecraft:netherack
+  * minecraft:obsidian
+  

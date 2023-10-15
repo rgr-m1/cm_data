@@ -22,7 +22,6 @@ Levels: 48-60
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

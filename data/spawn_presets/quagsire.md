@@ -8,7 +8,6 @@ Levels: 20-43
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush
@@ -22,7 +21,6 @@ Levels: 20-43
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush
@@ -37,10 +35,13 @@ Levels: 20-43
   
 ### Conditions  
 Max Y: 62  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * #minecraft:water
   
   
 ### Anti-Conditions  
@@ -58,7 +59,6 @@ Levels: 20-43
   
 ### Conditions  
 Max Y: 62  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -78,7 +78,6 @@ Levels: 20-43
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp
@@ -98,7 +97,6 @@ Levels: 20-43
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp

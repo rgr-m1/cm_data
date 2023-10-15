@@ -9,7 +9,6 @@ Levels: 33-52
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## yanmega-2  
 Rarity: common  
@@ -19,7 +18,6 @@ Levels: 33-52
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush

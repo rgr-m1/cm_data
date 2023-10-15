@@ -9,7 +9,6 @@ Levels: 11-36
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle

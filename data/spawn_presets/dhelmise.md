@@ -9,7 +9,6 @@ Levels: 27-52
 * [shipwreck](/data/world_presets/shipwreck.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean

@@ -9,7 +9,6 @@ Levels: 25-39
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## poliwhirl-2  
 Rarity: common  
@@ -20,7 +19,10 @@ Levels: 25-39
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
+  
+#### Needed Nearby Blocks  
+  * minecraft:lily_pad
+  
   
 ## poliwhirl-3  
 Rarity: common  
@@ -30,7 +32,6 @@ Levels: 25-39
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush
@@ -44,7 +45,6 @@ Levels: 25-39
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush

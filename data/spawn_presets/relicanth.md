@@ -23,7 +23,6 @@ Levels: 24-49
 * [ocean_ruins](/data/world_presets/ocean_ruins.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #minecraft:is_ocean
@@ -37,7 +36,6 @@ Levels: 24-49
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

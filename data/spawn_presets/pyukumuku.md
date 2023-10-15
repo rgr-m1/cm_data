@@ -8,7 +8,6 @@ Levels: 16-41
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_beach
@@ -23,7 +22,6 @@ Levels: 16-41
   
 ### Conditions  
 Min Y: 48  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean
@@ -43,7 +41,6 @@ Levels: 16-41
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_warm_ocean

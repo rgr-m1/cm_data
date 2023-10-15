@@ -9,7 +9,6 @@ Levels: 28-53
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## vaporeon-2  
 Rarity: ultra-rare  
@@ -20,7 +19,6 @@ Levels: 28-53
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## vaporeon-3  
 Rarity: uncommon  
@@ -31,7 +29,6 @@ Levels: 28-53
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -52,7 +49,6 @@ Levels: 28-53
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -66,7 +62,6 @@ Levels: 28-53
 * [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

@@ -9,7 +9,6 @@ Levels: 22-45
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## masquerain-2  
 Rarity: common  

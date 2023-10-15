@@ -9,7 +9,6 @@ Levels: 27-46
   
 ### Conditions  
 Max Y: 48  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_deep_ocean

@@ -24,10 +24,13 @@ Rarity: uncommon
 Levels: 8-33  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:lightning_rod
   
   
 ## magnemite-2  
@@ -35,8 +38,11 @@ Rarity: uncommon
 Levels: 8-33  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:lightning_rod
   

@@ -8,7 +8,6 @@ Levels: 16-41
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_plains
@@ -19,8 +18,11 @@ Rarity: uncommon
 Levels: 16-41  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_plains
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:lightning_rod
   

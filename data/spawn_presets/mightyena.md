@@ -8,7 +8,6 @@ Levels: 18-42
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_badlands
@@ -24,7 +23,6 @@ Levels: 18-42
 * [pillager_outpost](/data/world_presets/pillager_outpost.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld

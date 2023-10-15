@@ -8,7 +8,6 @@ Levels: 21-46
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_sandy

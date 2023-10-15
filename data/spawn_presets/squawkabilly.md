@@ -9,7 +9,6 @@ Levels: 17-42
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle
@@ -25,7 +24,6 @@ Levels: 17-42
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -50,7 +48,6 @@ Levels: 17-42
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -72,7 +69,6 @@ Levels: 17-42
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_sky

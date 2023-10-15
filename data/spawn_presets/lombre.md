@@ -8,7 +8,6 @@ Levels: 14-34
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp
@@ -22,7 +21,6 @@ Levels: 14-34
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp

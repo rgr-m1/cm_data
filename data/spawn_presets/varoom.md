@@ -8,7 +8,6 @@ Levels: 5-30
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_badlands
@@ -19,13 +18,12 @@ Rarity: uncommon
 Levels: 5-30  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
   
   
-#### Needed Blocks  
+#### Needed Base Blocks  
   * minecraft:white_concrete
   * minecraft:orange_concrete
   * minecraft:magenta_concrete

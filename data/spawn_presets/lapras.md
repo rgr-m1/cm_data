@@ -8,7 +8,6 @@ Levels: 29-54
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_frozen_ocean
@@ -22,7 +21,6 @@ Levels: 29-54
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean
@@ -42,7 +40,6 @@ Levels: 29-54
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean

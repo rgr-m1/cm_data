@@ -8,7 +8,6 @@ Levels: 43-48
 * [ancient_city](/data/world_presets/ancient_city.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_deep_dark

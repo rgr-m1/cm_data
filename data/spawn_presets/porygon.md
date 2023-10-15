@@ -9,3 +9,7 @@ Levels: 15-40
 #### Biomes  
   * #cobblemon:is_overworld
   
+  
+#### Needed Nearby Blocks  
+  * cobblemon:pc
+  

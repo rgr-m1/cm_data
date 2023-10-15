@@ -9,7 +9,6 @@ Levels: 13-38
 * [gemstones](/data/world_presets/gemstones.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

@@ -8,7 +8,6 @@ Levels: 16-41
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_grassland
@@ -37,7 +36,6 @@ Levels: 16-41
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_floral

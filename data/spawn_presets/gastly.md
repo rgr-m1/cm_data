@@ -8,7 +8,6 @@ Levels: 6-31
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_deep_dark
@@ -22,7 +21,6 @@ Levels: 6-31
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -42,7 +40,6 @@ Levels: 6-31
 * [derelict](/data/world_presets/derelict.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -62,7 +59,6 @@ Levels: 6-31
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_spooky

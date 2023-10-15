@@ -9,7 +9,6 @@ Levels: 23-48
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp
@@ -23,7 +22,6 @@ Levels: 23-48
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp

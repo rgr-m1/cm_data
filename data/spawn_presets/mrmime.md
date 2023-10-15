@@ -9,7 +9,6 @@ Levels: 26-46
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -34,7 +33,6 @@ Levels: 26-46
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -54,7 +52,6 @@ Levels: 26-46
 * [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

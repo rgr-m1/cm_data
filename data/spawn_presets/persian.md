@@ -9,7 +9,6 @@ Levels: 28-44
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -36,7 +35,6 @@ Levels: 28-44
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -59,7 +57,6 @@ Levels: 28-44
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_arid
@@ -80,7 +77,6 @@ Levels: 28-44
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_arid
@@ -95,7 +91,6 @@ Levels: 28-44
 * [illager_structures](/data/world_presets/illager_structures.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -117,7 +112,6 @@ Levels: 28-44
 * [illager_structures](/data/world_presets/illager_structures.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_arid
@@ -133,7 +127,6 @@ Levels: 28-44
   
 ### Conditions  
 Min Y: 62  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

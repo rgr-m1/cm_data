@@ -1,0 +1,176 @@
+# Cleffa  
+Primary Type: fairy  
+  
+## Spawn Locations  
+[Cleffa](/data/spawn_presets/cleffa.md)  
+  
+## Abilities  
+  * cutecharm
+  * magicguard
+  * h:friendguard
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | copycat |  
+| 1 | pound |  
+| 1 | splash |  
+| 4 | sing |  
+| 8 | sweetkiss |  
+| 12 | disarmingvoice |  
+| 16 | encore |  
+| 16 | magicalleaf |  
+| 20 | charm |  
+| egg | amnesia |  
+| egg | aromatherapy |  
+| egg | bellydrum |  
+| egg | covet |  
+| egg | faketears |  
+| egg | healpulse |  
+| egg | metronome |  
+| egg | mimic |  
+| egg | mistyterrain |  
+| egg | present |  
+| egg | splash |  
+| egg | storedpower |  
+| egg | substitute |  
+| egg | tickle |  
+| egg | wish |  
+| tm | amnesia |  
+| tm | attract |  
+| tm | bodyslam |  
+| tm | captivate |  
+| tm | charm |  
+| tm | confide |  
+| tm | dig |  
+| tm | doubleteam |  
+| tm | drainingkiss |  
+| tm | dreameater |  
+| tm | echoedvoice |  
+| tm | encore |  
+| tm | endure |  
+| tm | facade |  
+| tm | faketears |  
+| tm | fireblast |  
+| tm | flamethrower |  
+| tm | flash |  
+| tm | fling |  
+| tm | frustration |  
+| tm | grassknot |  
+| tm | helpinghand |  
+| tm | hiddenpower |  
+| tm | hypervoice |  
+| tm | icywind |  
+| tm | incinerate |  
+| tm | irontail |  
+| tm | lightscreen |  
+| tm | magicalleaf |  
+| tm | megakick |  
+| tm | megapunch |  
+| tm | metronome |  
+| tm | mistyterrain |  
+| tm | naturalgift |  
+| tm | playrough |  
+| tm | protect |  
+| tm | psychic |  
+| tm | psychup |  
+| tm | psyshock |  
+| tm | raindance |  
+| tm | recycle |  
+| tm | reflect |  
+| tm | rest |  
+| tm | return |  
+| tm | round |  
+| tm | safeguard |  
+| tm | secretpower |  
+| tm | shadowball |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | snore |  
+| tm | solarbeam |  
+| tm | storedpower |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | swagger |  
+| tm | telekinesis |  
+| tm | thunderwave |  
+| tm | toxic |  
+| tm | trick |  
+| tm | uproar |  
+| tm | waterpulse |  
+| tm | wonderroom |  
+| tm | workup |  
+| tm | zenheadbutt |  
+| tutor | afteryou |  
+| tutor | amnesia |  
+| tutor | aromatherapy |  
+| tutor | attract |  
+| tutor | bellydrum |  
+| tutor | bodyslam |  
+| tutor | charm |  
+| tutor | counter |  
+| tutor | covet |  
+| tutor | curse |  
+| tutor | defensecurl |  
+| tutor | detect |  
+| tutor | doubleedge |  
+| tutor | doubleteam |  
+| tutor | dreameater |  
+| tutor | encore |  
+| tutor | endeavor |  
+| tutor | endure |  
+| tutor | fireblast |  
+| tutor | flash |  
+| tutor | frustration |  
+| tutor | gravity |  
+| tutor | headbutt |  
+| tutor | helpinghand |  
+| tutor | hiddenpower |  
+| tutor | hypervoice |  
+| tutor | icywind |  
+| tutor | irontail |  
+| tutor | lastresort |  
+| tutor | magiccoat |  
+| tutor | megakick |  
+| tutor | megapunch |  
+| tutor | metronome |  
+| tutor | mimic |  
+| tutor | mudslap |  
+| tutor | nightmare |  
+| tutor | pound |  
+| tutor | present |  
+| tutor | protect |  
+| tutor | psychic |  
+| tutor | psychup |  
+| tutor | raindance |  
+| tutor | recycle |  
+| tutor | rest |  
+| tutor | return |  
+| tutor | roleplay |  
+| tutor | rollout |  
+| tutor | seismictoss |  
+| tutor | shadowball |  
+| tutor | shockwave |  
+| tutor | signalbeam |  
+| tutor | sing |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | softboiled |  
+| tutor | solarbeam |  
+| tutor | splash |  
+| tutor | substitute |  
+| tutor | sunnyday |  
+| tutor | swagger |  
+| tutor | sweetkiss |  
+| tutor | telekinesis |  
+| tutor | thunderwave |  
+| tutor | toxic |  
+| tutor | trick |  
+| tutor | uproar |  
+| tutor | waterpulse |  
+| tutor | wonderroom |  
+| tutor | zapcannon |  
+| tutor | zenheadbutt |  
+  

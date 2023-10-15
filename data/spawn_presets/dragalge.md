@@ -8,8 +8,11 @@ Levels: 48-49
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #minecraft:is_ocean
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:kelp_plant
   

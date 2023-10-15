@@ -9,7 +9,6 @@ Levels: 15-41
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## bibarel-2  
 Rarity: common  
@@ -19,4 +18,3 @@ Levels: 15-41
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  

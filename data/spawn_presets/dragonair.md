@@ -9,7 +9,6 @@ Levels: 30-42
   
 ### Conditions  
 Max Y: 32  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -24,7 +23,6 @@ Levels: 30-42
   
 ### Conditions  
 Max Y: 32  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -39,7 +37,6 @@ Levels: 30-42
 * [ocean_ruins](/data/world_presets/ocean_ruins.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean

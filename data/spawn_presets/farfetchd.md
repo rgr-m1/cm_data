@@ -10,10 +10,13 @@ Levels: 13-38
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * cobblemon:medicinal_leek
   
   
 ## farfetchd-galarian-1  
@@ -25,10 +28,13 @@ Levels: 13-38
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_forest
   
   
 ### Anti-Conditions  
+  
+#### Needed Nearby Blocks  
+  * #minecraft:water
+  

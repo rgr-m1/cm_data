@@ -9,7 +9,6 @@ Levels: 34-48
   
 ### Conditions  
 Min Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_desert
@@ -30,7 +29,6 @@ Levels: 34-48
 * [desert_pyramid](/data/world_presets/desert_pyramid.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

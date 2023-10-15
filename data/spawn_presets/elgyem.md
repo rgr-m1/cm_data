@@ -21,10 +21,13 @@ Levels: 9-34
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #minecraft:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:wheat
   
   
 ## elgyem_3  

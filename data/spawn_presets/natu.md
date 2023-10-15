@@ -9,7 +9,6 @@ Levels: 7-32
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_badlands
@@ -24,7 +23,6 @@ Levels: 7-32
 * [trail_ruins](/data/world_presets/trail_ruins.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld

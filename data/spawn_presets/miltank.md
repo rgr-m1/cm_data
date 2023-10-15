@@ -8,7 +8,6 @@ Levels: 6-24
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_grassland
@@ -22,7 +21,6 @@ Levels: 6-24
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * minecraft:mushroom_fields
@@ -36,7 +34,6 @@ Levels: 6-24
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * minecraft:mushroom_fields

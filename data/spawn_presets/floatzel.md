@@ -9,7 +9,6 @@ Levels: 26-50
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## floatzel-2  
 Rarity: common  
@@ -20,7 +19,6 @@ Levels: 26-50
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## floatzel-3  
 Rarity: common  
@@ -31,4 +29,3 @@ Levels: 26-50
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  

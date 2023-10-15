@@ -8,7 +8,6 @@ Levels: 25-46
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_floral
@@ -23,7 +22,6 @@ Levels: 25-46
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld

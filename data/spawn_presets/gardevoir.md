@@ -8,7 +8,6 @@ Levels: 30-52
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_floral
@@ -25,7 +24,6 @@ Levels: 30-52
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -46,7 +44,6 @@ Levels: 30-52
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -60,7 +57,6 @@ Levels: 30-52
 * [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

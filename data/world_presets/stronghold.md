@@ -7,6 +7,11 @@ Max Y: 62
   * minecraft:stronghold
   
   
-### Needed Blocks  
+### Needed Base Blocks  
   * #minecraft:stone_bricks
+  
+  
+### Needed Nearby Blocks  
+  * minecraft:cracked_stone_bricks
+  * minecraft:mossy_stone_bricks
   

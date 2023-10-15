@@ -9,7 +9,6 @@ Levels: 30-53
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_coast
@@ -24,10 +23,13 @@ Levels: 30-53
   
 ### Conditions  
 Max Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:water
   
   
 ### Anti-Conditions  
@@ -45,7 +47,6 @@ Levels: 30-53
   
 ### Conditions  
 Max Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

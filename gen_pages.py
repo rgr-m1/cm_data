@@ -8,8 +8,54 @@ def create_dir_if_ne(dir_name):
         makedirs(dir_name)
 
 def load_pokemon_data():
-    print(1)
+    data_path = "./cobblemon/common/src/main/resources/data/cobblemon/species/"
     # cobblemon/common/src/main/resources/data/cobblemon/species/*/*.json
+    generation_dirs = [d for d in listdir(data_path) if isdir(join(data_path, d))]
+
+    pokedex_path = "data/pokedex"
+    create_dir_if_ne(pokedex_path)
+
+    for gen_dir in generation_dirs:
+        generation_dir = join(data_path, gen_dir)
+        mon_files = [f for f in listdir(generation_dir) if isfile(join(generation_dir, f))]
+        for f in mon_files:
+            mon_content = json.loads(open(join(generation_dir, f), "r").read())
+            write_mon_data(mon_content)
+
+def write_mon_data(mon):
+    if "implemented" not in mon:
+        # print(mon["name"])
+        return
+    if not mon["implemented"]:
+        return
+    dex_num = mon["nationalPokedexNumber"]
+    normalized_num = ("0" * (4 - len(str(dex_num)))) + str(dex_num)
+    
+    file_name = "data/pokedex/" + (normalized_num + "_" + mon["name"].lower().replace(" ", "-"))
+    print(file_name)
+
+    with MarkdownGenerator(filename=(file_name + ".md"), enable_write=True) as doc:
+        doc.addHeader(1, mon["name"])
+        doc.writeTextLine("Primary Type: " + mon["primaryType"])
+        if "secondaryType" in mon:
+            doc.writeTextLine("Secondary Type: " + mon["secondaryType"])
+
+        spawns_path = "/data/spawn_presets"
+        doc.addHeader(2, "Spawn Locations")
+        doc.writeTextLine(doc.generateHrefNotation(mon["name"], spawns_path + "/" + mon["name"].lower() + ".md"))
+        
+        doc.addHeader(2, "Abilities")
+        doc.addUnorderedList(mon["abilities"])
+
+        doc.addHeader(2, "Moves")
+        moves_list = []
+        for move in mon["moves"]:
+            move_dat = move.split(":")
+            moves_list.append({"Source" : move_dat[0], "Move" : move_dat[1]})
+        doc.addTable(dictionary_list=moves_list)
+
+
+
 
 def load_world_conditions():
     data_path = "./cobblemon/common/src/main/resources/data/cobblemon/spawn_detail_presets/"
@@ -23,55 +69,67 @@ def load_world_conditions():
         world_content = json.loads(open(join(data_path, world_preset_file), "r").read())
         write_world_preset(preset_name, world_content)
         
+def write_cond_anticond(doc, preset, depth):
+    if "condition" in preset:
+        doc.addHeader(depth, "Conditions")
+        if "minY" in preset["condition"]:
+            doc.writeTextLine("Min Y: " + str(preset["condition"]["minY"]))
+
+        if "maxY" in preset["condition"]:
+            doc.writeTextLine("Max Y: " + str(preset["condition"]["maxY"]))
+
+        if "biomes" in preset["condition"]:
+            doc.addHeader(depth+1, "Biomes")
+            doc.addUnorderedList(preset["condition"]["biomes"])
+    
+        if "structures" in preset["condition"]:
+            doc.addHeader(depth+1, "Structures")
+            doc.addUnorderedList(preset["condition"]["structures"])
+        
+        if "neededBaseBlocks" in preset["condition"]:
+            doc.addHeader(depth+1, "Needed Base Blocks")
+            doc.addUnorderedList(preset["condition"]["neededBaseBlocks"])
+
+        if "neededNearbyBlocks" in preset["condition"]:
+            doc.addHeader(depth+1, "Needed Nearby Blocks")
+            doc.addUnorderedList(preset["condition"]["neededNearbyBlocks"])
+        
+        if "fluid" in preset["condition"]:
+            doc.writeTextLine("Fluid: " + str(preset["condition"]["fluid"]))
+
+    if "anticondition" in preset:
+        doc.addHeader(depth, "Anti-Conditions")
+        if "minY" in preset["anticondition"]:
+            doc.writeTextLine("Min Y: " + str(preset["anticondition"]["minY"]))
+        
+        if "maxY" in preset["anticondition"]:
+            doc.writeTextLine("Max Y: " + str(preset["anticondition"]["maxY"]))
+
+        if "biomes" in preset["anticondition"]:
+            doc.addHeader(depth+1, "Biomes")
+            doc.addUnorderedList(preset["anticondition"]["biomes"])
+    
+        if "structures" in preset["anticondition"]:
+            doc.addHeader(depth+1, "Structures")
+            doc.addUnorderedList(preset["anticondition"]["structures"])
+        
+        if "neededBaseBlocks" in preset["anticondition"]:
+            doc.addHeader(depth+1, "Needed Blocks")
+            doc.addUnorderedList(preset["anticondition"]["neededBaseBlocks"])
+
+        if "neededNearbyBlocks" in preset["anticondition"]:
+            doc.addHeader(depth+1, "Needed Nearby Blocks")
+            doc.addUnorderedList(preset["anticondition"]["neededNearbyBlocks"])
+
+        if "fluid" in preset["anticondition"]:
+            doc.writeTextLine("Fluid: " + str(preset["anticondition"]["fluid"]))
+
 def write_world_preset(name, preset):
     with MarkdownGenerator(filename=(name + ".md"), enable_write=True) as doc:
         print(name)
         doc.addHeader(1, name)
-        doc.addHeader(2, "Conditions")
-        if "condition" in preset:
-            if "minY" in preset["condition"]:
-                doc.writeTextLine("Min Y: " + str(preset["condition"]["minY"]))
-
-            if "maxY" in preset["condition"]:
-                doc.writeTextLine("Max Y: " + str(preset["condition"]["maxY"]))
-
-            if "biomes" in preset["condition"]:
-                doc.addHeader(3, "Biomes")
-                doc.addUnorderedList(preset["condition"]["biomes"])
+        write_cond_anticond(doc, preset, 2)
         
-            if "structures" in preset["condition"]:
-                doc.addHeader(3, "Structures")
-                doc.addUnorderedList(preset["condition"]["structures"])
-            
-            if "neededBaseBlocks" in preset["condition"]:
-                doc.addHeader(3, "Needed Blocks")
-                doc.addUnorderedList(preset["condition"]["neededBaseBlocks"])
-            
-            if "fluid" in preset["condition"]:
-                doc.writeTextLine("Fluid: " + str(preset["condition"]["fluid"]))
-
-        if "anticondition" in preset:
-            doc.addHeader(2, "Anti-Conditions")
-            if "minY" in preset["anticondition"]:
-                doc.writeTextLine("Min Y: " + str(preset["anticondition"]["minY"]))
-            
-            if "maxY" in preset["anticondition"]:
-                doc.writeTextLine("Max Y: " + str(preset["anticondition"]["maxY"]))
-
-            if "biomes" in preset["anticondition"]:
-                doc.addHeader(3, "Biomes")
-                doc.addUnorderedList(preset["anticondition"]["biomes"])
-        
-            if "structures" in preset["anticondition"]:
-                doc.addHeader(3, "Structures")
-                doc.addUnorderedList(preset["anticondition"]["structures"])
-            
-            if "neededBaseBlocks" in preset["anticondition"]:
-                doc.addHeader(3, "Needed Blocks")
-                doc.addUnorderedList(preset["anticondition"]["neededBaseBlocks"])
-
-            if "fluid" in preset["anticondition"]:
-                doc.writeTextLine("Fluid: " + str(preset["anticondition"]["fluid"]))
         
 
 def load_pokemon_spawn_pool():
@@ -105,63 +163,14 @@ def write_spawn_data(name, data):
                     doc.writeTextLine("* " + doc.generateHrefNotation(preset, presets_path + "/" + preset + ".md"))
 
             preset = spawn
-            doc.addHeader(3, "Conditions")
-            if "condition" in spawn:
-                if "minY" in spawn["condition"]:
-                    doc.writeTextLine("Min Y: " + str(preset["condition"]["minY"]))
-
-                if "maxY" in spawn["condition"]:
-                    doc.writeTextLine("Max Y: " + str(preset["condition"]["maxY"]))
-
-                if "canSeeSky" in spawn["condition"]:
-                    doc.writeTextLine("Can See Sky: " + ("True" if preset["condition"]["canSeeSky"] else "False"))
-
-                if "biomes" in spawn["condition"]:
-                    doc.addHeader(4, "Biomes")
-                    doc.addUnorderedList(preset["condition"]["biomes"])
-            
-                if "structures" in spawn["condition"]:
-                    doc.addHeader(4, "Structures")
-                    doc.addUnorderedList(spawn["condition"]["structures"])
-                
-                if "neededBaseBlocks" in spawn["condition"]:
-                    doc.addHeader(4, "Needed Blocks")
-                    doc.addUnorderedList(spawn["condition"]["neededBaseBlocks"])
-
-                if "fluid" in preset["condition"]:
-                    doc.writeTextLine("Fluid: " + str(preset["condition"]["fluid"]))
-
-            if "anticondition" in spawn:
-                doc.addHeader(3, "Anti-Conditions")
-                if "minY" in spawn["anticondition"]:
-                    doc.writeTextLine("Min Y: " + str(spawn["anticondition"]["minY"]))
-                
-                if "maxY" in spawn["anticondition"]:
-                    doc.writeTextLine("Max Y: " + str(spawn["anticondition"]["maxY"]))
-
-                if "canSeeSky" in spawn["anticondition"]:
-                    doc.writeTextLine("Can See Sky: " + ("True" if preset["anticondition"]["canSeeSky"] else "False"))
-
-                if "biomes" in spawn["anticondition"]:
-                    doc.addHeader(4, "Biomes")
-                    doc.addUnorderedList(spawn["anticondition"]["biomes"])
-            
-                if "structures" in spawn["anticondition"]:
-                    doc.addHeader(4, "Structures")
-                    doc.addUnorderedList(spawn["anticondition"]["structures"])
-                
-                if "neededBaseBlocks" in spawn["anticondition"]:
-                    doc.addHeader(4, "Needed Blocks")
-                    doc.addUnorderedList(spawn["anticondition"]["neededBaseBlocks"])
-
-                if "fluid" in preset["anticondition"]:
-                    doc.writeTextLine("Fluid: " + str(preset["anticondition"]["fluid"]))
+            write_cond_anticond(doc, preset, 3)
 
 
 def main():
     create_dir_if_ne("data")
     load_world_conditions()
     load_pokemon_spawn_pool()
+    load_pokemon_data()
 
 if __name__ == "__main__":
     main()

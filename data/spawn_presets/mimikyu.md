@@ -21,7 +21,6 @@ Levels: 23-48
 * [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

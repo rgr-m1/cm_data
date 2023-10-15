@@ -13,6 +13,10 @@ Levels: 29-49
   * #cobblemon:is_overworld
   
   
+#### Needed Nearby Blocks  
+  * minecraft:carved_pumpkin
+  
+  
 ## gourgeist-2  
 Rarity: uncommon  
 Levels: 29-49  

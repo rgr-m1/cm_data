@@ -8,7 +8,6 @@ Levels: 5-31
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_frozen_ocean
@@ -22,7 +21,6 @@ Levels: 5-31
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_frozen_ocean

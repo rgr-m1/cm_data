@@ -9,7 +9,6 @@ Levels: 26-48
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle
@@ -31,7 +30,6 @@ Levels: 26-48
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle

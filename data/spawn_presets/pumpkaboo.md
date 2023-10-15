@@ -13,6 +13,11 @@ Levels: 9-34
   * #cobblemon:is_overworld
   
   
+#### Needed Nearby Blocks  
+  * minecraft:pumpkin
+  * minecraft:carved_pumpkin
+  
+  
 ## pumpkaboo-2  
 Rarity: uncommon  
 Levels: 9-34  

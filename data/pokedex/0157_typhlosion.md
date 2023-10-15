@@ -1,0 +1,163 @@
+# Typhlosion  
+Primary Type: fire  
+  
+## Spawn Locations  
+[Typhlosion](/data/spawn_presets/typhlosion.md)  
+  
+## Abilities  
+  * blaze
+  * h:flashfire
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | doubleedge |  
+| 1 | ember |  
+| 1 | eruption |  
+| 1 | gyroball |  
+| 1 | leer |  
+| 1 | smokescreen |  
+| 1 | tackle |  
+| 13 | quickattack |  
+| 20 | flamewheel |  
+| 24 | defensecurl |  
+| 31 | swift |  
+| 35 | flamecharge |  
+| 43 | lavaplume |  
+| 48 | flamethrower |  
+| 56 | inferno |  
+| 61 | rollout |  
+| 74 | burnup |  
+| 74 | overheat |  
+| tm | aerialace |  
+| tm | attract |  
+| tm | blastburn |  
+| tm | bodyslam |  
+| tm | brickbreak |  
+| tm | bulldoze |  
+| tm | captivate |  
+| tm | confide |  
+| tm | cut |  
+| tm | dig |  
+| tm | doubleteam |  
+| tm | earthquake |  
+| tm | endure |  
+| tm | facade |  
+| tm | fireblast |  
+| tm | firefang |  
+| tm | firepledge |  
+| tm | firepunch |  
+| tm | firespin |  
+| tm | flamecharge |  
+| tm | flamethrower |  
+| tm | flareblitz |  
+| tm | fling |  
+| tm | focusblast |  
+| tm | focuspunch |  
+| tm | frustration |  
+| tm | gigaimpact |  
+| tm | gyroball |  
+| tm | heatwave |  
+| tm | helpinghand |  
+| tm | hiddenpower |  
+| tm | hyperbeam |  
+| tm | incinerate |  
+| tm | ironhead |  
+| tm | lowkick |  
+| tm | naturalgift |  
+| tm | naturepower |  
+| tm | overheat |  
+| tm | playrough |  
+| tm | poweruppunch |  
+| tm | protect |  
+| tm | rest |  
+| tm | return |  
+| tm | reversal |  
+| tm | roar |  
+| tm | rockclimb |  
+| tm | rockslide |  
+| tm | rocksmash |  
+| tm | rocktomb |  
+| tm | round |  
+| tm | secretpower |  
+| tm | shadowball |  
+| tm | shadowclaw |  
+| tm | sleeptalk |  
+| tm | solarbeam |  
+| tm | stompingtantrum |  
+| tm | strength |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | swagger |  
+| tm | swift |  
+| tm | takedown |  
+| tm | terablast |  
+| tm | thunderpunch |  
+| tm | toxic |  
+| tm | wildcharge |  
+| tm | willowisp |  
+| tm | workup |  
+| tm | zenheadbutt |  
+| tutor | attract |  
+| tutor | blastburn |  
+| tutor | bodyslam |  
+| tutor | counter |  
+| tutor | covet |  
+| tutor | curse |  
+| tutor | cut |  
+| tutor | defensecurl |  
+| tutor | detect |  
+| tutor | dig |  
+| tutor | doubleedge |  
+| tutor | doubleteam |  
+| tutor | dynamicpunch |  
+| tutor | earthquake |  
+| tutor | ember |  
+| tutor | endure |  
+| tutor | fireblast |  
+| tutor | firepledge |  
+| tutor | firepunch |  
+| tutor | flamecharge |  
+| tutor | flamethrower |  
+| tutor | flamewheel |  
+| tutor | focuspunch |  
+| tutor | frustration |  
+| tutor | furycutter |  
+| tutor | headbutt |  
+| tutor | heatwave |  
+| tutor | hiddenpower |  
+| tutor | hyperbeam |  
+| tutor | irontail |  
+| tutor | laserfocus |  
+| tutor | leer |  
+| tutor | lowkick |  
+| tutor | megakick |  
+| tutor | megapunch |  
+| tutor | mimic |  
+| tutor | mudslap |  
+| tutor | overheat |  
+| tutor | protect |  
+| tutor | quickattack |  
+| tutor | rest |  
+| tutor | return |  
+| tutor | roar |  
+| tutor | rockslide |  
+| tutor | rocksmash |  
+| tutor | rollout |  
+| tutor | seismictoss |  
+| tutor | sleeptalk |  
+| tutor | smokescreen |  
+| tutor | snore |  
+| tutor | stompingtantrum |  
+| tutor | strength |  
+| tutor | substitute |  
+| tutor | sunnyday |  
+| tutor | swagger |  
+| tutor | swift |  
+| tutor | tackle |  
+| tutor | throatchop |  
+| tutor | thunderpunch |  
+| tutor | toxic |  
+  

@@ -9,7 +9,6 @@ Levels: 7-32
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## psyduck-2  
 Rarity: common  
@@ -20,4 +19,3 @@ Levels: 7-32
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  

@@ -9,7 +9,6 @@ Levels: 2-27
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## surskit-2  
 Rarity: common  

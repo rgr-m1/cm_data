@@ -14,6 +14,10 @@ Levels: 22-47
   * #cobblemon:is_thermal
   
   
+#### Needed Nearby Blocks  
+  * minecraft:coal_ore
+  
+  
 ## torkoal-2  
 Rarity: uncommon  
 Levels: 22-47  
@@ -22,10 +26,13 @@ Levels: 22-47
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #minecraft:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:coal_ore
   
   
 ### Anti-Conditions  

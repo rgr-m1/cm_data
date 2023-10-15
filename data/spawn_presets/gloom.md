@@ -8,7 +8,6 @@ Levels: 21-40
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle
@@ -22,7 +21,6 @@ Levels: 21-40
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_temperate
@@ -36,7 +34,6 @@ Levels: 21-40
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_savanna

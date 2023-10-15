@@ -13,7 +13,7 @@ Levels: 10-35
   * #cobblemon:is_nether_quartz
   
   
-#### Needed Blocks  
+#### Needed Base Blocks  
   * minecraft:quartz_block
   
   
@@ -26,7 +26,6 @@ Levels: 10-35
 * [gemstones](/data/world_presets/gemstones.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

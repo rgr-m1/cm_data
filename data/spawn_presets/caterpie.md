@@ -9,7 +9,6 @@ Levels: 1-20
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_forest
@@ -32,7 +31,6 @@ Levels: 1-20
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_plains
@@ -47,7 +45,6 @@ Levels: 1-20
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle

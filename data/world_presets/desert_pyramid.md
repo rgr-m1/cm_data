@@ -7,6 +7,15 @@ Min Y: 62
   * minecraft:desert_pyramid
   
   
+### Needed Nearby Blocks  
+  * minecraft:chiseled_sandstone
+  * minecraft:cut_sandstone
+  * minecraft:orange_terracotta
+  * minecraft:sandstone
+  * minecraft:sandstone_slab
+  * minecraft:sandstone_stairs
+  
+  
 ## Anti-Conditions  
   
 ### Needed Blocks  

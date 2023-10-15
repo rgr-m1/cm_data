@@ -8,7 +8,6 @@ Levels: 27-52
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_freezing

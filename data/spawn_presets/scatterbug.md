@@ -9,7 +9,6 @@ Levels: 1-20
 * [foliage](/data/world_presets/foliage.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_floral

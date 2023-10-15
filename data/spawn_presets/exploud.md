@@ -8,7 +8,6 @@ Levels: 40-49
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_deep_dark
@@ -23,7 +22,6 @@ Levels: 40-49
   
 ### Conditions  
 Max Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

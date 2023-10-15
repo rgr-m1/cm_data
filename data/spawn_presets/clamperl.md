@@ -9,7 +9,6 @@ Levels: 10-35
   
 ### Conditions  
 Max Y: 48  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_deep_ocean
@@ -23,7 +22,6 @@ Levels: 10-35
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_warm_ocean

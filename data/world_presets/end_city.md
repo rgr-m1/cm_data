@@ -6,8 +6,16 @@
   * minecraft:end_city
   
   
-### Needed Blocks  
+### Needed Base Blocks  
   * minecraft:end_stone_bricks
   * minecraft:purpur_block
   * minecraft:purpur_pillar
+  
+  
+### Needed Nearby Blocks  
+  * minecraft:end_stone_bricks
+  * minecraft:purpur_block
+  * minecraft:purpur_pillar
+  * minecraft:purpur_slab
+  * minecraft:purpur_stairs
   

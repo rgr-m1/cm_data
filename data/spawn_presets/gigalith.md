@@ -9,7 +9,6 @@ Levels: 34-52
   
 ### Conditions  
 Max Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -29,7 +28,6 @@ Levels: 34-52
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_deep_dark

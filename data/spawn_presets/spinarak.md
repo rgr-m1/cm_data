@@ -9,7 +9,6 @@ Levels: 1-25
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_forest
@@ -31,7 +30,6 @@ Levels: 1-25
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -52,7 +50,6 @@ Levels: 1-25
   
 ### Conditions  
 Min Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -72,7 +69,6 @@ Levels: 1-25
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * terralith:cave/infested_caves
@@ -86,8 +82,11 @@ Levels: 1-25
 * [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:cobweb
   

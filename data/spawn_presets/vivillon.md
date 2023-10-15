@@ -9,7 +9,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_badlands
@@ -24,7 +23,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * minecraft:cherry_grove
@@ -39,7 +37,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_coast
@@ -55,7 +52,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_desert
@@ -70,7 +66,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_floral
@@ -101,7 +96,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_forest
@@ -117,7 +111,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## vivillon-polar-1  
 Rarity: common  
@@ -128,7 +121,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_frozen_ocean
@@ -143,7 +135,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_glacial
@@ -160,7 +151,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_jungle
@@ -175,7 +165,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_mountain
@@ -190,7 +179,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_mushroom
@@ -205,7 +193,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #minecraft:is_ocean
@@ -221,7 +208,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -236,7 +222,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_plains
@@ -251,7 +236,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_savanna
@@ -266,7 +250,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_sky
@@ -283,7 +266,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_magical
@@ -299,7 +281,6 @@ Levels: 12-41
 * [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_taiga

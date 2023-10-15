@@ -10,7 +10,6 @@ Levels: 24-49
 * [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -28,7 +27,6 @@ Levels: 24-49
 * [trail_ruins](/data/world_presets/trail_ruins.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld

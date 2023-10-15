@@ -8,7 +8,6 @@ Levels: 39-50
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_spooky
@@ -22,7 +21,6 @@ Levels: 39-50
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_spooky
@@ -37,7 +35,6 @@ Levels: 39-50
 * [derelict](/data/world_presets/derelict.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_spooky
@@ -52,7 +49,6 @@ Levels: 39-50
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_swamp

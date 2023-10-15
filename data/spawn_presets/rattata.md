@@ -8,7 +8,6 @@ Levels: 1-25
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_grassland
@@ -29,7 +28,6 @@ Levels: 1-25
   
 ### Conditions  
 Min Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -50,7 +48,6 @@ Levels: 1-25
   
 ### Conditions  
 Min Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -71,7 +68,6 @@ Levels: 1-25
   
 ### Conditions  
 Max Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -92,7 +88,6 @@ Levels: 1-25
   
 ### Conditions  
 Max Y: 0  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -112,7 +107,6 @@ Levels: 1-25
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_spooky
@@ -126,7 +120,6 @@ Levels: 1-25
 * [derelict](/data/world_presets/derelict.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_spooky

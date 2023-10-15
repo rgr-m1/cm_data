@@ -5,7 +5,6 @@ Rarity: uncommon
 Levels: 24-46  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_forest
@@ -19,7 +18,6 @@ Rarity: uncommon
 Levels: 24-46  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_magical

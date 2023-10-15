@@ -9,7 +9,6 @@ Levels: 16-42
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## drizzile-2  
 Rarity: ultra-rare  
@@ -20,4 +19,3 @@ Levels: 16-42
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  

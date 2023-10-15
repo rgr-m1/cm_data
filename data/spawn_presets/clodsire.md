@@ -8,7 +8,6 @@ Levels: 20-43
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * minecraft:mangrove_swamp
@@ -22,7 +21,6 @@ Levels: 20-43
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * minecraft:mangrove_swamp
@@ -36,10 +34,13 @@ Levels: 20-43
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_savanna
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:water
   
   
 ## clodsire-4  
@@ -50,7 +51,6 @@ Levels: 20-43
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_savanna

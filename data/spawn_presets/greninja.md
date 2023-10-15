@@ -9,7 +9,6 @@ Levels: 36-53
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## greninja-2  
 Rarity: ultra-rare  
@@ -20,4 +19,3 @@ Levels: 36-53
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  

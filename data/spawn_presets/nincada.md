@@ -9,7 +9,6 @@ Levels: 2-27
   
 ### Conditions  
 Min Y: 32  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_forest

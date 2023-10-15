@@ -2,7 +2,7 @@
   
 ## Conditions  
   
-### Needed Blocks  
+### Needed Base Blocks  
   * #minecraft:leaves
   * #minecraft:logs
   * #minecraft:overworld_natural_logs

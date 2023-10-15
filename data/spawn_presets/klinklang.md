@@ -8,10 +8,14 @@ Levels: 49-52
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * #c:redstone_ores
+  * minecraft:rail
   
   
 ### Anti-Conditions  
@@ -31,4 +35,11 @@ Levels: 49-52
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * create:cogwheel
+  * create:large_cogwheel
+  * create:gearbox
+  * create:vertical_gearbox
   

@@ -9,7 +9,6 @@ Levels: 24-53
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_mountain

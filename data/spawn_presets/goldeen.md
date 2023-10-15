@@ -9,4 +9,3 @@ Levels: 7-32
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  

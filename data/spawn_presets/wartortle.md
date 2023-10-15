@@ -9,7 +9,6 @@ Levels: 16-40
 * [river](/data/world_presets/river.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## wartortle-2  
 Rarity: ultra-rare  
@@ -20,4 +19,3 @@ Levels: 16-40
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  

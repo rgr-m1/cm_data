@@ -9,7 +9,6 @@ Levels: 1-20
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## magikarp-2  
 Rarity: common  
@@ -20,7 +19,6 @@ Levels: 1-20
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## magikarp-3  
 Rarity: common  
@@ -30,7 +28,6 @@ Levels: 1-20
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean
@@ -44,7 +41,6 @@ Levels: 1-20
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean

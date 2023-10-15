@@ -59,6 +59,10 @@ Levels: 1-25
   * #cobblemon:is_volcanic
   
   
+#### Needed Nearby Blocks  
+  * minecraft:lava
+  
+  
 ## slugma-5  
 Rarity: common  
 Levels: 1-25  

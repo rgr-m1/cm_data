@@ -19,8 +19,13 @@ Rarity: uncommon
 Levels: 8-33  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:iron_bars
+  * minecraft:cracked_stone_bricks
+  * minecraft:infested_cracked_stone_bricks
   

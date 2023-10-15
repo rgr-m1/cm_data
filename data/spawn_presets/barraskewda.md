@@ -8,7 +8,6 @@ Levels: 26-49
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * minecraft:mangrove_swamp

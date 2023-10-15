@@ -9,4 +9,3 @@ Levels: 5-31
 * [river](/data/world_presets/river.md)  
   
 ### Conditions  
-Can See Sky: True  

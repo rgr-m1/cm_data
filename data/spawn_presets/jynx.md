@@ -9,7 +9,6 @@ Levels: 30-46
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_freezing
@@ -30,7 +29,6 @@ Levels: 30-46
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_freezing

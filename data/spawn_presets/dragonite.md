@@ -9,10 +9,13 @@ Levels: 55-60
   
 ### Conditions  
 Max Y: 32  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:water
   
   
 ## dragonite-2  
@@ -23,7 +26,6 @@ Levels: 55-60
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_sky
@@ -38,7 +40,6 @@ Levels: 55-60
 * [ocean_ruins](/data/world_presets/ocean_ruins.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_ocean

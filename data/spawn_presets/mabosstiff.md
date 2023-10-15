@@ -9,7 +9,6 @@ Levels: 30-51
 * [pillager_outpost](/data/world_presets/pillager_outpost.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -24,7 +23,6 @@ Levels: 30-51
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -45,7 +43,6 @@ Levels: 30-51
 * [village](/data/world_presets/village.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld
@@ -60,7 +57,6 @@ Levels: 30-51
 * [mansion](/data/world_presets/mansion.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_overworld

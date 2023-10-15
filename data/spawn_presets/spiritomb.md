@@ -8,7 +8,6 @@ Levels: 24-49
 * [ancient_city](/data/world_presets/ancient_city.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_deep_dark
@@ -37,7 +36,6 @@ Levels: 24-49
 * [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_overworld

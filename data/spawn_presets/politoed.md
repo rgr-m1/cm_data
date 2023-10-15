@@ -9,7 +9,6 @@ Levels: 34-50
 * [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## politoed-2  
 Rarity: common  
@@ -20,7 +19,10 @@ Levels: 34-50
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
+  
+#### Needed Nearby Blocks  
+  * minecraft:lily_pad
+  
   
 ## politoed-3  
 Rarity: common  
@@ -30,7 +32,6 @@ Levels: 34-50
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush
@@ -44,7 +45,6 @@ Levels: 34-50
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: False  
   
 #### Biomes  
   * #cobblemon:is_lush

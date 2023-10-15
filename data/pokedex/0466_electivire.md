@@ -1,0 +1,153 @@
+# Electivire  
+Primary Type: electric  
+  
+## Spawn Locations  
+[Electivire](/data/spawn_presets/electivire.md)  
+  
+## Abilities  
+  * motordrive
+  * h:vitalspirit
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | charge |  
+| 1 | electricterrain |  
+| 1 | firepunch |  
+| 1 | iondeluge |  
+| 1 | leer |  
+| 1 | lowkick |  
+| 1 | quickattack |  
+| 1 | thundershock |  
+| 12 | swift |  
+| 15 | shockwave |  
+| 16 | shockwave |  
+| 16 | swift |  
+| 19 | shockwave |  
+| 19 | thunderwave |  
+| 20 | thunderwave |  
+| 21 | shockwave |  
+| 22 | electroball |  
+| 24 | screech |  
+| 25 | lightscreen |  
+| 26 | lightscreen |  
+| 28 | thunderpunch |  
+| 29 | thunderpunch |  
+| 32 | electroball |  
+| 34 | discharge |  
+| 36 | discharge |  
+| 37 | discharge |  
+| 38 | thunderpunch |  
+| 40 | lowkick |  
+| 42 | screech |  
+| 43 | thunderbolt |  
+| 44 | discharge |  
+| 46 | thunderbolt |  
+| 49 | thunderbolt |  
+| 50 | thunderbolt |  
+| 52 | lightscreen |  
+| 52 | screech |  
+| 55 | thunder |  
+| 56 | screech |  
+| 58 | thunder |  
+| 62 | gigaimpact |  
+| 62 | thunder |  
+| 64 | gigaimpact |  
+| 67 | gigaimpact |  
+| 68 | gigaimpact |  
+| tm | attract |  
+| tm | bodyslam |  
+| tm | brickbreak |  
+| tm | bulldoze |  
+| tm | captivate |  
+| tm | chargebeam |  
+| tm | confide |  
+| tm | darkestlariat |  
+| tm | dig |  
+| tm | doubleteam |  
+| tm | earthquake |  
+| tm | electricterrain |  
+| tm | electroball |  
+| tm | electroweb |  
+| tm | endure |  
+| tm | facade |  
+| tm | firepunch |  
+| tm | flamethrower |  
+| tm | flash |  
+| tm | fling |  
+| tm | focusblast |  
+| tm | focuspunch |  
+| tm | frustration |  
+| tm | gigaimpact |  
+| tm | helpinghand |  
+| tm | hiddenpower |  
+| tm | hyperbeam |  
+| tm | icepunch |  
+| tm | irontail |  
+| tm | lightscreen |  
+| tm | lowkick |  
+| tm | lowsweep |  
+| tm | megakick |  
+| tm | megapunch |  
+| tm | naturalgift |  
+| tm | poweruppunch |  
+| tm | protect |  
+| tm | psychic |  
+| tm | raindance |  
+| tm | rest |  
+| tm | return |  
+| tm | rockclimb |  
+| tm | rockslide |  
+| tm | rocksmash |  
+| tm | rocktomb |  
+| tm | round |  
+| tm | screech |  
+| tm | secretpower |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | snore |  
+| tm | stompingtantrum |  
+| tm | strength |  
+| tm | substitute |  
+| tm | swagger |  
+| tm | swift |  
+| tm | taunt |  
+| tm | thief |  
+| tm | thunder |  
+| tm | thunderbolt |  
+| tm | thunderpunch |  
+| tm | thunderwave |  
+| tm | torment |  
+| tm | toxic |  
+| tm | uproar |  
+| tm | voltswitch |  
+| tm | weatherball |  
+| tm | wildcharge |  
+| tutor | covet |  
+| tutor | crosschop |  
+| tutor | discharge |  
+| tutor | dualchop |  
+| tutor | earthquake |  
+| tutor | electroweb |  
+| tutor | firepunch |  
+| tutor | focuspunch |  
+| tutor | headbutt |  
+| tutor | helpinghand |  
+| tutor | icepunch |  
+| tutor | irontail |  
+| tutor | lightscreen |  
+| tutor | lowkick |  
+| tutor | magnetrise |  
+| tutor | mudslap |  
+| tutor | risingvoltage |  
+| tutor | shockwave |  
+| tutor | signalbeam |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | stompingtantrum |  
+| tutor | swift |  
+| tutor | thunderbolt |  
+| tutor | thunderpunch |  
+  

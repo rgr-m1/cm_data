@@ -9,7 +9,6 @@ Levels: 5-31
 * [river](/data/world_presets/river.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## squirtle-2  
 Rarity: ultra-rare  
@@ -20,4 +19,3 @@ Levels: 5-31
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  

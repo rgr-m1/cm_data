@@ -9,7 +9,6 @@ Levels: 3-28
 * [wild](/data/world_presets/wild.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_badlands
@@ -43,6 +42,6 @@ Levels: 3-28
   * #cobblemon:is_nether_quartz
   
   
-#### Needed Blocks  
+#### Needed Base Blocks  
   * minecraft:quartz_block
   

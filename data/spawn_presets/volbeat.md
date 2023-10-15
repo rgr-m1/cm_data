@@ -10,7 +10,6 @@ Levels: 18-43
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## volbeat-2  
 Rarity: common  
@@ -21,7 +20,6 @@ Levels: 18-43
 * [water_surface](/data/world_presets/water_surface.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 ## volbeat-3  
 Rarity: common  

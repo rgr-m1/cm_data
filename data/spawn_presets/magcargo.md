@@ -59,6 +59,10 @@ Levels: 38-43
   * #cobblemon:is_volcanic
   
   
+#### Needed Nearby Blocks  
+  * minecraft:lava
+  
+  
 ## magcargo-5  
 Rarity: common  
 Levels: 38-43  

@@ -8,7 +8,6 @@ Levels: 8-33
 * [underwater](/data/world_presets/underwater.md)  
   
 ### Conditions  
-Can See Sky: True  
   
 #### Biomes  
   * #cobblemon:is_warm_ocean
