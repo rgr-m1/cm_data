@@ -16,7 +16,7 @@ Levels: 3-28
   * #cobblemon:is_taiga
   
   
-## fletchling-2  
+## fletchling-3  
 Rarity: common  
 Levels: 3-28  
   
@@ -27,6 +27,12 @@ Levels: 3-28
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
-  * #cobblemon:is_nether_fungus
+  * #cobblemon:nether/is_forest
+  * #cobblemon:nether/is_fungus
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:nether/is_warped
   

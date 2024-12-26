@@ -42,14 +42,18 @@ Secondary Type: flying
 | tm | bravebird |  
 | tm | confide |  
 | tm | defog |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fly |  
 | tm | frostbreath |  
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | hail |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hurricane |  
@@ -85,6 +89,7 @@ Secondary Type: flying
 | tm | takedown |  
 | tm | terablast |  
 | tm | toxic |  
+| tm | tripleaxel |  
 | tm | uturn |  
 | tm | waterpulse |  
 | tm | weatherball |  
@@ -92,7 +97,6 @@ Secondary Type: flying
 | tutor | aircutter |  
 | tutor | ancientpower |  
 | tutor | bide |  
-| tutor | blizzard |  
 | tutor | bubblebeam |  
 | tutor | curse |  
 | tutor | defog |  
@@ -108,11 +112,9 @@ Secondary Type: flying
 | tutor | frustration |  
 | tutor | gust |  
 | tutor | hail |  
-| tutor | haze |  
 | tutor | headbutt |  
 | tutor | healbell |  
 | tutor | hiddenpower |  
-| tutor | hurricane |  
 | tutor | hyperbeam |  
 | tutor | icebeam |  
 | tutor | iceshard |  

@@ -1,19 +1,6 @@
 # data/spawn_presets/haunter spawns  
   
 ## haunter-1  
-Rarity: uncommon  
-Levels: 25-41  
-  
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_deep_dark
-  
-  
-## haunter-2  
 Rarity: common  
 Levels: 25-41  
   
@@ -32,7 +19,7 @@ Levels: 25-41
   * #cobblemon:is_deep_dark
   
   
-## haunter-3  
+## haunter-2  
 Rarity: uncommon  
 Levels: 25-41  
   
@@ -51,7 +38,7 @@ Levels: 25-41
   * #cobblemon:is_deep_dark
   
   
-## haunter-4  
+## haunter-3  
 Rarity: common  
 Levels: 25-41  
   
@@ -64,7 +51,7 @@ Levels: 25-41
   * #cobblemon:is_spooky
   
   
-## haunter-5  
+## haunter-4  
 Rarity: common  
 Levels: 25-41  
   

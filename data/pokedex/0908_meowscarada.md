@@ -14,10 +14,12 @@ Secondary Type: dark
   
 | Source | Move |  
 |:---:|:---:|  
+| 1 | doubleteam |  
+| 1 | flowertrick |  
 | 1 | leafage |  
 | 1 | scratch |  
 | 1 | tailwhip |  
-| 1 | flowertrick |  
+| 1 | trick |  
 | 7 | bite |  
 | 10 | honeclaws |  
 | 13 | magicalleaf |  
@@ -54,19 +56,24 @@ Secondary Type: dark
 | tm | gigaimpact |  
 | tm | grassknot |  
 | tm | grasspledge |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hyperbeam |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | leafstorm |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | magicalleaf |  
 | tm | mudslap |  
 | tm | nastyplot |  
+| tm | petalblizzard |  
 | tm | playrough |  
 | tm | pollenpuff |  
 | tm | powergem |  
 | tm | protect |  
+| tm | psychup |  
 | tm | rest |  
 | tm | seedbomb |  
 | tm | shadowball |  
@@ -81,10 +88,12 @@ Secondary Type: dark
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunderpunch |  
 | tm | toxicspikes |  
 | tm | trailblaze |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | tripleaxel |  
 | tm | uturn |  
   

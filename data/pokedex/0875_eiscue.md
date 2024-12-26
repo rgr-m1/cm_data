@@ -40,8 +40,11 @@ Primary Type: ice
 | tm | brine |  
 | tm | chillingwater |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
+| tm | flipturn |  
 | tm | gigaimpact |  
 | tm | hail |  
 | tm | hydropump |  

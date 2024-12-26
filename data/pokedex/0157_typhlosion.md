@@ -37,12 +37,16 @@ Primary Type: fire
 | tm | bodyslam |  
 | tm | brickbreak |  
 | tm | bulldoze |  
+| tm | burningjealousy |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -81,6 +85,7 @@ Primary Type: fire
 | tm | rocksmash |  
 | tm | rocktomb |  
 | tm | round |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | shadowball |  
 | tm | shadowclaw |  
@@ -93,7 +98,9 @@ Primary Type: fire
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
+| tm | throatchop |  
 | tm | thunderpunch |  
 | tm | toxic |  
 | tm | wildcharge |  

@@ -10,7 +10,7 @@ Levels: 42-49
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   
   
 ## beheeyem-2  
@@ -23,14 +23,14 @@ Levels: 42-49
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_overworld
+  * #cobblemon:is_overworld
   
   
 #### Needed Nearby Blocks  
   * minecraft:wheat
   
   
-## beheeyem-2  
+## beheeyem-3  
 Rarity: common  
 Levels: 42-49  
   

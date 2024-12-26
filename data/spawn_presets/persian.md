@@ -22,22 +22,21 @@ Levels: 28-44
   * #cobblemon:is_taiga
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## persian-2  
 Rarity: common  
 Levels: 28-44  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  
@@ -62,19 +61,12 @@ Levels: 28-44
   * #cobblemon:is_arid
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## persian-4  
 Rarity: common  
 Levels: 28-44  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
@@ -82,7 +74,11 @@ Levels: 28-44
   * #cobblemon:is_arid
   
   
-## persian-alolan-1  
+#### Structures  
+  * #minecraft:village
+  
+  
+## persian-alolan-5  
 Rarity: common  
 Levels: 28-44  
   
@@ -103,7 +99,7 @@ Levels: 28-44
   * #cobblemon:is_freezing
   
   
-## persian-alolan-2  
+## persian-alolan-6  
 Rarity: common  
 Levels: 28-44  
   
@@ -118,7 +114,7 @@ Levels: 28-44
   * #cobblemon:is_freezing
   
   
-## persian-alolan-3  
+## persian-alolan-7  
 Rarity: uncommon  
 Levels: 28-44  
   

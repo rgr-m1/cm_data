@@ -57,6 +57,7 @@ Primary Type: water
 | tm | facade |  
 | tm | falseswipe |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | frustration |  
 | tm | grassknot |  
 | tm | hail |  
@@ -65,6 +66,7 @@ Primary Type: water
 | tm | hydropump |  
 | tm | icebeam |  
 | tm | icywind |  
+| tm | knockoff |  
 | tm | liquidation |  
 | tm | protect |  
 | tm | raindance |  
@@ -90,6 +92,7 @@ Primary Type: water
 | tm | waterfall |  
 | tm | waterpledge |  
 | tm | waterpulse |  
+| tm | whirlpool |  
 | tm | workup |  
 | tm | xscissor |  
 | tutor | aquatail |  

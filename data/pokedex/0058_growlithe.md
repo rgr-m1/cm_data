@@ -59,7 +59,9 @@ Primary Type: fire
 | tm | closecombat |  
 | tm | confide |  
 | tm | crunch |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | endure |  
 | tm | facade |  
@@ -100,6 +102,7 @@ Primary Type: fire
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thief |  
 | tm | thunderfang |  

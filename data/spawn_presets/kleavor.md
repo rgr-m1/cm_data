@@ -12,6 +12,7 @@ Levels: 45-50
   
 #### Biomes  
   * #cobblemon:is_forest
+  * #cobblemon:is_hills
   
   
 ### Anti-Conditions  

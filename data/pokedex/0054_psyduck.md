@@ -61,16 +61,20 @@ Primary Type: water
 | tm | confuseray |  
 | tm | dig |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | flash |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | focuspunch |  
 | tm | frustration |  
 | tm | futuresight |  
 | tm | hail |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | honeclaws |  
@@ -79,6 +83,7 @@ Primary Type: water
 | tm | icepunch |  
 | tm | icywind |  
 | tm | irontail |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | liquidation |  
 | tm | lowkick |  
@@ -86,6 +91,7 @@ Primary Type: water
 | tm | megakick |  
 | tm | megapunch |  
 | tm | metronome |  
+| tm | muddywater |  
 | tm | mudshot |  
 | tm | nastyplot |  
 | tm | naturalgift |  
@@ -94,6 +100,7 @@ Primary Type: water
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
+| tm | psychicnoise |  
 | tm | psychup |  
 | tm | psyshock |  
 | tm | raindance |  
@@ -120,6 +127,7 @@ Primary Type: water
 | tm | thief |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | vacuumwave |  
 | tm | waterfall |  
 | tm | waterpulse |  
 | tm | whirlpool |  

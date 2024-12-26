@@ -19,7 +19,7 @@ Levels: 16-32
   * #cobblemon:is_spooky
   
   
-## pikachu-alolan-1  
+## pikachu-alola-2  
 Rarity: uncommon  
 Levels: 16-32  
   
@@ -31,4 +31,10 @@ Levels: 16-32
 #### Biomes  
   * #cobblemon:is_beach
   * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
   

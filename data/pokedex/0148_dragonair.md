@@ -39,6 +39,7 @@ Primary Type: dragon
 | tm | confide |  
 | tm | doubleteam |  
 | tm | dracometeor |  
+| tm | dragoncheer |  
 | tm | dragondance |  
 | tm | dragonpulse |  
 | tm | dragontail |  
@@ -50,6 +51,7 @@ Primary Type: dragon
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | hail |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hydropump |  
@@ -68,6 +70,7 @@ Primary Type: dragon
 | tm | return |  
 | tm | round |  
 | tm | safeguard |  
+| tm | scaleshot |  
 | tm | secretpower |  
 | tm | shockwave |  
 | tm | sleeptalk |  
@@ -85,6 +88,7 @@ Primary Type: dragon
 | tm | toxic |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | whirlpool |  
 | tutor | agility |  
 | tutor | aquatail |  

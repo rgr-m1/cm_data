@@ -56,9 +56,11 @@ Secondary Type: flying
 | tm | confide |  
 | tm | defog |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | echoedvoice |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fly |  
 | tm | frustration |  
 | tm | hail |  
@@ -68,7 +70,9 @@ Secondary Type: flying
 | tm | hydropump |  
 | tm | icebeam |  
 | tm | icywind |  
+| tm | knockoff |  
 | tm | liquidation |  
+| tm | muddywater |  
 | tm | naturalgift |  
 | tm | pluck |  
 | tm | protect |  
@@ -97,6 +101,7 @@ Secondary Type: flying
 | tm | uturn |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | whirlpool |  
 | tutor | aircutter |  
 | tutor | defog |  
 | tutor | doubleedge |  

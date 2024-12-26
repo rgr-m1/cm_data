@@ -18,10 +18,34 @@ Rarity: common
 Levels: 1-22  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
 #### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## lotad-3  
+Rarity: common  
+Levels: 1-22  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_jungle
+  * #cobblemon:is_swamp
+  
+  
+## lotad-4  
+Rarity: common  
+Levels: 1-22  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_jungle
   * #cobblemon:is_swamp
   

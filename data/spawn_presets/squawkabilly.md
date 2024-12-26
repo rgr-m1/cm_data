@@ -22,6 +22,8 @@ Levels: 17-42
   
 ### World Presets  
 * [urban](/data/world_presets/urban.md)  
+* [natural](/data/world_presets/natural.md)  
+* [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
   
@@ -36,21 +38,22 @@ Levels: 17-42
   * #cobblemon:is_sandy
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## squawkabilly-3  
 Rarity: common  
 Levels: 17-42  
   
 ### World Presets  
-* [village](/data/world_presets/village.md)  
+* [natural](/data/world_presets/natural.md)  
+* [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

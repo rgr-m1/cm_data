@@ -26,7 +26,7 @@ Levels: 35-49
   * #cobblemon:is_jungle
   
   
-## bellossom-valencian-1  
+## bellossom-valencian-3  
 Rarity: common  
 Levels: 35-49  
   

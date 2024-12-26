@@ -34,12 +34,16 @@ Primary Type: electric
 | 54 | gyroball |  
 | 58 | mirrorcoat |  
 | tm | agility |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | eerieimpulse |  
 | tm | electricterrain |  
 | tm | electroball |  
+| tm | electroweb |  
 | tm | endure |  
 | tm | explosion |  
 | tm | facade |  
@@ -52,6 +56,7 @@ Primary Type: electric
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | lightscreen |  
+| tm | metalsound |  
 | tm | naturalgift |  
 | tm | protect |  
 | tm | raindance |  
@@ -63,6 +68,7 @@ Primary Type: electric
 | tm | shockwave |  
 | tm | sleeptalk |  
 | tm | substitute |  
+| tm | supercellslam |  
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  

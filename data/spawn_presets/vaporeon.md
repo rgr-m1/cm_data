@@ -6,19 +6,49 @@ Levels: 28-53
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_jungle
+  * #cobblemon:is_magical
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+#### Needed Nearby Blocks  
+  * #minecraft:water
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
   
 ## vaporeon-2  
 Rarity: ultra-rare  
 Levels: 28-53  
   
 ### World Presets  
-* [freshwater](/data/world_presets/freshwater.md)  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_jungle
+  * #cobblemon:is_magical
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
   
 ## vaporeon-3  
 Rarity: uncommon  
@@ -34,24 +64,21 @@ Levels: 28-53
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## vaporeon-4  
 Rarity: uncommon  
 Levels: 28-53  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## vaporeon-5  
@@ -65,4 +92,24 @@ Levels: 28-53
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+## vaporeon-6  
+Rarity: ultra-rare  
+Levels: 28-53  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_jungle
+  * #cobblemon:is_magical
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
   

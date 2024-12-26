@@ -39,6 +39,8 @@ Primary Type: water
 | tm | encore |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
+| tm | flipturn |  
 | tm | helpinghand |  
 | tm | hydropump |  
 | tm | liquidation |  
@@ -46,12 +48,17 @@ Primary Type: water
 | tm | lowsweep |  
 | tm | mistyterrain |  
 | tm | protect |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
+| tm | sleeptalk |  
+| tm | substitute |  
 | tm | surf |  
 | tm | swift |  
 | tm | takedown |  
 | tm | terablast |  
+| tm | tripleaxel |  
 | tm | waterpledge |  
 | tm | waterpulse |  
+| tm | whirlpool |  
   

@@ -14,6 +14,23 @@ Levels: 43-48
   
   
 ## golurk-2  
+Rarity: rare  
+Levels: 43-48  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #cobblemon:ruin
+  
+  
+## golurk-3  
 Rarity: common  
 Levels: 43-48  
   
@@ -26,22 +43,35 @@ Levels: 43-48
   * #cobblemon:is_overworld
   
   
-## golurk-3  
+## golurk-4  
 Rarity: common  
 Levels: 43-48  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
 * [desert_pyramid](/data/world_presets/desert_pyramid.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_desert
+  
+  
+## golurk-5  
+Rarity: common  
+Levels: 43-48  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
 * [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
   
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_overworld
+  * #cobblemon:is_jungle
   
   
-## golurk-4  
+## golurk-6  
 Rarity: common  
 Levels: 43-48  
   

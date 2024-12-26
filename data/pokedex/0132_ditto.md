@@ -14,5 +14,4 @@ Primary Type: normal
 | Source | Move |  
 |:---:|:---:|  
 | 1 | transform |  
-| tutor | transform |  
   

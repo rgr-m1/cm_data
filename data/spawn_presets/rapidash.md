@@ -23,11 +23,11 @@ Levels: 40-50
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_overgrowth
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_overgrowth
+  * #cobblemon:nether/is_wasteland
   
   
-## rapidash-galarian-1  
+## rapidash-galarian-3  
 Rarity: uncommon  
 Levels: 40-50  
   

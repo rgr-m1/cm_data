@@ -18,6 +18,10 @@ Primary Type: bug
 | 1 | tackle |  
 | 6 | strugglebug |  
 | 16 | bugbite |  
+| tm | bugbite |  
+| tm | endeavor |  
+| tm | lunge |  
+| tm | skittersmack |  
 | tm | strugglebug |  
 | tm | terablast |  
 | tutor | bugbite |  

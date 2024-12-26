@@ -36,7 +36,7 @@ Levels: 1-20
   * #cobblemon:is_plains
   
   
-## caterpie-valencian-1  
+## caterpie-valencian-3  
 Rarity: common  
 Levels: 1-20  
   
@@ -51,7 +51,7 @@ Levels: 1-20
   * #cobblemon:is_tropical_island
   
   
-## caterpie-valencian-2  
+## caterpie-valencian-4  
 Rarity: common  
 Levels: 1-20  
   

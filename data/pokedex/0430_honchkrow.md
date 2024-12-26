@@ -44,15 +44,20 @@ Secondary Type: flying
 | tm | confuseray |  
 | tm | darkpulse |  
 | tm | defog |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dreameater |  
+| tm | dualwingbeat |  
 | tm | embargo |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fly |  
 | tm | foulplay |  
 | tm | frustration |  
 | tm | gigaimpact |  
+| tm | haze |  
 | tm | heatwave |  
 | tm | helpinghand |  
 | tm | hex |  
@@ -61,6 +66,7 @@ Secondary Type: flying
 | tm | hyperbeam |  
 | tm | icywind |  
 | tm | incinerate |  
+| tm | lashout |  
 | tm | mudslap |  
 | tm | nastyplot |  
 | tm | naturalgift |  
@@ -69,6 +75,7 @@ Secondary Type: flying
 | tm | pluck |  
 | tm | protect |  
 | tm | psychic |  
+| tm | psychicnoise |  
 | tm | psychup |  
 | tm | quash |  
 | tm | raindance |  
@@ -83,6 +90,7 @@ Secondary Type: flying
 | tm | sleeptalk |  
 | tm | snarl |  
 | tm | snatch |  
+| tm | spite |  
 | tm | steelwing |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -95,6 +103,7 @@ Secondary Type: flying
 | tm | thunderwave |  
 | tm | torment |  
 | tm | toxic |  
+| tm | uproar |  
 | tm | uturn |  
 | tutor | aircutter |  
 | tutor | darkpulse |  

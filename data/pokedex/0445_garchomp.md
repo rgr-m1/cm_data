@@ -51,8 +51,10 @@ Secondary Type: ground
 | tm | crunch |  
 | tm | cut |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dracometeor |  
+| tm | dragoncheer |  
 | tm | dragonclaw |  
 | tm | dragonpulse |  
 | tm | dragontail |  
@@ -93,7 +95,9 @@ Secondary Type: ground
 | tm | round |  
 | tm | sandstorm |  
 | tm | sandtomb |  
+| tm | scaleshot |  
 | tm | scaryface |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | shadowclaw |  
 | tm | sleeptalk |  

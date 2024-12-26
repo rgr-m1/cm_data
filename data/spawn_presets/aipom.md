@@ -14,3 +14,19 @@ Levels: 11-36
   * #cobblemon:is_jungle
   * #cobblemon:is_tropical_island
   
+  
+## aipom-2  
+Rarity: common  
+Levels: 11-36  
+  
+### Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  

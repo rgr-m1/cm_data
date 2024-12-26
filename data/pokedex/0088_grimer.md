@@ -52,6 +52,7 @@ Primary Type: poison
 | tm | captivate |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | dig |  
 | tm | doubleteam |  
 | tm | drainpunch |  
@@ -65,6 +66,7 @@ Primary Type: poison
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | gunkshot |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hex |  
 | tm | hiddenpower |  
@@ -76,6 +78,7 @@ Primary Type: poison
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | naturalgift |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | poisonjab |  
 | tm | poweruppunch |  

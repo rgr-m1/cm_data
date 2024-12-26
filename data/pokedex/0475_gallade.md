@@ -83,6 +83,7 @@ Secondary Type: fighting
 | tm | aerialace |  
 | tm | agility |  
 | tm | airslash |  
+| tm | alluringvoice |  
 | tm | allyswitch |  
 | tm | attract |  
 | tm | aurasphere |  
@@ -95,6 +96,7 @@ Secondary Type: fighting
 | tm | chargebeam |  
 | tm | charm |  
 | tm | closecombat |  
+| tm | coaching |  
 | tm | confide |  
 | tm | confuseray |  
 | tm | cut |  
@@ -109,6 +111,7 @@ Secondary Type: fighting
 | tm | encore |  
 | tm | endure |  
 | tm | energyball |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | falseswipe |  
 | tm | firepunch |  
@@ -128,6 +131,7 @@ Secondary Type: fighting
 | tm | icepunch |  
 | tm | icywind |  
 | tm | imprison |  
+| tm | knockoff |  
 | tm | leafblade |  
 | tm | lightscreen |  
 | tm | lowkick |  
@@ -136,9 +140,11 @@ Secondary Type: fighting
 | tm | magicroom |  
 | tm | megakick |  
 | tm | megapunch |  
+| tm | metronome |  
 | tm | mistyterrain |  
 | tm | naturalgift |  
 | tm | nightshade |  
+| tm | painsplit |  
 | tm | poisonjab |  
 | tm | poweruppunch |  
 | tm | protect |  
@@ -191,6 +197,9 @@ Secondary Type: fighting
 | tm | toxic |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | tripleaxel |  
+| tm | upperhand |  
+| tm | vacuumwave |  
 | tm | willowisp |  
 | tm | wonderroom |  
 | tm | workup |  

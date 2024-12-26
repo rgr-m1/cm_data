@@ -1,7 +1,7 @@
 # data/spawn_presets/venipede spawns  
   
 ## venipede-1  
-Rarity: uncommon  
+Rarity: common  
 Levels: 1-26  
   
 ### World Presets  
@@ -41,6 +41,14 @@ Levels: 1-26
   * #cobblemon:is_lush
   
   
+### Anti-Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  
+  
 ## venipede-4  
 Rarity: common  
 Levels: 1-26  
@@ -52,6 +60,31 @@ Levels: 1-26
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
-  * #cobblemon:is_nether_fungus
+  * #cobblemon:nether/is_forest
+  * #cobblemon:nether/is_fungus
+  
+  
+## venipede-5  
+Rarity: common  
+Levels: 1-26  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_lush
   

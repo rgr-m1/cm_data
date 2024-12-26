@@ -1,6 +1,6 @@
 # data/spawn_presets/crabominable spawns  
   
-## crabominable  
+## crabominable-1  
 Rarity: uncommon  
 Levels: 29-48  
   

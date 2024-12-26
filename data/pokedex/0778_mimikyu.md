@@ -36,10 +36,12 @@ Secondary Type: fairy
 | tm | attract |  
 | tm | beatup |  
 | tm | bulkup |  
+| tm | burningjealousy |  
 | tm | chargebeam |  
 | tm | charm |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | darkpulse |  
 | tm | dazzlinggleam |  
 | tm | doubleteam |  
@@ -63,6 +65,7 @@ Secondary Type: fairy
 | tm | mistyterrain |  
 | tm | nightshade |  
 | tm | payback |  
+| tm | painsplit |  
 | tm | phantomforce |  
 | tm | playrough |  
 | tm | pounce |  
@@ -79,6 +82,7 @@ Secondary Type: fairy
 | tm | shadowclaw |  
 | tm | sleeptalk |  
 | tm | snore |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  
@@ -103,7 +107,6 @@ Secondary Type: fairy
 | tutor | burningjealousy |  
 | tutor | copycat |  
 | tutor | covet |  
-| tutor | destinybond |  
 | tutor | drainpunch |  
 | tutor | gigadrain |  
 | tutor | lastresort |  

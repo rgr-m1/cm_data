@@ -28,6 +28,14 @@ Levels: 24-41
   * #cobblemon:is_lush
   
   
+### Anti-Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  
+  
 ## shiinotic-3  
 Rarity: common  
 Levels: 24-41  
@@ -38,5 +46,30 @@ Levels: 24-41
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_fungus
+  * #cobblemon:nether/is_fungus
+  
+  
+## shiinotic-4  
+Rarity: common  
+Levels: 24-41  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_lush
   

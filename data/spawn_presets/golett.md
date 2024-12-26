@@ -14,6 +14,23 @@ Levels: 5-30
   
   
 ## golett-2  
+Rarity: rare  
+Levels: 5-30  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #cobblemon:ruin
+  
+  
+## golett-3  
 Rarity: common  
 Levels: 5-30  
   
@@ -26,22 +43,35 @@ Levels: 5-30
   * #cobblemon:is_overworld
   
   
-## golett-3  
+## golett-4  
 Rarity: common  
 Levels: 5-30  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
 * [desert_pyramid](/data/world_presets/desert_pyramid.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_desert
+  
+  
+## golett-5  
+Rarity: common  
+Levels: 5-30  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
 * [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
   
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_overworld
+  * #cobblemon:is_jungle
   
   
-## golett-4  
+## golett-6  
 Rarity: common  
 Levels: 5-30  
   

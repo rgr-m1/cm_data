@@ -18,10 +18,47 @@ Rarity: ultra-rare
 Levels: 18-41  
   
 ### World Presets  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
 #### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## croconaw-3  
+Rarity: ultra-rare  
+Levels: 18-41  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_arid
+  * #cobblemon:is_jungle
+  * #cobblemon:is_swamp
+  
+  
+## croconaw-4  
+Rarity: ultra-rare  
+Levels: 18-41  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## croconaw-5  
+Rarity: ultra-rare  
+Levels: 18-41  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_arid
+  * #cobblemon:is_jungle
   * #cobblemon:is_swamp
   

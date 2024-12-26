@@ -35,11 +35,13 @@ Primary Type: electric
 | 1 | thunderwave |  
 | 5 | thunderbolt |  
 | tm | agility |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | bodyslam |  
 | tm | brickbreak |  
 | tm | brutalswing |  
 | tm | captivate |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | charm |  
 | tm | confide |  
@@ -53,8 +55,10 @@ Primary Type: electric
 | tm | electroball |  
 | tm | electroweb |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
+| tm | faketears |  
 | tm | flash |  
 | tm | fling |  
 | tm | focusblast |  
@@ -66,6 +70,7 @@ Primary Type: electric
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | irontail |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | megakick |  
 | tm | megapunch |  
@@ -101,6 +106,7 @@ Primary Type: electric
 | tm | thunderwave |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | upperhand |  
 | tm | uproar |  
 | tm | voltswitch |  
 | tm | wildcharge |  

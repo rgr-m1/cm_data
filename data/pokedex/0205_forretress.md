@@ -39,11 +39,14 @@ Secondary Type: steel
 | tm | attract |  
 | tm | bodypress |  
 | tm | bodyslam |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | bulldoze |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drillrun |  
 | tm | earthpower |  
@@ -55,7 +58,9 @@ Secondary Type: steel
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | gigaimpact |  
+| tm | gravity |  
 | tm | gyroball |  
+| tm | hardpress |  
 | tm | heavyslam |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -64,7 +69,10 @@ Secondary Type: steel
 | tm | irondefense |  
 | tm | ironhead |  
 | tm | lightscreen |  
+| tm | lunge |  
+| tm | metalsound |  
 | tm | naturalgift |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | poisonjab |  
 | tm | pounce |  
@@ -81,6 +89,7 @@ Secondary Type: steel
 | tm | rocktomb |  
 | tm | round |  
 | tm | sandstorm |  
+| tm | sandtomb |  
 | tm | secretpower |  
 | tm | seedbomb |  
 | tm | sleeptalk |  

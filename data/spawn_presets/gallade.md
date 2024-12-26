@@ -29,24 +29,21 @@ Levels: 30-52
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## gallade-3  
 Rarity: rare  
 Levels: 30-52  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## gallade-4  

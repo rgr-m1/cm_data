@@ -23,11 +23,11 @@ Levels: 16-41
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_overgrowth
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_overgrowth
+  * #cobblemon:nether/is_wasteland
   
   
-## ponyta-galarian-1  
+## ponyta-galarian-3  
 Rarity: uncommon  
 Levels: 16-41  
   

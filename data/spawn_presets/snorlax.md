@@ -10,6 +10,7 @@ Levels: 34-54
 ### Conditions  
   
 #### Biomes  
+  * #cobblemon:is_snowy_forest
   * #cobblemon:is_forest
   * #cobblemon:is_hills
   

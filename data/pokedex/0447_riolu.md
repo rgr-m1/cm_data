@@ -71,6 +71,7 @@ Primary Type: fighting
 | tm | bulldoze |  
 | tm | captivate |  
 | tm | closecombat |  
+| tm | coaching |  
 | tm | confide |  
 | tm | crunch |  
 | tm | dig |  
@@ -99,6 +100,7 @@ Primary Type: fighting
 | tm | poisonjab |  
 | tm | poweruppunch |  
 | tm | protect |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
 | tm | retaliate |  
@@ -126,6 +128,8 @@ Primary Type: fighting
 | tm | thunderpunch |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | upperhand |  
+| tm | vacuumwave |  
 | tm | workup |  
 | tm | zenheadbutt |  
 | tutor | aurasphere |  

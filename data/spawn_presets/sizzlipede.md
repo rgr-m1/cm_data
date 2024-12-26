@@ -26,7 +26,7 @@ Levels: 6-31
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
+  * #cobblemon:nether/is_basalt
   
   
 ## sizzlipede-3  
@@ -40,5 +40,5 @@ Levels: 6-31
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_wasteland
   

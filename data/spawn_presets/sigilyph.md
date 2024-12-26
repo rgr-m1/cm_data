@@ -1,13 +1,29 @@
 # data/spawn_presets/sigilyph spawns  
   
 ## sigilyph-1  
+Rarity: uncommon  
+Levels: 24-49  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_sandy
+  
+  
+#### Structures  
+  * #cobblemon:ruin
+  
+  
+## sigilyph-2  
 Rarity: common  
 Levels: 24-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
 * [desert_pyramid](/data/world_presets/desert_pyramid.md)  
-* [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
   
 ### Conditions  
   
@@ -19,7 +35,21 @@ Levels: 24-49
   * minecraft:desert_well
   
   
-## sigilyph-2  
+## sigilyph-3  
+Rarity: common  
+Levels: 24-49  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+* [jungle_pyramid](/data/world_presets/jungle_pyramid.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+## sigilyph-4  
 Rarity: common  
 Levels: 24-49  
   
@@ -32,7 +62,7 @@ Levels: 24-49
   * #cobblemon:is_overworld
   
   
-## sigilyph-3  
+## sigilyph-5  
 Rarity: uncommon  
 Levels: 24-49  
   
@@ -43,10 +73,10 @@ Levels: 24-49
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   
   
-## sigilyph-4  
+## sigilyph-6  
 Rarity: common  
 Levels: 24-49  
   

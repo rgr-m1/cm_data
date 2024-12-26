@@ -41,6 +41,7 @@ Primary Type: grass
 | tm | assurance |  
 | tm | attract |  
 | tm | bodyslam |  
+| tm | breakingswipe |  
 | tm | brickbreak |  
 | tm | bulletseed |  
 | tm | captivate |  
@@ -49,7 +50,9 @@ Primary Type: grass
 | tm | cut |  
 | tm | dig |  
 | tm | doubleteam |  
+| tm | dragontail |  
 | tm | drainpunch |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -60,7 +63,10 @@ Primary Type: grass
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grasspledge |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
+| tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | irontail |  
 | tm | leafblade |  
@@ -94,8 +100,14 @@ Primary Type: grass
 | tm | swagger |  
 | tm | swift |  
 | tm | swordsdance |  
+| tm | takedown |  
+| tm | terablast |  
+| tm | thief |  
 | tm | thunderpunch |  
 | tm | toxic |  
+| tm | trailblaze |  
+| tm | upperhand |  
+| tm | vacuumwave |  
 | tm | workup |  
 | tm | xscissor |  
 | tutor | bodyslam |  

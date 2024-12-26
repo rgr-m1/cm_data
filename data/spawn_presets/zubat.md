@@ -2,7 +2,7 @@
   
 ## zubat-1  
 Rarity: common  
-Levels: 5-24  
+Levels: 1-25  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -11,10 +11,6 @@ Levels: 5-24
   
 #### Biomes  
   * #cobblemon:is_forest
-  * #cobblemon:is_grassland
-  * #cobblemon:is_hills
-  * #cobblemon:is_jungle
-  * #cobblemon:is_sky
   * #cobblemon:is_swamp
   
   
@@ -25,9 +21,30 @@ Levels: 5-24
   * #cobblemon:is_freezing
   
   
-## zubat-2  
+## zubat-3  
 Rarity: common  
-Levels: 5-24  
+Levels: 1-25  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_spooky
+  * #cobblemon:is_freezing
+  
+  
+## zubat-4  
+Rarity: common  
+Levels: 1-25  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -42,11 +59,13 @@ Levels: 5-24
   
 #### Biomes  
   * #cobblemon:is_deep_dark
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
   
   
-## zubat-3  
+## zubat-5  
 Rarity: uncommon  
-Levels: 5-24  
+Levels: 1-25  
   
 ### World Presets  
 * [derelict](/data/world_presets/derelict.md)  
@@ -61,11 +80,13 @@ Levels: 5-24
   
 #### Biomes  
   * #cobblemon:is_deep_dark
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
   
   
-## zubat-4  
+## zubat-6  
 Rarity: common  
-Levels: 5-24  
+Levels: 1-25  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -74,4 +95,17 @@ Levels: 5-24
   
 #### Biomes  
   * #cobblemon:is_spooky
+  
+  
+## zubat-8  
+Rarity: uncommon  
+Levels: 1-25  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_deep_dark
   

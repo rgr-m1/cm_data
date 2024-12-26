@@ -66,9 +66,13 @@ Primary Type: fighting
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swift |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | thief |  
 | tm | toxic |  
+| tm | upperhand |  
 | tm | uproar |  
+| tm | vacuumwave |  
 | tm | workup |  
 | tutor | attract |  
 | tutor | bodyslam |  

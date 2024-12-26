@@ -55,6 +55,7 @@ Secondary Type: flying
 | tm | dive |  
 | tm | doubleteam |  
 | tm | dracometeor |  
+| tm | dragoncheer |  
 | tm | dragonclaw |  
 | tm | dragondance |  
 | tm | dragonpulse |  
@@ -74,6 +75,7 @@ Secondary Type: flying
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | hail |  
+| tm | haze |  
 | tm | heatwave |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -108,6 +110,7 @@ Secondary Type: flying
 | tm | round |  
 | tm | safeguard |  
 | tm | sandstorm |  
+| tm | scaleshot |  
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | shockwave |  
@@ -135,6 +138,7 @@ Secondary Type: flying
 | tm | toxic |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | whirlpool |  
 | tutor | agility |  
 | tutor | aircutter |  

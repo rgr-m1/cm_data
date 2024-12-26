@@ -58,6 +58,7 @@ Secondary Type: flying
 | tm | batonpass |  
 | tm | brickbreak |  
 | tm | brutalswing |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | captivate |  
 | tm | closecombat |  
@@ -66,6 +67,7 @@ Secondary Type: flying
 | tm | cut |  
 | tm | defog |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
 | tm | falseswipe |  
@@ -76,6 +78,7 @@ Secondary Type: flying
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | lightscreen |  
+| tm | lunge |  
 | tm | naturalgift |  
 | tm | pounce |  
 | tm | protect |  
@@ -91,6 +94,7 @@ Secondary Type: flying
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | silverwind |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | snore |  
 | tm | steelwing |  
@@ -107,6 +111,7 @@ Secondary Type: flying
 | tm | toxic |  
 | tm | trailblaze |  
 | tm | uturn |  
+| tm | vacuumwave |  
 | tm | xscissor |  
 | tutor | agility |  
 | tutor | airslash |  

@@ -41,6 +41,7 @@ Primary Type: grass
 | tm | gigadrain |  
 | tm | grassknot |  
 | tm | grasspledge |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | leafstorm |  
@@ -49,6 +50,7 @@ Primary Type: grass
 | tm | magicalleaf |  
 | tm | mudslap |  
 | tm | nastyplot |  
+| tm | petalblizzard |  
 | tm | playrough |  
 | tm | protect |  
 | tm | rest |  

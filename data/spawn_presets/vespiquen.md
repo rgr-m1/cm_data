@@ -17,6 +17,7 @@ Levels: 21-47
   
 #### Biomes  
   * #cobblemon:is_freezing
+  * #cobblemon:is_spooky
   
   
 ## vespiquen-2  

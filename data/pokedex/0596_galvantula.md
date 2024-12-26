@@ -36,7 +36,9 @@ Secondary Type: electric
 | tm | agility |  
 | tm | attract |  
 | tm | bounce |  
+| tm | bugbite |  
 | tm | bugbuzz |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | crosspoison |  
@@ -51,13 +53,16 @@ Secondary Type: electric
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | gigaimpact |  
+| tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | infestation |  
 | tm | leechlife |  
 | tm | lightscreen |  
+| tm | lunge |  
 | tm | pinmissile |  
 | tm | poisonjab |  
+| tm | pounce |  
 | tm | protect |  
 | tm | raindance |  
 | tm | rest |  
@@ -65,6 +70,7 @@ Secondary Type: electric
 | tm | round |  
 | tm | screech |  
 | tm | secretpower |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | snore |  
 | tm | speedswap |  
@@ -72,6 +78,7 @@ Secondary Type: electric
 | tm | substitute |  
 | tm | swagger |  
 | tm | swift |  
+| tm | terablast |  
 | tm | thief |  
 | tm | throatchop |  
 | tm | thunder |  

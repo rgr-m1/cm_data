@@ -12,7 +12,7 @@ Levels: 2-27
   
 #### Biomes  
   * #cobblemon:is_coast
-  * #minecraft:is_ocean
+  * #cobblemon:is_ocean
   * #cobblemon:is_sky
   * #cobblemon:is_tropical_island
   

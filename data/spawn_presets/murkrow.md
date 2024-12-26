@@ -11,11 +11,10 @@ Levels: 16-41
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_swamp
-  * #cobblemon:is_taiga
+  * #cobblemon:is_spooky
   
   
-## murkrow-2  
+## murkrow-3  
 Rarity: common  
 Levels: 16-41  
   
@@ -26,10 +25,24 @@ Levels: 16-41
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_spooky
+  * #cobblemon:is_swamp
   
   
-## murkrow-3  
+## murkrow-4  
+Rarity: common  
+Levels: 16-41  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+* [treetop](/data/world_presets/treetop.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_taiga
+  
+  
+## murkrow-7  
 Rarity: common  
 Levels: 16-41  
   

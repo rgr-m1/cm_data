@@ -64,5 +64,21 @@ Levels: 39-50
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_warped
+  * #cobblemon:nether/is_warped
+  
+  
+## mismagius-6  
+Rarity: common  
+Levels: 39-50  
+  
+### Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #cobblemon:shipwreck_cove
   

@@ -1,7 +1,7 @@
 # data/spawn_presets/beldum spawns  
   
 ## beldum-1  
-Rarity: rare  
+Rarity: ultra-rare  
 Levels: 5-30  
   
 ### World Presets  
@@ -24,7 +24,7 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   
   
 ## beldum-3  

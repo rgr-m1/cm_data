@@ -1,7 +1,7 @@
 # data/spawn_presets/charcadet spawns  
   
 ## charcadet-1  
-Rarity: common  
+Rarity: uncommon  
 Levels: 1-26  
   
 ### World Presets  

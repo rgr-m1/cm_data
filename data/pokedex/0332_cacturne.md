@@ -42,6 +42,7 @@ Secondary Type: dark
 | tm | bulletseed |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
 | tm | darkpulse |  
 | tm | dig |  
@@ -49,6 +50,7 @@ Secondary Type: dark
 | tm | drainpunch |  
 | tm | embargo |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -61,12 +63,16 @@ Secondary Type: dark
 | tm | gigadrain |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | leafstorm |  
 | tm | lowkick |  
+| tm | lunge |  
 | tm | magicalleaf |  
 | tm | nastyplot |  
 | tm | naturalgift |  
@@ -85,9 +91,11 @@ Secondary Type: dark
 | tm | secretpower |  
 | tm | seedbomb |  
 | tm | shadowball |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
 | tm | spikes |  
+| tm | spite |  
 | tm | stompingtantrum |  
 | tm | strength |  
 | tm | substitute |  
@@ -99,6 +107,7 @@ Secondary Type: dark
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunderpunch |  
 | tm | toxic |  
 | tm | toxicspikes |  

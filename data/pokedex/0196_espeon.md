@@ -36,6 +36,7 @@ Primary Type: psychic
 | 45 | psychup |  
 | 50 | futuresight |  
 | 55 | lastresort |  
+| tm | alluringvoice |  
 | tm | allyswitch |  
 | tm | attract |  
 | tm | batonpass |  
@@ -45,14 +46,17 @@ Primary Type: psychic
 | tm | charm |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | cut |  
 | tm | dazzlinggleam |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
 | tm | dreameater |  
 | tm | echoedvoice |  
 | tm | endure |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | faketears |  
 | tm | flash |  
@@ -61,6 +65,7 @@ Primary Type: psychic
 | tm | futuresight |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | gravity |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
@@ -79,6 +84,7 @@ Primary Type: psychic
 | tm | psybeam |  
 | tm | psychic |  
 | tm | psychicfangs |  
+| tm | psychicnoise |  
 | tm | psychicterrain |  
 | tm | psychup |  
 | tm | psyshock |  
@@ -87,6 +93,7 @@ Primary Type: psychic
 | tm | rest |  
 | tm | retaliate |  
 | tm | return |  
+| tm | roar |  
 | tm | round |  
 | tm | secretpower |  
 | tm | shadowball |  

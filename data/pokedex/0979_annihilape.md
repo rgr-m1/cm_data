@@ -40,20 +40,26 @@ Secondary Type: ghost
 | tm | bulkup |  
 | tm | bulldoze |  
 | tm | closecombat |  
+| tm | coaching |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | drainpunch |  
 | tm | earthquake |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | firepunch |  
 | tm | fling |  
 | tm | focusblast |  
+| tm | focuspunch |  
 | tm | gigaimpact |  
 | tm | gunkshot |  
 | tm | helpinghand |  
 | tm | hyperbeam |  
 | tm | icepunch |  
+| tm | lashout |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | metronome |  
@@ -73,6 +79,8 @@ Secondary Type: ghost
 | tm | shadowball |  
 | tm | shadowclaw |  
 | tm | sleeptalk |  
+| tm | smackdown |  
+| tm | spite |  
 | tm | stealthrock |  
 | tm | stompingtantrum |  
 | tm | stoneedge |  
@@ -83,8 +91,11 @@ Secondary Type: ghost
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunder |  
 | tm | thunderbolt |  
 | tm | thunderpunch |  
+| tm | uproar |  
 | tm | uturn |  
+| tm | vacuumwave |  
   

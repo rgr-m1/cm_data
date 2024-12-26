@@ -21,6 +21,7 @@ Primary Type: bug
 | egg | poisonpowder |  
 | egg | ragepowder |  
 | egg | stunspore |  
+| tm | bugbite |  
 | tm | pounce |  
 | tm | strugglebug |  
 | tm | terablast |  

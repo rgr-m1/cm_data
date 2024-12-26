@@ -34,6 +34,7 @@ Primary Type: fire
 | tm | attract |  
 | tm | beatup |  
 | tm | bodyslam |  
+| tm | breakingswipe |  
 | tm | brickbreak |  
 | tm | captivate |  
 | tm | confide |  
@@ -58,6 +59,7 @@ Primary Type: fire
 | tm | flamethrower |  
 | tm | flareblitz |  
 | tm | fling |  
+| tm | focusblast |  
 | tm | focuspunch |  
 | tm | frustration |  
 | tm | heatwave |  
@@ -75,6 +77,7 @@ Primary Type: fire
 | tm | protect |  
 | tm | rest |  
 | tm | return |  
+| tm | roar |  
 | tm | rockslide |  
 | tm | rocksmash |  
 | tm | rocktomb |  
@@ -91,6 +94,7 @@ Primary Type: fire
 | tm | swift |  
 | tm | swordsdance |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thunderpunch |  
 | tm | toxic |  

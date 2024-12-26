@@ -51,8 +51,10 @@ Primary Type: electric
 | egg | tailwhip |  
 | tm | aerialace |  
 | tm | agility |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | captivate |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | charm |  
 | tm | confide |  
@@ -63,7 +65,9 @@ Primary Type: electric
 | tm | eerieimpulse |  
 | tm | electricterrain |  
 | tm | electroball |  
+| tm | electroweb |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -93,6 +97,7 @@ Primary Type: electric
 | tm | sleeptalk |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
@@ -105,6 +110,7 @@ Primary Type: electric
 | tm | thunderwave |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | uproar |  
 | tm | uturn |  
 | tm | voltswitch |  
 | tm | wildcharge |  

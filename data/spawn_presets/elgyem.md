@@ -1,6 +1,6 @@
 # data/spawn_presets/elgyem spawns  
   
-## elgyem_1  
+## elgyem-1  
 Rarity: uncommon  
 Levels: 9-34  
   
@@ -10,10 +10,10 @@ Levels: 9-34
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   
   
-## elgyem_2  
+## elgyem-2  
 Rarity: common  
 Levels: 9-34  
   
@@ -23,14 +23,14 @@ Levels: 9-34
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_overworld
+  * #cobblemon:is_overworld
   
   
 #### Needed Nearby Blocks  
   * minecraft:wheat
   
   
-## elgyem_3  
+## elgyem-3  
 Rarity: common  
 Levels: 9-34  
   

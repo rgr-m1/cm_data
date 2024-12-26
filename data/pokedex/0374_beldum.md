@@ -18,6 +18,9 @@ Secondary Type: psychic
 | 1 | takedown |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | steelbeam |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | zenheadbutt |  
 | tutor | headbutt |  
 | tutor | holdback |  

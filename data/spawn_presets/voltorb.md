@@ -14,24 +14,21 @@ Levels: 8-33
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## voltorb-2  
 Rarity: common  
 Levels: 8-33  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## voltorb-3  
@@ -46,4 +43,21 @@ Levels: 8-33
   
 #### Needed Nearby Blocks  
   * minecraft:lightning_rod
+  
+  
+## voltorb-hisuian-4  
+Rarity: uncommon  
+Levels: 8-33  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * #cobblemon:apricorns
   

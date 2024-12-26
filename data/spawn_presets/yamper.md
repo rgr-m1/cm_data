@@ -20,22 +20,21 @@ Levels: 2-27
   * #cobblemon:is_freezing
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## yamper-2  
 Rarity: common  
 Levels: 2-27  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

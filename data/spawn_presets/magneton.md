@@ -32,17 +32,3 @@ Levels: 30-47
 #### Needed Nearby Blocks  
   * minecraft:lightning_rod
   
-  
-## magneton-2  
-Rarity: uncommon  
-Levels: 30-47  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_overworld
-  
-  
-#### Needed Nearby Blocks  
-  * minecraft:lightning_rod
-  

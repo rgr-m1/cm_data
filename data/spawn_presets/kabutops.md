@@ -18,7 +18,7 @@ Rarity: ultra-rare
 Levels: 40-50  
   
 ### World Presets  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   

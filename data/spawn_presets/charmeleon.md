@@ -18,8 +18,11 @@ Levels: 16-40
 Rarity: ultra-rare  
 Levels: 16-40  
   
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
+  * #cobblemon:nether/is_basalt
   

@@ -45,11 +45,15 @@ Secondary Type: fighting
 | tm | bulkup |  
 | tm | chillingwater |  
 | tm | closecombat |  
+| tm | coaching |  
 | tm | disarmingvoice |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | gigaimpact |  
 | tm | helpinghand |  
 | tm | hurricane |  
@@ -58,11 +62,13 @@ Secondary Type: fighting
 | tm | hyperbeam |  
 | tm | icespinner |  
 | tm | icywind |  
+| tm | knockoff |  
 | tm | liquidation |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | mistyterrain |  
 | tm | protect |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
 | tm | reversal |  
@@ -74,7 +80,10 @@ Secondary Type: fighting
 | tm | takedown |  
 | tm | taunt |  
 | tm | terablast |  
+| tm | tripleaxel |  
+| tm | upperhand |  
 | tm | uturn |  
 | tm | waterpledge |  
 | tm | waterpulse |  
+| tm | whirlpool |  
   

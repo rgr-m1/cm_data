@@ -38,6 +38,7 @@ Primary Type: dark
 | 45 | screech |  
 | 50 | meanlook |  
 | 55 | lastresort |  
+| tm | alluringvoice |  
 | tm | assurance |  
 | tm | attract |  
 | tm | batonpass |  
@@ -48,9 +49,11 @@ Primary Type: dark
 | tm | confide |  
 | tm | confuseray |  
 | tm | crunch |  
+| tm | curse |  
 | tm | cut |  
 | tm | darkpulse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dreameater |  
 | tm | echoedvoice |  
@@ -68,7 +71,9 @@ Primary Type: dark
 | tm | hyperbeam |  
 | tm | hypervoice |  
 | tm | irontail |  
+| tm | lashout |  
 | tm | lightscreen |  
+| tm | mudslap |  
 | tm | naturalgift |  
 | tm | payback |  
 | tm | payday |  
@@ -80,6 +85,7 @@ Primary Type: dark
 | tm | rest |  
 | tm | retaliate |  
 | tm | return |  
+| tm | roar |  
 | tm | round |  
 | tm | scaryface |  
 | tm | screech |  
@@ -90,6 +96,7 @@ Primary Type: dark
 | tm | snarl |  
 | tm | snatch |  
 | tm | snore |  
+| tm | spite |  
 | tm | storedpower |  
 | tm | substitute |  
 | tm | sunnyday |  

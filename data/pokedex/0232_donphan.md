@@ -40,12 +40,15 @@ Primary Type: ground
 | tm | captivate |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthpower |  
 | tm | earthquake |  
 | tm | echoedvoice |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | firefang |  
@@ -56,6 +59,7 @@ Primary Type: ground
 | tm | heavyslam |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
+| tm | highhorsepower |  
 | tm | hyperbeam |  
 | tm | hypervoice |  
 | tm | icefang |  
@@ -63,6 +67,7 @@ Primary Type: ground
 | tm | irondefense |  
 | tm | ironhead |  
 | tm | irontail |  
+| tm | knockoff |  
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | naturalgift |  
@@ -79,10 +84,12 @@ Primary Type: ground
 | tm | rocktomb |  
 | tm | round |  
 | tm | sandstorm |  
+| tm | sandtomb |  
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | seedbomb |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | smartstrike |  
 | tm | stealthrock |  
 | tm | stompingtantrum |  
@@ -94,6 +101,7 @@ Primary Type: ground
 | tm | takedown |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunderfang |  
 | tm | toxic |  
 | tm | trailblaze |  

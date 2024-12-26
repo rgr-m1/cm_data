@@ -49,6 +49,7 @@ Secondary Type: fairy
 | egg | skillswap |  
 | egg | synchronoise |  
 | egg | willowisp |  
+| tm | alluringvoice |  
 | tm | allyswitch |  
 | tm | attract |  
 | tm | bodyslam |  
@@ -66,6 +67,7 @@ Secondary Type: fairy
 | tm | echoedvoice |  
 | tm | encore |  
 | tm | endure |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | firepunch |  
 | tm | flash |  
@@ -79,6 +81,7 @@ Secondary Type: fairy
 | tm | icepunch |  
 | tm | icywind |  
 | tm | imprison |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | magicalleaf |  
 | tm | magicroom |  
@@ -87,6 +90,7 @@ Secondary Type: fairy
 | tm | metronome |  
 | tm | mistyterrain |  
 | tm | naturalgift |  
+| tm | painsplit |  
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  

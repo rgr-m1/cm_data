@@ -51,11 +51,14 @@ Primary Type: rock
 | tm | calmmind |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | earthpower |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | explosion |  
 | tm | facade |  
@@ -69,6 +72,7 @@ Primary Type: rock
 | tm | grassknot |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
+| tm | highhorsepower |  
 | tm | hyperbeam |  
 | tm | icepunch |  
 | tm | irondefense |  
@@ -76,6 +80,7 @@ Primary Type: rock
 | tm | lowsweep |  
 | tm | megakick |  
 | tm | megapunch |  
+| tm | meteorbeam |  
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | naturalgift |  

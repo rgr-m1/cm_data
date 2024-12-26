@@ -48,8 +48,12 @@ Primary Type: fighting
 | tm | brickbreak |  
 | tm | brutalswing |  
 | tm | bulkup |  
+| tm | closecombat |  
+| tm | coaching |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | endure |  
@@ -58,11 +62,13 @@ Primary Type: fighting
 | tm | fling |  
 | tm | focusblast |  
 | tm | focusenergy |  
+| tm | focuspunch |  
 | tm | frustration |  
 | tm | grassknot |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | icepunch |  
+| tm | knockoff |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | megakick |  
@@ -92,7 +98,10 @@ Primary Type: fighting
 | tm | sunnyday |  
 | tm | superpower |  
 | tm | swagger |  
+| tm | takedown |  
 | tm | taunt |  
+| tm | terablast |  
+| tm | thief |  
 | tm | thunderpunch |  
 | tm | toxic |  
 | tm | workup |  

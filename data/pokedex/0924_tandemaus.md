@@ -41,6 +41,7 @@ Primary Type: normal
 | tm | charm |  
 | tm | crunch |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | encore |  
 | tm | endure |  
 | tm | facade |  
@@ -61,6 +62,7 @@ Primary Type: normal
 | tm | sleeptalk |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | swift |  
 | tm | takedown |  
 | tm | taunt |  

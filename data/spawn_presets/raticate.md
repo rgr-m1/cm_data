@@ -59,7 +59,7 @@ Min Y: 0
   * #cobblemon:is_deep_dark
   
   
-## raticate-alolan-1  
+## raticate-alolan-4  
 Rarity: common  
 Levels: 20-41  
   
@@ -79,7 +79,7 @@ Max Y: 0
   * #cobblemon:is_deep_dark
   
   
-## raticate-alolan-2  
+## raticate-alolan-5  
 Rarity: uncommon  
 Levels: 20-41  
   
@@ -99,7 +99,7 @@ Max Y: 0
   * #cobblemon:is_deep_dark
   
   
-## raticate-alolan-3  
+## raticate-alolan-6  
 Rarity: common  
 Levels: 20-41  
   
@@ -112,7 +112,7 @@ Levels: 20-41
   * #cobblemon:is_spooky
   
   
-## raticate-alolan-4  
+## raticate-alolan-7  
 Rarity: uncommon  
 Levels: 20-41  
   

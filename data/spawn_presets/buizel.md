@@ -6,26 +6,74 @@ Levels: 8-33
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [freshwater](/data/world_presets/freshwater.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
   
 ## buizel-2  
 Rarity: common  
 Levels: 8-33  
   
 ### World Presets  
-* [underwater](/data/world_presets/underwater.md)  
-* [freshwater](/data/world_presets/freshwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
+#### Biomes  
+  * #cobblemon:is_freshwater
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
 ## buizel-3  
-Rarity: common  
+Rarity: uncommon  
 Levels: 8-33  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
-* [freshwater](/data/world_presets/freshwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
+## buizel-4  
+Rarity: common  
+Levels: 8-33  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_grassland
+  * #cobblemon:is_hills
+  * #cobblemon:is_jungle
+  * #cobblemon:is_taiga
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  

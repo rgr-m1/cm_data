@@ -42,8 +42,10 @@ Secondary Type: ground
 | tm | captivate |  
 | tm | chillingwater |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | earthpower |  
@@ -60,6 +62,7 @@ Secondary Type: ground
 | tm | gigaimpact |  
 | tm | guardswap |  
 | tm | hail |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | highhorsepower |  

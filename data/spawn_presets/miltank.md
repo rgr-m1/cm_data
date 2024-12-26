@@ -2,7 +2,7 @@
   
 ## miltank-1  
 Rarity: common  
-Levels: 6-24  
+Levels: 24-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -13,9 +13,9 @@ Levels: 6-24
   * #cobblemon:is_grassland
   
   
-## miltank-mooshtank-red-1  
+## miltank-red-2  
 Rarity: common  
-Levels: 6-24  
+Levels: 24-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -26,9 +26,9 @@ Levels: 6-24
   * minecraft:mushroom_fields
   
   
-## miltank-mooshtank-brown-1  
+## miltank-brown-3  
 Rarity: common  
-Levels: 6-24  
+Levels: 24-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  

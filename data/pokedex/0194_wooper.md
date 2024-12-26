@@ -58,8 +58,10 @@ Secondary Type: ground
 | tm | captivate |  
 | tm | chillingwater |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthpower |  
 | tm | earthquake |  
@@ -71,6 +73,7 @@ Secondary Type: ground
 | tm | frustration |  
 | tm | guardswap |  
 | tm | hail |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hydropump |  

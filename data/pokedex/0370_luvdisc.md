@@ -52,8 +52,10 @@ Primary Type: water
 | tm | dive |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
+| tm | flipturn |  
 | tm | frustration |  
 | tm | hail |  
 | tm | hiddenpower |  
@@ -70,6 +72,7 @@ Primary Type: water
 | tm | round |  
 | tm | safeguard |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | secretpower |  
 | tm | sleeptalk |  
 | tm | snowscape |  

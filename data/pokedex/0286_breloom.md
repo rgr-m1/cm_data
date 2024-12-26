@@ -20,6 +20,7 @@ Secondary Type: fighting
 | 1 | leechseed |  
 | 1 | machpunch |  
 | 1 | poisonpowder |  
+| 1 | spore |  
 | 1 | stunspore |  
 | 1 | tackle |  
 | 1 | toxic |  

@@ -42,8 +42,10 @@ Primary Type: water
 | tm | endure |  
 | tm | facade |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | focusenergy |  
 | tm | gigaimpact |  
+| tm | haze |  
 | tm | hydrocannon |  
 | tm | hydropump |  
 | tm | hyperbeam |  
@@ -56,6 +58,7 @@ Primary Type: water
 | tm | muddywater |  
 | tm | mudshot |  
 | tm | protect |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | reflect |  
 | tm | rest |  
@@ -63,7 +66,9 @@ Primary Type: water
 | tm | safeguard |  
 | tm | scald |  
 | tm | shadowball |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | snore |  
 | tm | snowscape |  
 | tm | substitute |  
@@ -74,6 +79,7 @@ Primary Type: water
 | tm | taunt |  
 | tm | terablast |  
 | tm | uturn |  
+| tm | vacuumwave |  
 | tm | waterfall |  
 | tm | waterpledge |  
 | tm | waterpulse |  

@@ -90,6 +90,7 @@ Secondary Type: steel
 | tm | calmmind |  
 | tm | captivate |  
 | tm | closecombat |  
+| tm | coaching |  
 | tm | confide |  
 | tm | crunch |  
 | tm | darkpulse |  
@@ -119,6 +120,7 @@ Secondary Type: steel
 | tm | megakick |  
 | tm | megapunch |  
 | tm | metalclaw |  
+| tm | metalsound |  
 | tm | metronome |  
 | tm | nastyplot |  
 | tm | naturalgift |  
@@ -127,6 +129,7 @@ Secondary Type: steel
 | tm | poweruppunch |  
 | tm | protect |  
 | tm | psychic |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
 | tm | retaliate |  
@@ -159,13 +162,13 @@ Secondary Type: steel
 | tm | thunderpunch |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | upperhand |  
+| tm | vacuumwave |  
 | tm | waterpulse |  
 | tm | workup |  
 | tm | zenheadbutt |  
-| tutor | aurasphere |  
 | tutor | blazekick |  
 | tutor | bonerush |  
-| tutor | bulletpunch |  
 | tutor | closecombat |  
 | tutor | coaching |  
 | tutor | counter |  
@@ -175,14 +178,12 @@ Secondary Type: steel
 | tutor | drainpunch |  
 | tutor | dualchop |  
 | tutor | extremespeed |  
-| tutor | flashcannon |  
 | tutor | focuspunch |  
 | tutor | forcepalm |  
 | tutor | furycutter |  
 | tutor | headbutt |  
 | tutor | helpinghand |  
 | tutor | highjumpkick |  
-| tutor | icepunch |  
 | tutor | irondefense |  
 | tutor | irontail |  
 | tutor | laserfocus |  

@@ -10,8 +10,8 @@ Levels: 1-25
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_basalt
+  * #cobblemon:nether/is_wasteland
   
   
 ## slugma-2  
@@ -19,12 +19,13 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [lava_surface](/data/world_presets/lava_surface.md)  
+* [lava](/data/world_presets/lava.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #minecraft:is_nether
+  * #cobblemon:is_volcanic
   
   
 ## slugma-3  
@@ -32,7 +33,7 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
-* [lava_surface](/data/world_presets/lava_surface.md)  
+* [lava](/data/world_presets/lava.md)  
   
 ### Conditions  
   
@@ -60,18 +61,5 @@ Levels: 1-25
   
   
 #### Needed Nearby Blocks  
-  * minecraft:lava
-  
-  
-## slugma-5  
-Rarity: common  
-Levels: 1-25  
-  
-### World Presets  
-* [lava_surface](/data/world_presets/lava_surface.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_volcanic
+  * #minecraft:lava
   

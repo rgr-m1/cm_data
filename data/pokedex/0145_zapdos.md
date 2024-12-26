@@ -36,10 +36,12 @@ Secondary Type: flying
 | tm | aircutter |  
 | tm | batonpass |  
 | tm | bravebird |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | defog |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | eerieimpulse |  
 | tm | electricterrain |  
 | tm | electroball |  
@@ -56,6 +58,7 @@ Secondary Type: flying
 | tm | hurricane |  
 | tm | hyperbeam |  
 | tm | lightscreen |  
+| tm | metalsound |  
 | tm | naturalgift |  
 | tm | pluck |  
 | tm | protect |  
@@ -75,6 +78,7 @@ Secondary Type: flying
 | tm | steelwing |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | supercellslam |  
 | tm | swagger |  
 | tm | swift |  
 | tm | tailwind |  
@@ -97,7 +101,6 @@ Secondary Type: flying
 | tutor | charge |  
 | tutor | curse |  
 | tutor | defog |  
-| tutor | detect |  
 | tutor | discharge |  
 | tutor | doubleedge |  
 | tutor | doubleteam |  
@@ -146,7 +149,6 @@ Secondary Type: flying
 | tutor | swift |  
 | tutor | tailwind |  
 | tutor | takedown |  
-| tutor | thunder |  
 | tutor | thunderbolt |  
 | tutor | thundershock |  
 | tutor | thunderwave |  
@@ -154,5 +156,4 @@ Secondary Type: flying
 | tutor | twister |  
 | tutor | uturn |  
 | tutor | whirlwind |  
-| tutor | zapcannon |  
   

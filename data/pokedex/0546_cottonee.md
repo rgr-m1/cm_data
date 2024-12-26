@@ -52,6 +52,7 @@ Secondary Type: fairy
 | tm | doubleteam |  
 | tm | dreameater |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -60,6 +61,7 @@ Secondary Type: fairy
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -80,6 +82,7 @@ Secondary Type: fairy
 | tm | swagger |  
 | tm | swift |  
 | tm | taunt |  
+| tm | terablast |  
 | tm | toxic |  
 | tutor | covet |  
 | tutor | defog |  

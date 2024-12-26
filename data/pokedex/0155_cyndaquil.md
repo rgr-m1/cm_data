@@ -48,10 +48,13 @@ Primary Type: fire
 | tm | aerialace |  
 | tm | attract |  
 | tm | bodyslam |  
+| tm | burningjealousy |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | endure |  
 | tm | facade |  
@@ -75,6 +78,7 @@ Primary Type: fire
 | tm | rest |  
 | tm | return |  
 | tm | reversal |  
+| tm | roar |  
 | tm | round |  
 | tm | secretpower |  
 | tm | sleeptalk |  
@@ -83,6 +87,7 @@ Primary Type: fire
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | toxic |  
 | tm | wildcharge |  

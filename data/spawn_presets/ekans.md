@@ -13,7 +13,7 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## ekans-legacy-1  
+## ekans-legacy-2  
 Rarity: common  
 Levels: 4-29  
   
@@ -26,7 +26,7 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## ekans-attack-1  
+## ekans-attack-2  
 Rarity: common  
 Levels: 4-29  
   
@@ -39,7 +39,7 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## ekans-speed-1  
+## ekans-speed-2  
 Rarity: common  
 Levels: 4-29  
   
@@ -52,7 +52,7 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## ekans-elusive-1  
+## ekans-elusive-2  
 Rarity: common  
 Levels: 4-29  
   
@@ -65,7 +65,7 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## ekans-sound-1  
+## ekans-sound-2  
 Rarity: common  
 Levels: 4-29  
   
@@ -78,7 +78,7 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## ekans-dark-1  
+## ekans-dark-3  
 Rarity: common  
 Levels: 4-29  
   
@@ -88,5 +88,5 @@ Levels: 4-29
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_desert
+  * #cobblemon:nether/is_desert
   

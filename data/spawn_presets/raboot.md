@@ -11,4 +11,5 @@ Levels: 16-42
   
 #### Biomes  
   * #cobblemon:is_grassland
+  * #cobblemon:is_tundra
   

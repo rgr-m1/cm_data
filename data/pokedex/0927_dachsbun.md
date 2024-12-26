@@ -29,6 +29,7 @@ Primary Type: fairy
 | 47 | crunch |  
 | 53 | lastresort |  
 | tm | agility |  
+| tm | alluringvoice |  
 | tm | batonpass |  
 | tm | bodypress |  
 | tm | bodyslam |  
@@ -36,7 +37,9 @@ Primary Type: fairy
 | tm | crunch |  
 | tm | dazzlinggleam |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | drainingkiss |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | firefang |  
@@ -50,8 +53,10 @@ Primary Type: fairy
 | tm | playrough |  
 | tm | protect |  
 | tm | psychicfangs |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
+| tm | roar |  
 | tm | scaryface |  
 | tm | sleeptalk |  
 | tm | snarl |  

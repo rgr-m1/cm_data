@@ -19,6 +19,7 @@ Secondary Type: ghost
 | 1 | sing |  
 | 1 | tackle |  
 | 1 | torchsong |  
+| 1 | yawn |  
 | 7 | lick |  
 | 10 | round |  
 | 12 | scaryface |  
@@ -33,9 +34,11 @@ Secondary Type: ghost
 | 47 | willowisp |  
 | 58 | fireblast |  
 | 64 | overheat |  
+| tm | alluringvoice |  
 | tm | blastburn |  
 | tm | bodyslam |  
 | tm | crunch |  
+| tm | curse |  
 | tm | dig |  
 | tm | disarmingvoice |  
 | tm | earthpower |  
@@ -51,6 +54,7 @@ Secondary Type: ghost
 | tm | flamethrower |  
 | tm | flareblitz |  
 | tm | gigaimpact |  
+| tm | heatcrash |  
 | tm | heatwave |  
 | tm | helpinghand |  
 | tm | hex |  
@@ -61,9 +65,12 @@ Secondary Type: ghost
 | tm | nightshade |  
 | tm | outrage |  
 | tm | overheat |  
+| tm | poltergeist |  
 | tm | protect |  
 | tm | rest |  
+| tm | roar |  
 | tm | scaryface |  
+| tm | scorchingsands |  
 | tm | seedbomb |  
 | tm | shadowball |  
 | tm | shadowclaw |  
@@ -74,6 +81,7 @@ Secondary Type: ghost
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thunderfang |  
 | tm | willowisp |  

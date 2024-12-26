@@ -7,7 +7,7 @@ Secondary Type: dark
   
 ## Abilities  
   * chlorophyll
-  * earlybird
+  * windrider
   * h:pickpocket
   
   
@@ -18,6 +18,7 @@ Secondary Type: dark
 | 1 | absorb |  
 | 1 | aircutter |  
 | 1 | astonish |  
+| 1 | beatup |  
 | 1 | explosion |  
 | 1 | extrasensory |  
 | 1 | fakeout |  
@@ -43,6 +44,7 @@ Secondary Type: dark
 | 20 | leaftornado |  
 | 44 | leafstorm |  
 | tm | aerialace |  
+| tm | aircutter |  
 | tm | airslash |  
 | tm | amnesia |  
 | tm | assurance |  
@@ -54,13 +56,18 @@ Secondary Type: dark
 | tm | brutalswing |  
 | tm | bulletseed |  
 | tm | captivate |  
+| tm | chillingwater |  
 | tm | confide |  
+| tm | confuseray |  
+| tm | curse |  
 | tm | cut |  
 | tm | darkpulse |  
 | tm | defog |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | embargo |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | explosion |  
@@ -74,33 +81,43 @@ Secondary Type: dark
 | tm | gigadrain |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | heatwave |  
+| tm | hex |  
 | tm | hiddenpower |  
 | tm | hurricane |  
 | tm | hyperbeam |  
 | tm | icywind |  
+| tm | imprison |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | leafblade |  
 | tm | leafstorm |  
 | tm | lowkick |  
 | tm | lowsweep |  
+| tm | magicalleaf |  
 | tm | megakick |  
 | tm | nastyplot |  
 | tm | naturalgift |  
 | tm | naturepower |  
 | tm | payback |  
+| tm | petalblizzard |  
 | tm | powerswap |  
 | tm | poweruppunch |  
 | tm | protect |  
 | tm | psychup |  
+| tm | raindance |  
 | tm | rest |  
 | tm | retaliate |  
 | tm | return |  
 | tm | revenge |  
+| tm | reversal |  
 | tm | rockslide |  
 | tm | rocksmash |  
 | tm | rocktomb |  
 | tm | round |  
+| tm | scaryface |  
 | tm | screech |  
 | tm | secretpower |  
 | tm | seedbomb |  
@@ -112,16 +129,28 @@ Secondary Type: dark
 | tm | snore |  
 | tm | solarbeam |  
 | tm | solarblade |  
+| tm | spite |  
 | tm | strength |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swift |  
 | tm | swordsdance |  
+| tm | tailwind |  
+| tm | takedown |  
+| tm | taunt |  
+| tm | terablast |  
 | tm | thief |  
 | tm | throatchop |  
 | tm | torment |  
 | tm | toxic |  
+| tm | toxicspikes |  
+| tm | trailblaze |  
+| tm | upperhand |  
+| tm | uproar |  
+| tm | vacuumwave |  
+| tm | weatherball |  
+| tm | willowisp |  
 | tm | xscissor |  
 | tutor | aircutter |  
 | tutor | bodyslam |  

@@ -2,7 +2,7 @@
   
 ## golbat-1  
 Rarity: common  
-Levels: 22-45  
+Levels: 22-46  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -11,10 +11,6 @@ Levels: 22-45
   
 #### Biomes  
   * #cobblemon:is_forest
-  * #cobblemon:is_grassland
-  * #cobblemon:is_hills
-  * #cobblemon:is_jungle
-  * #cobblemon:is_sky
   * #cobblemon:is_swamp
   
   
@@ -25,9 +21,30 @@ Levels: 22-45
   * #cobblemon:is_freezing
   
   
-## golbat-2  
+## golbat-3  
 Rarity: common  
-Levels: 22-45  
+Levels: 22-46  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_spooky
+  * #cobblemon:is_freezing
+  
+  
+## golbat-4  
+Rarity: common  
+Levels: 22-46  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -42,11 +59,13 @@ Levels: 22-45
   
 #### Biomes  
   * #cobblemon:is_deep_dark
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
   
   
-## golbat-3  
+## golbat-5  
 Rarity: uncommon  
-Levels: 22-45  
+Levels: 22-46  
   
 ### World Presets  
 * [derelict](/data/world_presets/derelict.md)  
@@ -61,11 +80,13 @@ Levels: 22-45
   
 #### Biomes  
   * #cobblemon:is_deep_dark
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
   
   
-## golbat-4  
+## golbat-6  
 Rarity: common  
-Levels: 22-45  
+Levels: 22-46  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -74,4 +95,17 @@ Levels: 22-45
   
 #### Biomes  
   * #cobblemon:is_spooky
+  
+  
+## golbat-8  
+Rarity: uncommon  
+Levels: 22-46  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_deep_dark
   

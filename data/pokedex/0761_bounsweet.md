@@ -39,12 +39,14 @@ Primary Type: grass
 | tm | dazzlinggleam |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  

@@ -40,8 +40,11 @@ Secondary Type: grass
 | tm | brickbreak |  
 | tm | bulletseed |  
 | tm | captivate |  
+| tm | chillingwater |  
 | tm | confide |  
+| tm | disarmingvoice |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | echoedvoice |  
@@ -58,6 +61,8 @@ Secondary Type: grass
 | tm | gigadrain |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | grassyglide |  
+| tm | grassyterrain |  
 | tm | hail |  
 | tm | hiddenpower |  
 | tm | honeclaws |  
@@ -66,8 +71,11 @@ Secondary Type: grass
 | tm | hypervoice |  
 | tm | icebeam |  
 | tm | icepunch |  
+| tm | icespinner |  
 | tm | icywind |  
+| tm | knockoff |  
 | tm | leafstorm |  
+| tm | magicalleaf |  
 | tm | megakick |  
 | tm | megapunch |  
 | tm | metronome |  
@@ -94,10 +102,14 @@ Secondary Type: grass
 | tm | sunnyday |  
 | tm | surf |  
 | tm | swagger |  
+| tm | swift |  
 | tm | swordsdance |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | thief |  
 | tm | thunderpunch |  
 | tm | toxic |  
+| tm | trailblaze |  
 | tm | uproar |  
 | tm | waterfall |  
 | tm | waterpulse |  

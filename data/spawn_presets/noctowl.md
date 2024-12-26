@@ -12,7 +12,6 @@ Levels: 20-45
   
 #### Biomes  
   * #cobblemon:is_forest
-  * #cobblemon:is_forest
   * #cobblemon:is_sky
   * #cobblemon:is_spooky
   

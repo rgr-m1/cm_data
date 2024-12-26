@@ -29,6 +29,7 @@ Secondary Type: grass
 | 18 | furyswipes |  
 | 20 | watersport |  
 | 24 | bubblebeam |  
+| 30 | leechseed |  
 | 30 | naturepower |  
 | 32 | uproar |  
 | 36 | gigadrain |  
@@ -43,8 +44,11 @@ Secondary Type: grass
 | tm | brickbreak |  
 | tm | bulletseed |  
 | tm | captivate |  
+| tm | chillingwater |  
 | tm | confide |  
+| tm | disarmingvoice |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | echoedvoice |  
@@ -58,6 +62,8 @@ Secondary Type: grass
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
+| tm | grassyterrain |  
 | tm | hail |  
 | tm | hiddenpower |  
 | tm | honeclaws |  
@@ -66,8 +72,11 @@ Secondary Type: grass
 | tm | icebeam |  
 | tm | icepunch |  
 | tm | icywind |  
+| tm | knockoff |  
+| tm | magicalleaf |  
 | tm | megakick |  
 | tm | megapunch |  
+| tm | metronome |  
 | tm | muddywater |  
 | tm | mudshot |  
 | tm | naturalgift |  
@@ -91,12 +100,16 @@ Secondary Type: grass
 | tm | surf |  
 | tm | swagger |  
 | tm | swordsdance |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | thief |  
 | tm | thunderpunch |  
 | tm | toxic |  
+| tm | trailblaze |  
 | tm | uproar |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | whirlpool |  
 | tm | zenheadbutt |  
 | tutor | bodyslam |  

@@ -47,6 +47,6 @@ Levels: 11-36
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_basalt
+  * #cobblemon:nether/is_wasteland
   

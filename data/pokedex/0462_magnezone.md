@@ -76,9 +76,11 @@ Secondary Type: steel
 | tm | allyswitch |  
 | tm | bodypress |  
 | tm | bodyslam |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | eerieimpulse |  
 | tm | electricterrain |  
@@ -91,7 +93,9 @@ Secondary Type: steel
 | tm | flashcannon |  
 | tm | frustration |  
 | tm | gigaimpact |  
+| tm | gravity |  
 | tm | gyroball |  
+| tm | hardpress |  
 | tm | heavyslam |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -99,6 +103,7 @@ Secondary Type: steel
 | tm | irondefense |  
 | tm | ironhead |  
 | tm | lightscreen |  
+| tm | metalsound |  
 | tm | naturalgift |  
 | tm | protect |  
 | tm | psychup |  
@@ -118,6 +123,7 @@ Secondary Type: steel
 | tm | steelbeam |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | supercellslam |  
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  

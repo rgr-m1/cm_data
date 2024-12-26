@@ -54,10 +54,12 @@ Secondary Type: dark
 | tm | allyswitch |  
 | tm | attract |  
 | tm | bodyslam |  
+| tm | burningjealousy |  
 | tm | calmmind |  
 | tm | captivate |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | darkpulse |  
 | tm | doubleteam |  
 | tm | dreameater |  
@@ -75,11 +77,14 @@ Secondary Type: dark
 | tm | icywind |  
 | tm | imprison |  
 | tm | infestation |  
+| tm | lashout |  
 | tm | nastyplot |  
 | tm | naturalgift |  
 | tm | nightshade |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | phantomforce |  
+| tm | poltergeist |  
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
@@ -102,6 +107,7 @@ Secondary Type: dark
 | tm | snarl |  
 | tm | snatch |  
 | tm | snore |  
+| tm | spite |  
 | tm | storedpower |  
 | tm | substitute |  
 | tm | sunnyday |  

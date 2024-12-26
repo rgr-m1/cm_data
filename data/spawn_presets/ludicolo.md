@@ -18,10 +18,34 @@ Rarity: common
 Levels: 29-48  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
 #### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## ludicolo-3  
+Rarity: common  
+Levels: 29-48  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_jungle
+  * #cobblemon:is_swamp
+  
+  
+## ludicolo-4  
+Rarity: common  
+Levels: 29-48  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_jungle
   * #cobblemon:is_swamp
   

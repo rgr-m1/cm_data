@@ -1,7 +1,7 @@
 # data/spawn_presets/whirlipede spawns  
   
 ## whirlipede-1  
-Rarity: uncommon  
+Rarity: common  
 Levels: 22-36  
   
 ### World Presets  
@@ -41,6 +41,14 @@ Levels: 22-36
   * #cobblemon:is_lush
   
   
+### Anti-Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  
+  
 ## whirlipede-4  
 Rarity: common  
 Levels: 22-36  
@@ -52,6 +60,31 @@ Levels: 22-36
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
-  * #cobblemon:is_nether_fungus
+  * #cobblemon:nether/is_forest
+  * #cobblemon:nether/is_fungus
+  
+  
+## whirlipede-5  
+Rarity: common  
+Levels: 22-36  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_lush
   

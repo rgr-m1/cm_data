@@ -54,7 +54,9 @@ Secondary Type: flying
 | tm | cut |  
 | tm | defog |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | dragoncheer |  
 | tm | dragonclaw |  
 | tm | dragondance |  
 | tm | dragonpulse |  
@@ -105,6 +107,7 @@ Secondary Type: flying
 | tm | round |  
 | tm | sandstorm |  
 | tm | scaryface |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | shadowclaw |  
 | tm | skydrop |  
@@ -119,6 +122,7 @@ Secondary Type: flying
 | tm | swift |  
 | tm | swordsdance |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thunderpunch |  
 | tm | toxic |  
@@ -133,7 +137,6 @@ Secondary Type: flying
 | tutor | bodyslam |  
 | tutor | brickbreak |  
 | tutor | counter |  
-| tutor | crunch |  
 | tutor | curse |  
 | tutor | cut |  
 | tutor | defensecurl |  
@@ -161,7 +164,6 @@ Secondary Type: flying
 | tutor | fissure |  
 | tutor | flameburst |  
 | tutor | flamethrower |  
-| tutor | flareblitz |  
 | tutor | fly |  
 | tutor | focusblast |  
 | tutor | focuspunch |  

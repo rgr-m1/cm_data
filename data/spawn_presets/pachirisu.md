@@ -2,7 +2,7 @@
   
 ## pachirisu-1  
 Rarity: uncommon  
-Levels: 16-40  
+Levels: 16-41  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  

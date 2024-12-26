@@ -34,6 +34,7 @@ Primary Type: rock
 | egg | powergem |  
 | tm | bodyslam |  
 | tm | bulldoze |  
+| tm | curse |  
 | tm | dig |  
 | tm | earthpower |  
 | tm | earthquake |  
@@ -44,6 +45,7 @@ Primary Type: rock
 | tm | helpinghand |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | meteorbeam |  
 | tm | mudshot |  
 | tm | powergem |  
 | tm | protect |  
@@ -52,6 +54,7 @@ Primary Type: rock
 | tm | rockslide |  
 | tm | sandstorm |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | stealthrock |  
 | tm | stompingtantrum |  
 | tm | stoneedge |  

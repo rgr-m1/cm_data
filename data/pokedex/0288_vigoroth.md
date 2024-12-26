@@ -1,0 +1,150 @@
+# Vigoroth  
+Primary Type: normal  
+  
+## Spawn Locations  
+[Vigoroth](/data/spawn_presets/vigoroth.md)  
+  
+## Abilities  
+  * vitalspirit
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | encore |  
+| 1 | focusenergy |  
+| 1 | scratch |  
+| 1 | uproar |  
+| 14 | furyswipes |  
+| 17 | endure |  
+| 23 | slash |  
+| 27 | chipaway |  
+| 27 | throatchop |  
+| 33 | counter |  
+| 37 | focuspunch |  
+| 43 | reversal |  
+| tm | aerialace |  
+| tm | amnesia |  
+| tm | attract |  
+| tm | blizzard |  
+| tm | bodyslam |  
+| tm | brickbreak |  
+| tm | bulkup |  
+| tm | bulldoze |  
+| tm | captivate |  
+| tm | chillingwater |  
+| tm | confide |  
+| tm | curse |  
+| tm | cut |  
+| tm | dig |  
+| tm | doubleedge |  
+| tm | doubleteam |  
+| tm | drainpunch |  
+| tm | earthquake |  
+| tm | encore |  
+| tm | endeavor |  
+| tm | endure |  
+| tm | facade |  
+| tm | falseswipe |  
+| tm | fireblast |  
+| tm | firepunch |  
+| tm | flamethrower |  
+| tm | fling |  
+| tm | focusblast |  
+| tm | focuspunch |  
+| tm | frustration |  
+| tm | gunkshot |  
+| tm | helpinghand |  
+| tm | hiddenpower |  
+| tm | honeclaws |  
+| tm | hypervoice |  
+| tm | icebeam |  
+| tm | icepunch |  
+| tm | icywind |  
+| tm | incinerate |  
+| tm | knockoff |  
+| tm | lashout |  
+| tm | lowkick |  
+| tm | lowsweep |  
+| tm | metalclaw |  
+| tm | metronome |  
+| tm | mudshot |  
+| tm | mudslap |  
+| tm | naturalgift |  
+| tm | outrage |  
+| tm | playrough |  
+| tm | poisonjab |  
+| tm | poweruppunch |  
+| tm | protect |  
+| tm | raindance |  
+| tm | rest |  
+| tm | retaliate |  
+| tm | return |  
+| tm | reversal |  
+| tm | roar |  
+| tm | rockclimb |  
+| tm | rockslide |  
+| tm | rocksmash |  
+| tm | rocktomb |  
+| tm | round |  
+| tm | scaryface |  
+| tm | secretpower |  
+| tm | seedbomb |  
+| tm | shadowball |  
+| tm | shadowclaw |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | solarbeam |  
+| tm | stompingtantrum |  
+| tm | strength |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | swagger |  
+| tm | takedown |  
+| tm | taunt |  
+| tm | terablast |  
+| tm | thief |  
+| tm | throatchop |  
+| tm | thunder |  
+| tm | thunderbolt |  
+| tm | thunderpunch |  
+| tm | thunderwave |  
+| tm | toxic |  
+| tm | trailblaze |  
+| tm | uproar |  
+| tm | waterpulse |  
+| tm | workup |  
+| tm | xscissor |  
+| tm | zenheadbutt |  
+| tutor | afteryou |  
+| tutor | bodyslam |  
+| tutor | counter |  
+| tutor | covet |  
+| tutor | doubleedge |  
+| tutor | dynamicpunch |  
+| tutor | endure |  
+| tutor | firepunch |  
+| tutor | focuspunch |  
+| tutor | furycutter |  
+| tutor | gunkshot |  
+| tutor | headbutt |  
+| tutor | icepunch |  
+| tutor | icywind |  
+| tutor | lowkick |  
+| tutor | megakick |  
+| tutor | megapunch |  
+| tutor | mimic |  
+| tutor | mudslap |  
+| tutor | rockslide |  
+| tutor | seismictoss |  
+| tutor | shockwave |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | substitute |  
+| tutor | suckerpunch |  
+| tutor | swagger |  
+| tutor | thunderpunch |  
+| tutor | uproar |  
+| tutor | waterpulse |  
+  

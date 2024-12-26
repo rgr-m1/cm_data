@@ -1,7 +1,7 @@
 # data/spawn_presets/metang spawns  
   
 ## metang-1  
-Rarity: rare  
+Rarity: ultra-rare  
 Levels: 20-44  
   
 ### World Presets  
@@ -24,7 +24,7 @@ Levels: 20-44
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   
   
 ## metang-3  

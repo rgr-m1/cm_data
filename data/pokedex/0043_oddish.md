@@ -43,6 +43,7 @@ Secondary Type: poison
 | egg | synthesis |  
 | egg | teeterdance |  
 | egg | tickle |  
+| tm | acidspray |  
 | tm | attract |  
 | tm | bulletseed |  
 | tm | captivate |  
@@ -58,9 +59,13 @@ Secondary Type: poison
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
+| tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | infestation |  
+| tm | leafstorm |  
+| tm | magicalleaf |  
 | tm | naturalgift |  
 | tm | naturepower |  
 | tm | protect |  
@@ -77,7 +82,9 @@ Secondary Type: poison
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swordsdance |  
+| tm | terablast |  
 | tm | toxic |  
+| tm | trailblaze |  
 | tm | venoshock |  
 | tutor | absorb |  
 | tutor | acid |  

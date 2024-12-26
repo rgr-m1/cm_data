@@ -37,19 +37,26 @@ Secondary Type: poison
 | tm | acidspray |  
 | tm | bodyslam |  
 | tm | bulldoze |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | endure |  
 | tm | facade |  
 | tm | flashcannon |  
 | tm | gunkshot |  
+| tm | gyroball |  
+| tm | haze |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | metalsound |  
 | tm | poisonjab |  
 | tm | protect |  
 | tm | raindance |  
+| tm | rest |  
 | tm | sandstorm |  
 | tm | scaryface |  
 | tm | sleeptalk |  
 | tm | sludgebomb |  
+| tm | sludgewave |  
 | tm | steelbeam |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -57,7 +64,9 @@ Secondary Type: poison
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | toxic |  
 | tm | toxicspikes |  
+| tm | uproar |  
 | tm | venoshock |  
 | tm | zenheadbutt |  
   

@@ -33,3 +33,13 @@ Levels: 7-32
 #### Biomes  
   * #cobblemon:is_deep_dark
   
+  
+## joltik-3  
+Rarity: common  
+Levels: 7-32  
+  
+### World Presets  
+* [webs](/data/world_presets/webs.md)  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  

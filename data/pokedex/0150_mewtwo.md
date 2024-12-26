@@ -52,8 +52,10 @@ Primary Type: psychic
 | tm | chillingwater |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | darkpulse |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | dreameater |  
@@ -63,6 +65,7 @@ Primary Type: psychic
 | tm | embargo |  
 | tm | endure |  
 | tm | energyball |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | fireblast |  
 | tm | firepunch |  
@@ -76,6 +79,7 @@ Primary Type: psychic
 | tm | futuresight |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | gravity |  
 | tm | guardswap |  
 | tm | hail |  
 | tm | helpinghand |  
@@ -89,6 +93,8 @@ Primary Type: psychic
 | tm | imprison |  
 | tm | incinerate |  
 | tm | irontail |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | lightscreen |  
 | tm | lowkick |  
 | tm | lowsweep |  
@@ -107,6 +113,7 @@ Primary Type: psychic
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
+| tm | psychicnoise |  
 | tm | psychicterrain |  
 | tm | psychocut |  
 | tm | psychup |  
@@ -135,6 +142,7 @@ Primary Type: psychic
 | tm | snore |  
 | tm | solarbeam |  
 | tm | speedswap |  
+| tm | spite |  
 | tm | stompingtantrum |  
 | tm | stoneedge |  
 | tm | storedpower |  
@@ -158,13 +166,13 @@ Primary Type: psychic
 | tm | trick |  
 | tm | trickroom |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | willowisp |  
 | tm | wonderroom |  
 | tm | zenheadbutt |  
 | tutor | agility |  
 | tutor | amnesia |  
 | tutor | aquatail |  
-| tutor | aurasphere |  
 | tutor | barrier |  
 | tutor | bide |  
 | tutor | blizzard |  
@@ -172,7 +180,6 @@ Primary Type: psychic
 | tutor | brickbreak |  
 | tutor | bubblebeam |  
 | tutor | bulkup |  
-| tutor | calmmind |  
 | tutor | confuseray |  
 | tutor | confusion |  
 | tutor | counter |  
@@ -204,7 +211,6 @@ Primary Type: psychic
 | tutor | hiddenpower |  
 | tutor | hurricane |  
 | tutor | hyperbeam |  
-| tutor | icebeam |  
 | tutor | icepunch |  
 | tutor | icywind |  
 | tutor | irontail |  
@@ -228,7 +234,6 @@ Primary Type: psychic
 | tutor | psychic |  
 | tutor | psychocut |  
 | tutor | psychup |  
-| tutor | psystrike |  
 | tutor | psywave |  
 | tutor | rage |  
 | tutor | raindance |  

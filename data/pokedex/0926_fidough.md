@@ -34,12 +34,15 @@ Primary Type: fairy
 | egg | wish |  
 | egg | yawn |  
 | tm | agility |  
+| tm | alluringvoice |  
 | tm | batonpass |  
 | tm | bodyslam |  
 | tm | charm |  
 | tm | crunch |  
 | tm | dazzlinggleam |  
 | tm | dig |  
+| tm | doubleedge |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | firefang |  
@@ -51,8 +54,10 @@ Primary Type: fairy
 | tm | playrough |  
 | tm | protect |  
 | tm | psychicfangs |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
+| tm | roar |  
 | tm | sleeptalk |  
 | tm | snarl |  
 | tm | stompingtantrum |  

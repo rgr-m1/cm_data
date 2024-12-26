@@ -1,0 +1,177 @@
+# Sentret  
+Primary Type: normal  
+  
+## Spawn Locations  
+[Sentret](/data/spawn_presets/sentret.md)  
+  
+## Abilities  
+  * runaway
+  * keeneye
+  * h:frisk
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | foresight |  
+| 1 | scratch |  
+| 4 | defensecurl |  
+| 7 | quickattack |  
+| 13 | furyswipes |  
+| 16 | helpinghand |  
+| 19 | followme |  
+| 25 | slam |  
+| 28 | rest |  
+| 31 | suckerpunch |  
+| 36 | amnesia |  
+| 39 | batonpass |  
+| 42 | doubleedge |  
+| 42 | mefirst |  
+| 47 | hypervoice |  
+| egg | assist |  
+| egg | babydolleyes |  
+| egg | captivate |  
+| egg | charm |  
+| egg | covet |  
+| egg | doubleedge |  
+| egg | focusenergy |  
+| egg | irontail |  
+| egg | lastresort |  
+| egg | naturalgift |  
+| egg | pursuit |  
+| egg | reversal |  
+| egg | slash |  
+| egg | substitute |  
+| egg | tidyup |  
+| egg | trick |  
+| tm | amnesia |  
+| tm | attract |  
+| tm | batonpass |  
+| tm | blizzard |  
+| tm | bodyslam |  
+| tm | brickbreak |  
+| tm | brutalswing |  
+| tm | captivate |  
+| tm | chargebeam |  
+| tm | charm |  
+| tm | chillingwater |  
+| tm | confide |  
+| tm | cut |  
+| tm | dig |  
+| tm | doubleedge |  
+| tm | doubleteam |  
+| tm | echoedvoice |  
+| tm | endeavor |  
+| tm | endure |  
+| tm | facade |  
+| tm | firepunch |  
+| tm | flamethrower |  
+| tm | fling |  
+| tm | focuspunch |  
+| tm | frustration |  
+| tm | grassknot |  
+| tm | helpinghand |  
+| tm | hiddenpower |  
+| tm | honeclaws |  
+| tm | hypervoice |  
+| tm | icebeam |  
+| tm | icepunch |  
+| tm | irontail |  
+| tm | knockoff |  
+| tm | naturalgift |  
+| tm | playrough |  
+| tm | poweruppunch |  
+| tm | protect |  
+| tm | raindance |  
+| tm | rest |  
+| tm | retaliate |  
+| tm | return |  
+| tm | reversal |  
+| tm | round |  
+| tm | secretpower |  
+| tm | seedbomb |  
+| tm | shadowball |  
+| tm | shadowclaw |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | solarbeam |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | superfang |  
+| tm | surf |  
+| tm | swagger |  
+| tm | swift |  
+| tm | takedown |  
+| tm | terablast |  
+| tm | thief |  
+| tm | thunder |  
+| tm | thunderbolt |  
+| tm | thunderpunch |  
+| tm | toxic |  
+| tm | trailblaze |  
+| tm | trick |  
+| tm | uproar |  
+| tm | uturn |  
+| tm | waterpulse |  
+| tm | whirlpool |  
+| tm | workup |  
+| tutor | amnesia |  
+| tutor | aquatail |  
+| tutor | attract |  
+| tutor | bodyslam |  
+| tutor | covet |  
+| tutor | curse |  
+| tutor | cut |  
+| tutor | defensecurl |  
+| tutor | detect |  
+| tutor | dig |  
+| tutor | doubleedge |  
+| tutor | doubleteam |  
+| tutor | dynamicpunch |  
+| tutor | endure |  
+| tutor | firepunch |  
+| tutor | focusenergy |  
+| tutor | focuspunch |  
+| tutor | frustration |  
+| tutor | furycutter |  
+| tutor | furyswipes |  
+| tutor | headbutt |  
+| tutor | helpinghand |  
+| tutor | hiddenpower |  
+| tutor | hypervoice |  
+| tutor | icepunch |  
+| tutor | irontail |  
+| tutor | knockoff |  
+| tutor | lastresort |  
+| tutor | mimic |  
+| tutor | mudslap |  
+| tutor | protect |  
+| tutor | pursuit |  
+| tutor | quickattack |  
+| tutor | rest |  
+| tutor | return |  
+| tutor | reversal |  
+| tutor | rollout |  
+| tutor | scratch |  
+| tutor | shadowball |  
+| tutor | shockwave |  
+| tutor | slam |  
+| tutor | slash |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | substitute |  
+| tutor | suckerpunch |  
+| tutor | sunnyday |  
+| tutor | superfang |  
+| tutor | surf |  
+| tutor | swagger |  
+| tutor | swift |  
+| tutor | tackle |  
+| tutor | thief |  
+| tutor | thunderpunch |  
+| tutor | toxic |  
+| tutor | trick |  
+| tutor | uproar |  
+| tutor | waterpulse |  
+  

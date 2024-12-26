@@ -20,22 +20,21 @@ Levels: 26-46
   * #cobblemon:is_freezing
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## mrmime-2  
 Rarity: uncommon  
 Levels: 26-46  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

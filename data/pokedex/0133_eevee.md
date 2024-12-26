@@ -48,6 +48,7 @@ Primary Type: normal
 | egg | tickle |  
 | egg | wish |  
 | egg | yawn |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | batonpass |  
 | tm | bodyslam |  
@@ -55,7 +56,9 @@ Primary Type: normal
 | tm | captivate |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
 | tm | endure |  
@@ -75,6 +78,7 @@ Primary Type: normal
 | tm | rest |  
 | tm | retaliate |  
 | tm | return |  
+| tm | roar |  
 | tm | round |  
 | tm | secretpower |  
 | tm | shadowball |  

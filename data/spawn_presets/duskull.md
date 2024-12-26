@@ -1,7 +1,7 @@
 # data/spawn_presets/duskull spawns  
   
 ## duskull-1  
-Rarity: uncommon  
+Rarity: common  
 Levels: 5-30  
   
 ### World Presets  
@@ -10,7 +10,7 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_deep_dark
+  * #cobblemon:is_spooky
   
   
 ## duskull-2  
@@ -23,18 +23,5 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_soul_sand
-  
-  
-## duskull-3  
-Rarity: common  
-Levels: 5-30  
-  
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_spooky
+  * #cobblemon:nether/is_soul_sand
   

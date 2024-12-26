@@ -12,5 +12,6 @@ Levels: 22-47
   
 #### Biomes  
   * #cobblemon:is_snowy_forest
+  * #cobblemon:is_snowy_taiga
   * #cobblemon:is_tundra
   

@@ -34,6 +34,7 @@ Secondary Type: steel
 | tm | brickbreak |  
 | tm | drainingkiss |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -41,8 +42,10 @@ Secondary Type: steel
 | tm | fling |  
 | tm | foulplay |  
 | tm | helpinghand |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | metalclaw |  
+| tm | metalsound |  
 | tm | metronome |  
 | tm | playrough |  
 | tm | pounce |  
@@ -52,6 +55,7 @@ Secondary Type: steel
 | tm | rockslide |  
 | tm | rocktomb |  
 | tm | skillswap |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | stealthrock |  
 | tm | steelbeam |  

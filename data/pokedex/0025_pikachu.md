@@ -36,10 +36,12 @@ Primary Type: electric
 | 44 | thunder |  
 | 50 | wildcharge |  
 | tm | agility |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | bodyslam |  
 | tm | brickbreak |  
 | tm | captivate |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | charm |  
 | tm | confide |  
@@ -53,6 +55,7 @@ Primary Type: electric
 | tm | electroball |  
 | tm | electroweb |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -64,6 +67,7 @@ Primary Type: electric
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | irontail |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | megakick |  
 | tm | megapunch |  
@@ -97,6 +101,7 @@ Primary Type: electric
 | tm | thunderwave |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | upperhand |  
 | tm | uproar |  
 | tm | voltswitch |  
 | tm | wildcharge |  
@@ -107,7 +112,6 @@ Primary Type: electric
 | tutor | bodyslam |  
 | tutor | brickbreak |  
 | tutor | calmmind |  
-| tutor | celebrate |  
 | tutor | charm |  
 | tutor | counter |  
 | tutor | covet |  
@@ -130,7 +134,6 @@ Primary Type: electric
 | tutor | fakeout |  
 | tutor | feint |  
 | tutor | flash |  
-| tutor | fly |  
 | tutor | focuspunch |  
 | tutor | frustration |  
 | tutor | grassknot |  
@@ -141,7 +144,6 @@ Primary Type: electric
 | tutor | helpinghand |  
 | tutor | hiddenpower |  
 | tutor | holdhands |  
-| tutor | irontail |  
 | tutor | knockoff |  
 | tutor | laserfocus |  
 | tutor | lastresort |  
@@ -153,10 +155,7 @@ Primary Type: electric
 | tutor | mudslap |  
 | tutor | nuzzle |  
 | tutor | payday |  
-| tutor | playnice |  
-| tutor | present |  
 | tutor | protect |  
-| tutor | quickattack |  
 | tutor | rage |  
 | tutor | raindance |  
 | tutor | reflect |  
@@ -176,7 +175,6 @@ Primary Type: electric
 | tutor | strength |  
 | tutor | submission |  
 | tutor | substitute |  
-| tutor | surf |  
 | tutor | swagger |  
 | tutor | sweetkiss |  
 | tutor | sweetscent |  
@@ -184,10 +182,7 @@ Primary Type: electric
 | tutor | tailwhip |  
 | tutor | takedown |  
 | tutor | teeterdance |  
-| tutor | thunder |  
-| tutor | thunderbolt |  
 | tutor | thunderpunch |  
-| tutor | thundershock |  
 | tutor | thunderwave |  
 | tutor | toxic |  
 | tutor | voltswitch |  

@@ -29,24 +29,21 @@ Levels: 1-20
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## ralts-3  
 Rarity: rare  
 Levels: 1-20  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## ralts-4  

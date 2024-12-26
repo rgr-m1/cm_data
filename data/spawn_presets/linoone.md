@@ -13,7 +13,7 @@ Levels: 20-42
   * #cobblemon:is_temperate
   
   
-## linoone-galarian-1  
+## linoone-galarian-2  
 Rarity: common  
 Levels: 20-42  
   

@@ -29,6 +29,7 @@ Primary Type: steel
 | 42 | slash |  
 | 48 | metalsound |  
 | 54 | thrash |  
+| tm | aerialace |  
 | tm | amnesia |  
 | tm | assurance |  
 | tm | attract |  
@@ -39,12 +40,16 @@ Primary Type: steel
 | tm | chillingwater |  
 | tm | closecombat |  
 | tm | crunch |  
+| tm | curse |  
 | tm | darkpulse |  
 | tm | dig |  
+| tm | doubleedge |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
 | tm | falseswipe |  
+| tm | flashcannon |  
 | tm | fling |  
 | tm | foulplay |  
 | tm | gigaimpact |  
@@ -57,7 +62,10 @@ Primary Type: steel
 | tm | irondefense |  
 | tm | ironhead |  
 | tm | irontail |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | metalclaw |  
+| tm | metalsound |  
 | tm | metronome |  
 | tm | nastyplot |  
 | tm | payback |  
@@ -74,6 +82,7 @@ Primary Type: steel
 | tm | shadowclaw |  
 | tm | sleeptalk |  
 | tm | snore |  
+| tm | spite |  
 | tm | stealthrock |  
 | tm | steelbeam |  
 | tm | substitute |  

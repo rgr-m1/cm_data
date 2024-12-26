@@ -25,6 +25,7 @@ Primary Type: water
 | 30 | agility |  
 | 31 | brine |  
 | 35 | laserfocus |  
+| 35 | waterpulse |  
 | 40 | dragonpulse |  
 | 45 | hydropump |  
 | 50 | dragondance |  
@@ -48,6 +49,7 @@ Primary Type: water
 | tm | bounce |  
 | tm | brine |  
 | tm | captivate |  
+| tm | chillingwater |  
 | tm | confide |  
 | tm | dive |  
 | tm | doubleteam |  
@@ -56,6 +58,7 @@ Primary Type: water
 | tm | endure |  
 | tm | facade |  
 | tm | flashcannon |  
+| tm | flipturn |  
 | tm | focusenergy |  
 | tm | frustration |  
 | tm | hail |  
@@ -73,6 +76,7 @@ Primary Type: water
 | tm | return |  
 | tm | round |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | secretpower |  
 | tm | sleeptalk |  
 | tm | snore |  
@@ -80,9 +84,11 @@ Primary Type: water
 | tm | surf |  
 | tm | swagger |  
 | tm | swift |  
+| tm | terablast |  
 | tm | toxic |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | whirlpool |  
 | tutor | agility |  
 | tutor | attract |  

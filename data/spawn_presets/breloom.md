@@ -1,6 +1,6 @@
 # data/spawn_presets/breloom spawns  
   
-## shroomish-1  
+## breloom-1  
 Rarity: common  
 Levels: 23-46  
   

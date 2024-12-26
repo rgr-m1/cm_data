@@ -17,6 +17,7 @@ Levels: 1-24
   
 #### Biomes  
   * #cobblemon:is_freezing
+  * #cobblemon:is_spooky
   
   
 ## combee-2  

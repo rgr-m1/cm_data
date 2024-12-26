@@ -44,9 +44,12 @@ Primary Type: ground
 | tm | bulldoze |  
 | tm | closecombat |  
 | tm | confide |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthpower |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | frustration |  
@@ -70,6 +73,7 @@ Primary Type: ground
 | tm | sandstorm |  
 | tm | sandtomb |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | snore |  
 | tm | stealthrock |  
 | tm | stompingtantrum |  

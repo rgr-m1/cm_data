@@ -46,6 +46,7 @@ Primary Type: normal
 | tm | crunch |  
 | tm | cut |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthquake |  
 | tm | endure |  
@@ -60,6 +61,7 @@ Primary Type: normal
 | tm | gunkshot |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
+| tm | highhorsepower |  
 | tm | honeclaws |  
 | tm | hyperbeam |  
 | tm | hypervoice |  
@@ -100,10 +102,12 @@ Primary Type: normal
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunderpunch |  
 | tm | torment |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | uproar |  
 | tm | workup |  
 | tutor | attract |  
 | tutor | bodyslam |  

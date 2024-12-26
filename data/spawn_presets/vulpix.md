@@ -30,16 +30,16 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
+  * #cobblemon:nether/is_forest
   
   
 ### Anti-Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
   
   
-## vulpix-alolan-1  
+## vulpix-alolan-3  
 Rarity: uncommon  
 Levels: 5-30  
   
@@ -50,9 +50,10 @@ Levels: 5-30
   
 #### Biomes  
   * #cobblemon:is_snowy_forest
+  * #cobblemon:is_snowy_taiga
   
   
-## vulpix-alolan-2  
+## vulpix-alolan-4  
 Rarity: common  
 Levels: 5-30  
   
@@ -62,5 +63,5 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
   

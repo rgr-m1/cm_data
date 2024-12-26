@@ -35,6 +35,7 @@ Secondary Type: poison
 | tm | captivate |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | darkpulse |  
 | tm | dazzlinggleam |  
 | tm | doubleteam |  
@@ -52,6 +53,7 @@ Secondary Type: poison
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | gunkshot |  
+| tm | haze |  
 | tm | hex |  
 | tm | hiddenpower |  
 | tm | icepunch |  
@@ -62,9 +64,11 @@ Secondary Type: poison
 | tm | nastyplot |  
 | tm | naturalgift |  
 | tm | nightshade |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | phantomforce |  
 | tm | poisonjab |  
+| tm | poltergeist |  
 | tm | protect |  
 | tm | psychic |  
 | tm | psychup |  
@@ -78,11 +82,13 @@ Secondary Type: poison
 | tm | shadowball |  
 | tm | shadowclaw |  
 | tm | skillswap |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | sludgebomb |  
 | tm | sludgewave |  
 | tm | snatch |  
 | tm | snore |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  

@@ -34,7 +34,7 @@ Levels: 10-40
   * #cobblemon:is_floral
   
   
-## butterfree-valencian-1  
+## butterfree-valencian-3  
 Rarity: common  
 Levels: 10-40  
   
@@ -48,7 +48,7 @@ Levels: 10-40
   * #cobblemon:is_tropical_island
   
   
-## butterfree-valencian-2  
+## butterfree-valencian-4  
 Rarity: common  
 Levels: 10-40  
   

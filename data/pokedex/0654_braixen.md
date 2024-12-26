@@ -31,6 +31,7 @@ Primary Type: fire
 | 59 | fireblast |  
 | tm | agility |  
 | tm | attract |  
+| tm | burningjealousy |  
 | tm | calmmind |  
 | tm | charm |  
 | tm | confide |  

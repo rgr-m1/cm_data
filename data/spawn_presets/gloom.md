@@ -26,7 +26,7 @@ Levels: 21-40
   * #cobblemon:is_temperate
   
   
-## gloom-valencian-1  
+## gloom-valencian-3  
 Rarity: common  
 Levels: 21-40  
   

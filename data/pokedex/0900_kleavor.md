@@ -35,8 +35,11 @@ Secondary Type: rock
 | tm | airslash |  
 | tm | batonpass |  
 | tm | brickbreak |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | closecombat |  
+| tm | doubleedge |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
 | tm | falseswipe |  
@@ -44,8 +47,10 @@ Secondary Type: rock
 | tm | helpinghand |  
 | tm | hyperbeam |  
 | tm | lightscreen |  
+| tm | lunge |  
 | tm | pounce |  
 | tm | protect |  
+| tm | raindance |  
 | tm | rest |  
 | tm | reversal |  
 | tm | rockblast |  
@@ -53,7 +58,9 @@ Secondary Type: rock
 | tm | rocktomb |  
 | tm | sandstorm |  
 | tm | scaryface |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | stealthrock |  
 | tm | stoneedge |  
 | tm | strugglebug |  
@@ -67,5 +74,6 @@ Secondary Type: rock
 | tm | thief |  
 | tm | trailblaze |  
 | tm | uturn |  
+| tm | vacuumwave |  
 | tm | xscissor |  
   

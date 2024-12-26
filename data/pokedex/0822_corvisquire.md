@@ -32,6 +32,7 @@ Primary Type: flying
 | tm | assurance |  
 | tm | attract |  
 | tm | bravebird |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -49,6 +50,7 @@ Primary Type: flying
 | tm | scaryface |  
 | tm | sleeptalk |  
 | tm | snore |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swift |  

@@ -19,7 +19,7 @@ Levels: 27-49
   * #cobblemon:is_spooky
   
   
-## raichu-alolan-1  
+## raichu-alolan-2  
 Rarity: uncommon  
 Levels: 27-49  
   
@@ -31,4 +31,10 @@ Levels: 27-49
 #### Biomes  
   * #cobblemon:is_beach
   * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
   

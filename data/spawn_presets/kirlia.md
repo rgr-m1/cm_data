@@ -29,24 +29,21 @@ Levels: 20-29
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## kirlia-3  
 Rarity: rare  
 Levels: 20-29  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## kirlia-4  

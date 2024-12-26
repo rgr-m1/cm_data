@@ -1,19 +1,6 @@
 # data/spawn_presets/dusknoir spawns  
   
 ## dusknoir-1  
-Rarity: uncommon  
-Levels: 41-53  
-  
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_deep_dark
-  
-  
-## dusknoir-2  
 Rarity: common  
 Levels: 41-53  
   
@@ -23,7 +10,7 @@ Levels: 41-53
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_soul_sand
+  * #cobblemon:is_spooky
   
   
 ## dusknoir-3  
@@ -36,5 +23,5 @@ Levels: 41-53
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_spooky
+  * #cobblemon:nether/is_soul_sand
   

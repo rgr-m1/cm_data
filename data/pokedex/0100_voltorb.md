@@ -35,12 +35,15 @@ Primary Type: electric
 | egg | metalsound |  
 | egg | recycle |  
 | tm | agility |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | eerieimpulse |  
 | tm | electricterrain |  
 | tm | electroball |  
+| tm | electroweb |  
 | tm | endure |  
 | tm | explosion |  
 | tm | facade |  
@@ -51,6 +54,7 @@ Primary Type: electric
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | lightscreen |  
+| tm | metalsound |  
 | tm | naturalgift |  
 | tm | protect |  
 | tm | raindance |  

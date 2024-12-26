@@ -79,6 +79,7 @@ Secondary Type: ghost
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | gigaimpact |  
+| tm | gravity |  
 | tm | gyroball |  
 | tm | helpinghand |  
 | tm | hex |  
@@ -89,6 +90,8 @@ Secondary Type: ghost
 | tm | icywind |  
 | tm | imprison |  
 | tm | incinerate |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | lightscreen |  
 | tm | lowkick |  
 | tm | lowsweep |  
@@ -101,9 +104,11 @@ Secondary Type: ghost
 | tm | nastyplot |  
 | tm | naturalgift |  
 | tm | nightshade |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | phantomforce |  
 | tm | poisonjab |  
+| tm | poltergeist |  
 | tm | powergem |  
 | tm | poweruppunch |  
 | tm | protect |  
@@ -124,10 +129,12 @@ Secondary Type: ghost
 | tm | shadowclaw |  
 | tm | shockwave |  
 | tm | skillswap |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | snarl |  
 | tm | snatch |  
 | tm | snore |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  
@@ -136,6 +143,7 @@ Secondary Type: ghost
 | tm | telekinesis |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunderpunch |  
 | tm | thunderwave |  
 | tm | torment |  

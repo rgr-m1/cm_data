@@ -26,7 +26,7 @@ Levels: 7-32
   * #cobblemon:is_temperate
   
   
-## oddish-valencian-1  
+## oddish-valencian-3  
 Rarity: common  
 Levels: 7-32  
   

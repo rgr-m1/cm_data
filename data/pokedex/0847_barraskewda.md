@@ -35,10 +35,12 @@ Primary Type: water
 | tm | closecombat |  
 | tm | crunch |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | drillrun |  
 | tm | endure |  
 | tm | facade |  
 | tm | focusenergy |  
+| tm | flipturn |  
 | tm | gigaimpact |  
 | tm | hydropump |  
 | tm | hyperbeam |  
@@ -52,6 +54,7 @@ Primary Type: water
 | tm | rest |  
 | tm | round |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | scaryface |  
 | tm | sleeptalk |  
 | tm | snore |  

@@ -35,6 +35,8 @@ Primary Type: fighting
 | tm | brickbreak |  
 | tm | bulkup |  
 | tm | closecombat |  
+| tm | coaching |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | falseswipe |  
@@ -42,13 +44,17 @@ Primary Type: fighting
 | tm | focusenergy |  
 | tm | gigaimpact |  
 | tm | helpinghand |  
+| tm | highhorsepower |  
 | tm | hyperbeam |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | knockoff |  
+| tm | lunge |  
 | tm | megahorn |  
 | tm | payback |  
 | tm | poisonjab |  
 | tm | protect |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
 | tm | retaliate |  
@@ -69,6 +75,8 @@ Primary Type: fighting
 | tm | terablast |  
 | tm | throatchop |  
 | tm | trailblaze |  
+| tm | upperhand |  
+| tm | uproar |  
 | tm | zenheadbutt |  
 | tutor | coaching |  
   

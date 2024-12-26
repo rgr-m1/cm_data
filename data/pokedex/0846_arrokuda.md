@@ -37,9 +37,11 @@ Primary Type: water
 | tm | closecombat |  
 | tm | crunch |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | drillrun |  
 | tm | endure |  
 | tm | facade |  
+| tm | flipturn |  
 | tm | focusenergy |  
 | tm | hydropump |  
 | tm | icefang |  
@@ -51,6 +53,7 @@ Primary Type: water
 | tm | rest |  
 | tm | round |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | sleeptalk |  
 | tm | snore |  
 | tm | substitute |  

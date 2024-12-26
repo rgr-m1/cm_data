@@ -6,7 +6,7 @@ Levels: 30-51
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [pillager_outpost](/data/world_presets/pillager_outpost.md)  
+* [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
   
@@ -20,15 +20,12 @@ Levels: 30-51
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
   
-  
-### Anti-Conditions  
   
 #### Structures  
   * #minecraft:village
@@ -40,7 +37,7 @@ Levels: 30-51
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
+* [pillager_outpost](/data/world_presets/pillager_outpost.md)  
   
 ### Conditions  
   

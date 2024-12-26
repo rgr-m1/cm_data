@@ -19,10 +19,45 @@ Rarity: common
 Levels: 34-48  
   
 ### World Presets  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
 #### Biomes  
+  * #cobblemon:is_frozen_ocean
+  
+  
+## dewgong-3  
+Rarity: common  
+Levels: 34-48  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_cold_ocean
+  * #cobblemon:is_frozen_ocean
+  
+  
+## dewgong-4  
+Rarity: common  
+Levels: 34-48  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  
+  
+## dewgong-5  
+Rarity: common  
+Levels: 34-48  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_cold_ocean
   * #cobblemon:is_frozen_ocean
   

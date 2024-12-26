@@ -39,6 +39,7 @@ Secondary Type: fairy
 | 49 | moonblast |  
 | 56 | dreameater |  
 | 63 | futuresight |  
+| tm | alluringvoice |  
 | tm | allyswitch |  
 | tm | attract |  
 | tm | aurasphere |  
@@ -58,6 +59,7 @@ Secondary Type: fairy
 | tm | encore |  
 | tm | endure |  
 | tm | energyball |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | firepunch |  
 | tm | flash |  
@@ -67,6 +69,7 @@ Secondary Type: fairy
 | tm | futuresight |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | gravity |  
 | tm | guardswap |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -75,20 +78,24 @@ Secondary Type: fairy
 | tm | icepunch |  
 | tm | icywind |  
 | tm | imprison |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | magicalleaf |  
 | tm | magicroom |  
 | tm | megakick |  
 | tm | megapunch |  
 | tm | metronome |  
+| tm | mistyexplosion |  
 | tm | mistyterrain |  
 | tm | mysticalfire |  
 | tm | naturalgift |  
 | tm | nightshade |  
+| tm | painsplit |  
 | tm | powerswap |  
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
+| tm | psychicnoise |  
 | tm | psychicterrain |  
 | tm | psychup |  
 | tm | psyshock |  
@@ -122,6 +129,8 @@ Secondary Type: fairy
 | tm | toxic |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | tripleaxel |  
+| tm | vacuumwave |  
 | tm | willowisp |  
 | tm | wonderroom |  
 | tm | zenheadbutt |  

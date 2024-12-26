@@ -40,9 +40,12 @@ Secondary Type: flying
 | tm | attract |  
 | tm | bravebird |  
 | tm | confide |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fireblast |  
 | tm | firespin |  
 | tm | flamecharge |  
@@ -73,6 +76,7 @@ Secondary Type: flying
 | tm | tailwind |  
 | tm | takedown |  
 | tm | taunt |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thief |  
 | tm | toxic |  

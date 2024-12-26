@@ -10,8 +10,7 @@ Levels: 38-43
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_basalt
   
   
 ## magcargo-2  
@@ -19,7 +18,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [lava_surface](/data/world_presets/lava_surface.md)  
+* [lava](/data/world_presets/lava.md)  
   
 ### Conditions  
   
@@ -32,7 +31,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [lava_surface](/data/world_presets/lava_surface.md)  
+* [lava](/data/world_presets/lava.md)  
   
 ### Conditions  
   
@@ -60,7 +59,7 @@ Levels: 38-43
   
   
 #### Needed Nearby Blocks  
-  * minecraft:lava
+  * #minecraft:lava
   
   
 ## magcargo-5  
@@ -68,7 +67,7 @@ Rarity: common
 Levels: 38-43  
   
 ### World Presets  
-* [lava_surface](/data/world_presets/lava_surface.md)  
+* [lava](/data/world_presets/lava.md)  
   
 ### Conditions  
   

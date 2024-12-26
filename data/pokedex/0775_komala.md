@@ -39,8 +39,11 @@ Primary Type: normal
 | tm | calmmind |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fling |  
@@ -51,6 +54,7 @@ Primary Type: normal
 | tm | hyperbeam |  
 | tm | icespinner |  
 | tm | ironhead |  
+| tm | knockoff |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | metalclaw |  
@@ -71,6 +75,7 @@ Primary Type: normal
 | tm | stompingtantrum |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | swagger |  
 | tm | swordsdance |  
 | tm | takedown |  

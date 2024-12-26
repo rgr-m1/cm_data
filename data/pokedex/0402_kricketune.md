@@ -39,12 +39,14 @@ Primary Type: bug
 | tm | attract |  
 | tm | batonpass |  
 | tm | brickbreak |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | captivate |  
 | tm | confide |  
 | tm | cut |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | falseswipe |  
@@ -58,7 +60,9 @@ Primary Type: bug
 | tm | hyperbeam |  
 | tm | hypervoice |  
 | tm | infestation |  
+| tm | knockoff |  
 | tm | leechlife |  
+| tm | lunge |  
 | tm | naturalgift |  
 | tm | pounce |  
 | tm | poweruppunch |  
@@ -70,6 +74,7 @@ Primary Type: bug
 | tm | round |  
 | tm | secretpower |  
 | tm | silverwind |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | strength |  
 | tm | strugglebug |  
@@ -80,8 +85,10 @@ Primary Type: bug
 | tm | takedown |  
 | tm | taunt |  
 | tm | terablast |  
+| tm | throatchop |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | uproar |  
 | tm | xscissor |  
 | tutor | bugbite |  
 | tutor | endeavor |  

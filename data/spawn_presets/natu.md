@@ -15,7 +15,7 @@ Levels: 7-32
   * #cobblemon:is_plateau
   
   
-## natu-2  
+## natu-3  
 Rarity: common  
 Levels: 7-32  
   

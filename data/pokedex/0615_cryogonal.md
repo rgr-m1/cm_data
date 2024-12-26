@@ -54,6 +54,7 @@ Primary Type: ice
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | hail |  
+| tm | haze |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | icebeam |  
@@ -80,6 +81,7 @@ Primary Type: ice
 | tm | swagger |  
 | tm | takedown |  
 | tm | terablast |  
+| tm | tripleaxel |  
 | tm | toxic |  
 | tm | waterpulse |  
 | tutor | bind |  

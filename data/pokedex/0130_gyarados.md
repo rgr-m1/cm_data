@@ -48,11 +48,14 @@ Secondary Type: flying
 | tm | crunch |  
 | tm | darkpulse |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | dragoncheer |  
 | tm | dragondance |  
 | tm | dragonpulse |  
 | tm | dragontail |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -71,6 +74,7 @@ Secondary Type: flying
 | tm | incinerate |  
 | tm | ironhead |  
 | tm | irontail |  
+| tm | lashout |  
 | tm | muddywater |  
 | tm | naturalgift |  
 | tm | outrage |  
@@ -85,10 +89,12 @@ Secondary Type: flying
 | tm | round |  
 | tm | sandstorm |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | sleeptalk |  
 | tm | snore |  
+| tm | spite |  
 | tm | stoneedge |  
 | tm | strength |  
 | tm | substitute |  
@@ -97,6 +103,7 @@ Secondary Type: flying
 | tm | swagger |  
 | tm | takedown |  
 | tm | taunt |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thunder |  
 | tm | thunderbolt |  

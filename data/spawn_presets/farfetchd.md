@@ -19,7 +19,7 @@ Levels: 13-38
   * cobblemon:medicinal_leek
   
   
-## farfetchd-galarian-1  
+## farfetchd-galarian-2  
 Rarity: rare  
 Levels: 13-38  
   

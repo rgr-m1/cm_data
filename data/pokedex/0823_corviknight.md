@@ -39,6 +39,9 @@ Secondary Type: steel
 | tm | bodyslam |  
 | tm | bravebird |  
 | tm | bulkup |  
+| tm | curse |  
+| tm | doubleedge |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -53,6 +56,7 @@ Secondary Type: steel
 | tm | ironhead |  
 | tm | lightscreen |  
 | tm | metalclaw |  
+| tm | metalsound |  
 | tm | nastyplot |  
 | tm | payback |  
 | tm | protect |  
@@ -67,6 +71,7 @@ Secondary Type: steel
 | tm | screech |  
 | tm | sleeptalk |  
 | tm | snore |  
+| tm | spite |  
 | tm | steelbeam |  
 | tm | steelwing |  
 | tm | substitute |  

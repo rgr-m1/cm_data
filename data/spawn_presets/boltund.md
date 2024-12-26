@@ -20,22 +20,21 @@ Levels: 25-49
   * #cobblemon:is_freezing
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## boltund-2  
 Rarity: common  
 Levels: 25-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

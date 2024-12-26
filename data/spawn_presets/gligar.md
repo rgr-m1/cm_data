@@ -24,5 +24,5 @@ Levels: 18-43
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_mountain
+  * #cobblemon:nether/is_mountain
   

@@ -25,5 +25,5 @@ Levels: 36-53
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
+  * #cobblemon:nether/is_forest
   

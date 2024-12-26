@@ -82,7 +82,12 @@ Primary Type: normal
 | tm | bulldoze |  
 | tm | captivate |  
 | tm | charm |  
+| tm | chillingwater |  
 | tm | confide |  
+| tm | crunch |  
+| tm | curse |  
+| tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthquake |  
 | tm | encore |  
@@ -94,7 +99,9 @@ Primary Type: normal
 | tm | fling |  
 | tm | focuspunch |  
 | tm | frustration |  
+| tm | gigaimpact |  
 | tm | gunkshot |  
+| tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hydropump |  
 | tm | hypervoice |  
@@ -105,6 +112,7 @@ Primary Type: normal
 | tm | megakick |  
 | tm | megapunch |  
 | tm | metronome |  
+| tm | mudslap |  
 | tm | naturalgift |  
 | tm | payday |  
 | tm | poweruppunch |  
@@ -137,10 +145,13 @@ Primary Type: normal
 | tm | superpower |  
 | tm | surf |  
 | tm | swagger |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | thunder |  
 | tm | thunderbolt |  
 | tm | thunderpunch |  
 | tm | toxic |  
+| tm | trailblaze |  
 | tm | uproar |  
 | tm | waterpulse |  
 | tm | whirlpool |  
@@ -173,7 +184,6 @@ Primary Type: normal
 | tutor | snore |  
 | tutor | stompingtantrum |  
 | tutor | superpower |  
-| tutor | tackle |  
 | tutor | thunderpunch |  
 | tutor | uproar |  
 | tutor | waterpulse |  

@@ -28,3 +28,17 @@ Levels: 4-29
 #### Biomes  
   * #cobblemon:is_magical
   
+  
+## chingling-3  
+Rarity: uncommon  
+Levels: 4-29  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:bell
+  

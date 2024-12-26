@@ -20,7 +20,11 @@ Secondary Type: flying
 | 1 | sweetscent |  
 | 13 | bugbite |  
 | 29 | bugbuzz |  
+| tm | bugbite |  
 | tm | bugbuzz |  
+| tm | endeavor |  
+| tm | lunge |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | snore |  
 | tm | strugglebug |  

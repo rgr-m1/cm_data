@@ -1,7 +1,7 @@
 # data/spawn_presets/tinkatuff spawns  
   
 ## tinkatuff-1  
-Rarity: rare  
+Rarity: common  
 Levels: 24-38  
   
 ### World Presets  
@@ -11,5 +11,9 @@ Levels: 24-38
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_hills
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #cobblemon:ruin
   

@@ -18,7 +18,7 @@ Rarity: common
 Levels: 16-41  
   
 ### World Presets  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
 Min Y: 48  
@@ -30,6 +30,7 @@ Min Y: 48
 ### Anti-Conditions  
   
 #### Biomes  
+  * #cobblemon:is_frozen_ocean
   * #cobblemon:is_warm_ocean
   
   
@@ -38,7 +39,63 @@ Rarity: common
 Levels: 16-41  
   
 ### World Presets  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_warm_ocean
+  
+  
+## pyukumuku-4  
+Rarity: common  
+Levels: 16-41  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_beach
+  * #cobblemon:is_ocean
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  * #cobblemon:is_warm_ocean
+  
+  
+## pyukumuku-5  
+Rarity: common  
+Levels: 16-41  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_warm_ocean
+  
+  
+## pyukumuku-6  
+Rarity: common  
+Levels: 16-41  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_beach
+  * #cobblemon:is_ocean
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  * #cobblemon:is_warm_ocean
+  
+  
+## pyukumuku-7  
+Rarity: common  
+Levels: 16-41  
   
 ### Conditions  
   

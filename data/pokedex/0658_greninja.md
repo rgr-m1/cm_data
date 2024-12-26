@@ -57,6 +57,7 @@ Secondary Type: dark
 | tm | gigaimpact |  
 | tm | grassknot |  
 | tm | gunkshot |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hydrocannon |  
@@ -82,6 +83,7 @@ Secondary Type: dark
 | tm | scald |  
 | tm | secretpower |  
 | tm | sleeptalk |  
+| tm | sludgewave |  
 | tm | smackdown |  
 | tm | snowscape |  
 | tm | spikes |  
@@ -98,10 +100,12 @@ Secondary Type: dark
 | tm | toxic |  
 | tm | toxicspikes |  
 | tm | trailblaze |  
+| tm | upperhand |  
 | tm | uturn |  
 | tm | waterfall |  
 | tm | waterpledge |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | workup |  
 | tutor | bounce |  
 | tutor | gunkshot |  

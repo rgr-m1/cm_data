@@ -40,15 +40,20 @@ Primary Type: fire
 | 55 | lastresort |  
 | 71 | fireblast |  
 | tm | attract |  
+| tm | alluringvoice |  
 | tm | batonpass |  
 | tm | bodyslam |  
+| tm | burningjealousy |  
 | tm | calmmind |  
 | tm | captivate |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -82,6 +87,7 @@ Primary Type: fire
 | tm | rocksmash |  
 | tm | round |  
 | tm | scaryface |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | shadowball |  
 | tm | sleeptalk |  
@@ -94,6 +100,7 @@ Primary Type: fire
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | toxic |  
 | tm | trailblaze |  

@@ -14,22 +14,19 @@ Levels: 30-46
   * #cobblemon:is_freezing
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## jynx-2  
 Rarity: uncommon  
 Levels: 30-46  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_freezing
+  
+  
+#### Structures  
+  * #minecraft:village
   

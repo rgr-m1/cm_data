@@ -24,8 +24,19 @@ Levels: 35-45
   * #cobblemon:is_overworld
   
   
-#### Needed Nearby Blocks  
-  * minecraft:iron_bars
-  * minecraft:cracked_stone_bricks
-  * minecraft:infested_cracked_stone_bricks
+#### Structures  
+  * #cobblemon:ruin
+  
+  
+## doublade-3  
+Rarity: uncommon  
+Levels: 35-45  
+  
+### World Presets  
+* [stronghold](/data/world_presets/stronghold.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
   

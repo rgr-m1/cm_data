@@ -17,8 +17,5 @@ Min Y: 62
   
   
 ### Needed Nearby Blocks  
-  * minecraft:birch_planks
-  * minecraft:cobblestone_stairs
-  * minecraft:cobblestone_wall
-  * minecraft:dark_oak_planks
+  * #cobblemon:mansion_blocks
   

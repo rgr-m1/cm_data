@@ -66,13 +66,10 @@ Rarity: common
 Levels: 1-25  
   
 ### World Presets  
+* [webs](/data/world_presets/webs.md)  
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-  
-#### Biomes  
-  * terralith:cave/infested_caves
-  
   
 ## spinarak-5  
 Rarity: common  

@@ -1,21 +1,30 @@
 # data/spawn_presets/masquerain spawns  
   
 ## masquerain-1  
-Rarity: common  
+Rarity: uncommon  
 Levels: 22-45  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
-* [freshwater](/data/world_presets/freshwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
+#### Biomes  
+  * #cobblemon:is_freshwater
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
 ## masquerain-2  
-Rarity: common  
+Rarity: uncommon  
 Levels: 22-45  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   

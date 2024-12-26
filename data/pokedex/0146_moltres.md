@@ -40,9 +40,12 @@ Secondary Type: flying
 | tm | aircutter |  
 | tm | airslash |  
 | tm | bravebird |  
+| tm | burningjealousy |  
 | tm | confide |  
 | tm | defog |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -73,6 +76,7 @@ Secondary Type: flying
 | tm | round |  
 | tm | safeguard |  
 | tm | sandstorm |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | skydrop |  
 | tm | sleeptalk |  
@@ -85,6 +89,7 @@ Secondary Type: flying
 | tm | swift |  
 | tm | tailwind |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | toxic |  
 | tm | uturn |  
@@ -103,7 +108,6 @@ Secondary Type: flying
 | tutor | doubleteam |  
 | tutor | dualwingbeat |  
 | tutor | ember |  
-| tutor | endure |  
 | tutor | extrasensory |  
 | tutor | facade |  
 | tutor | fireblast |  
@@ -135,7 +139,6 @@ Secondary Type: flying
 | tutor | safeguard |  
 | tutor | sandstorm |  
 | tutor | scorchingsands |  
-| tutor | skyattack |  
 | tutor | sleeptalk |  
 | tutor | snore |  
 | tutor | solarbeam |  

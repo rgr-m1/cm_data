@@ -23,5 +23,5 @@ Levels: 5-31
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_wasteland
   

@@ -97,6 +97,8 @@ Secondary Type: ice
 | tm | iciclespear |  
 | tm | icywind |  
 | tm | irontail |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | megakick |  
@@ -117,6 +119,7 @@ Secondary Type: ice
 | tm | retaliate |  
 | tm | return |  
 | tm | revenge |  
+| tm | reversal |  
 | tm | rocksmash |  
 | tm | round |  
 | tm | scaryface |  
@@ -129,6 +132,7 @@ Secondary Type: ice
 | tm | snatch |  
 | tm | snore |  
 | tm | snowscape |  
+| tm | spite |  
 | tm | strength |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -144,6 +148,8 @@ Secondary Type: ice
 | tm | torment |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | tripleaxel |  
+| tm | upperhand |  
 | tm | waterpulse |  
 | tm | whirlpool |  
 | tm | xscissor |  

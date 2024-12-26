@@ -3,26 +3,13 @@
 ## Conditions  
   
 ### Needed Nearby Blocks  
-  * minecraft:activator_rail
-  * minecraft:daylight_detector
-  * minecraft:detector_rail
-  * minecraft:dispenser
-  * minecraft:dropper
-  * minecraft:hopper
-  * minecraft:observer
-  * minecraft:piston
-  * minecraft:powered_comparator
-  * minecraft:powered_rail
-  * minecraft:powered_repeater
-  * minecraft:redstone_block
-  * minecraft:redstone_lamp
-  * minecraft:redstone_torch
-  * minecraft:redstone_wire
-  * minecraft:sticky_piston
-  * minecraft:unlit_redstone_torch
-  * minecraft:unpowered_comparator
-  * minecraft:unpowered_repeater
   * #minecraft:redstone_ores
-  * #c:redstone_blocks
+  * #cobblemon:redstone_blocks
   * #c:redstone_ores
+  
+  
+## Anti-Conditions  
+  
+### Needed Blocks  
+  * #cobblemon:redstone_blocks
   

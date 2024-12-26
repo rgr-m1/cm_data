@@ -57,12 +57,14 @@ Primary Type: grass
 | tm | bulletseed |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
 | tm | darkpulse |  
 | tm | dig |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -73,6 +75,7 @@ Primary Type: grass
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -94,9 +97,11 @@ Primary Type: grass
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | seedbomb |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
 | tm | spikes |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  
@@ -105,6 +110,7 @@ Primary Type: grass
 | tm | takedown |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunderpunch |  
 | tm | toxic |  
 | tm | toxicspikes |  

@@ -9,6 +9,7 @@ Levels: 2-27
   
 ### Conditions  
 Min Y: 32  
+Max Y: 62  
   
 #### Biomes  
   * #cobblemon:is_forest

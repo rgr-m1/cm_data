@@ -40,6 +40,7 @@ Secondary Type: psychic
 | tm | dragonpulse |  
 | tm | endure |  
 | tm | energyball |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | fireblast |  
 | tm | firespin |  
@@ -53,18 +54,22 @@ Secondary Type: psychic
 | tm | helpinghand |  
 | tm | irondefense |  
 | tm | lightscreen |  
+| tm | meteorbeam |  
 | tm | nightshade |  
 | tm | overheat |  
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
 | tm | psychicterrain |  
+| tm | psychup |  
 | tm | psyshock |  
 | tm | reflect |  
 | tm | rest |  
+| tm | scorchingsands |  
 | tm | shadowball |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
+| tm | spite |  
 | tm | storedpower |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -73,5 +78,6 @@ Secondary Type: psychic
 | tm | terablast |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | weatherball |  
 | tm | willowisp |  
   

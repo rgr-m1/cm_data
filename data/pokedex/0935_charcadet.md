@@ -39,7 +39,9 @@ Primary Type: fire
 | tm | nightshade |  
 | tm | overheat |  
 | tm | protect |  
+| tm | rest |  
 | tm | sleeptalk |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | takedown |  

@@ -20,12 +20,15 @@ Levels: 24-49
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * #cobblemon:flowers
   
   
 ## comfey-3  

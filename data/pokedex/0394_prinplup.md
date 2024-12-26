@@ -6,7 +6,7 @@ Primary Type: water
   
 ## Abilities  
   * torrent
-  * h:defiant
+  * h:competitive
   
   
 ## Moves  
@@ -17,6 +17,7 @@ Primary Type: water
 | 1 | growl |  
 | 1 | metalclaw |  
 | 1 | tackle |  
+| 1 | watergun |  
 | 8 | bubble |  
 | 11 | watersport |  
 | 15 | peck |  
@@ -24,6 +25,7 @@ Primary Type: water
 | 19 | bide |  
 | 19 | bubblebeam |  
 | 24 | bide |  
+| 24 | swagger |  
 | 28 | furyattack |  
 | 33 | brine |  
 | 37 | whirlpool |  
@@ -32,30 +34,45 @@ Primary Type: water
 | 50 | hydropump |  
 | 51 | hydropump |  
 | tm | aerialace |  
+| tm | agility |  
 | tm | attract |  
 | tm | blizzard |  
 | tm | brickbreak |  
 | tm | brine |  
 | tm | captivate |  
+| tm | charm |  
+| tm | chillingwater |  
 | tm | confide |  
 | tm | cut |  
 | tm | defog |  
 | tm | dig |  
+| tm | disarmingvoice |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | frustration |  
 | tm | grassknot |  
 | tm | hail |  
+| tm | haze |  
+| tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | honeclaws |  
+| tm | hydropump |  
 | tm | icebeam |  
+| tm | icespinner |  
+| tm | icywind |  
+| tm | liquidation |  
+| tm | metalclaw |  
 | tm | naturalgift |  
 | tm | pluck |  
 | tm | protect |  
+| tm | psychup |  
 | tm | quash |  
 | tm | raindance |  
 | tm | rest |  
@@ -67,14 +84,21 @@ Primary Type: water
 | tm | secretpower |  
 | tm | shadowclaw |  
 | tm | sleeptalk |  
+| tm | snowscape |  
 | tm | stealthrock |  
 | tm | strength |  
 | tm | substitute |  
 | tm | surf |  
 | tm | swagger |  
+| tm | swift |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | toxic |  
+| tm | tripleaxel |  
 | tm | waterfall |  
+| tm | waterpledge |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tm | whirlpool |  
 | tm | workup |  
 | tutor | covet |  

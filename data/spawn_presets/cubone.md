@@ -14,7 +14,7 @@ Levels: 7-32
   * #cobblemon:is_sandy
   
   
-## cubone-alolan-1  
+## cubone-alola-2  
 Rarity: common  
 Levels: 7-32  
   
@@ -25,6 +25,19 @@ Levels: 7-32
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_desert
-  * #cobblemon:is_nether_soul_fire
+  * #cobblemon:is_volcanic
+  
+  
+## cubone-alola-3  
+Rarity: common  
+Levels: 7-32  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+* [wild](/data/world_presets/wild.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:nether/is_desert
   

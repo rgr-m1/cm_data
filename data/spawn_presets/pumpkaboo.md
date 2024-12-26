@@ -28,5 +28,5 @@ Levels: 9-34
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_overgrowth
+  * #cobblemon:nether/is_overgrowth
   

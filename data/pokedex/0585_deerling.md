@@ -51,8 +51,10 @@ Secondary Type: grass
 | tm | charm |  
 | tm | confide |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -61,6 +63,7 @@ Secondary Type: grass
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  

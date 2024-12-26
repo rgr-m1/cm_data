@@ -76,6 +76,7 @@ Primary Type: water
 | tm | endure |  
 | tm | facade |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | focuspunch |  
 | tm | frustration |  
 | tm | hail |  
@@ -98,6 +99,7 @@ Primary Type: water
 | tm | raindance |  
 | tm | rest |  
 | tm | return |  
+| tm | roar |  
 | tm | rocksmash |  
 | tm | rocktomb |  
 | tm | round |  

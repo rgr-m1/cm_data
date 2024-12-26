@@ -59,11 +59,14 @@ Primary Type: fighting
 | tm | captivate |  
 | tm | closecombat |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | earthquake |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | firepunch |  
@@ -77,6 +80,7 @@ Primary Type: fighting
 | tm | honeclaws |  
 | tm | icepunch |  
 | tm | irontail |  
+| tm | lashout |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | metronome |  
@@ -103,6 +107,7 @@ Primary Type: fighting
 | tm | shadowclaw |  
 | tm | sleeptalk |  
 | tm | smackdown |  
+| tm | spite |  
 | tm | stompingtantrum |  
 | tm | stoneedge |  
 | tm | strength |  
@@ -114,10 +119,12 @@ Primary Type: fighting
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunder |  
 | tm | thunderbolt |  
 | tm | thunderpunch |  
 | tm | toxic |  
+| tm | uproar |  
 | tm | uturn |  
 | tm | workup |  
 | tutor | attract |  

@@ -36,9 +36,12 @@ Primary Type: ground
 | tm | bulldoze |  
 | tm | closecombat |  
 | tm | confide |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthpower |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | focusblast |  
@@ -50,6 +53,7 @@ Primary Type: ground
 | tm | hyperbeam |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | lashout |  
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | megakick |  
@@ -68,6 +72,7 @@ Primary Type: ground
 | tm | sandtomb |  
 | tm | scaryface |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | snore |  
 | tm | stealthrock |  
 | tm | stompingtantrum |  

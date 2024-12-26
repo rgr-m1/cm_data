@@ -66,12 +66,14 @@ Primary Type: normal
 | tm | confide |  
 | tm | dazzlinggleam |  
 | tm | disarmingvoice |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | dreameater |  
 | tm | earthquake |  
 | tm | echoedvoice |  
 | tm | electricterrain |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -84,6 +86,7 @@ Primary Type: normal
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | gravity |  
 | tm | hail |  
 | tm | helpinghand |  
 | tm | hiddenpower |  

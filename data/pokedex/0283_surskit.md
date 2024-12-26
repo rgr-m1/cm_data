@@ -44,6 +44,7 @@ Secondary Type: water
 | tm | attract |  
 | tm | batonpass |  
 | tm | blizzard |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | captivate |  
 | tm | chillingwater |  
@@ -54,6 +55,7 @@ Secondary Type: water
 | tm | flash |  
 | tm | frustration |  
 | tm | gigadrain |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hydropump |  
@@ -62,6 +64,7 @@ Secondary Type: water
 | tm | infestation |  
 | tm | leechlife |  
 | tm | liquidation |  
+| tm | lunge |  
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | naturalgift |  
@@ -76,6 +79,7 @@ Secondary Type: water
 | tm | scald |  
 | tm | secretpower |  
 | tm | shadowball |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
 | tm | strugglebug |  

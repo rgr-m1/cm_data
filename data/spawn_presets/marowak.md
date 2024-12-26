@@ -14,7 +14,7 @@ Levels: 28-43
   * #cobblemon:is_sandy
   
   
-## marowak-alolan-1  
+## marowak-alolan-2  
 Rarity: common  
 Levels: 28-43  
   
@@ -25,6 +25,19 @@ Levels: 28-43
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_desert
-  * #cobblemon:is_nether_soul_fire
+  * #cobblemon:is_volcanic
+  
+  
+## marowak-alolan-3  
+Rarity: common  
+Levels: 28-43  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+* [wild](/data/world_presets/wild.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:nether/is_desert
   

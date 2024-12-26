@@ -59,9 +59,11 @@ Primary Type: normal
 | tm | cut |  
 | tm | darkpulse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dreameater |  
 | tm | echoedvoice |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -76,9 +78,12 @@ Primary Type: normal
 | tm | hypervoice |  
 | tm | icywind |  
 | tm | irontail |  
+| tm | knockoff |  
+| tm | lashout |  
 | tm | metalclaw |  
 | tm | nastyplot |  
 | tm | naturalgift |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | payday |  
 | tm | playrough |  
@@ -100,6 +105,7 @@ Primary Type: normal
 | tm | snarl |  
 | tm | snatch |  
 | tm | snore |  
+| tm | spite |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  

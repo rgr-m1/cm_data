@@ -19,7 +19,7 @@ Levels: 14-39
   * #cobblemon:is_deep_dark
   
   
-## onix-nether-1  
+## onix-2  
 Rarity: uncommon  
 Levels: 14-39  
   
@@ -29,18 +29,5 @@ Levels: 14-39
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
-  
-  
-## onix-nether-1  
-Rarity: uncommon  
-Levels: 14-39  
-  
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_nether_basalt
+  * #cobblemon:nether/is_basalt
   

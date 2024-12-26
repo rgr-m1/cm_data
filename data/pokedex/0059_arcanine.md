@@ -44,7 +44,9 @@ Primary Type: fire
 | tm | closecombat |  
 | tm | confide |  
 | tm | crunch |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dragonpulse |  
 | tm | endure |  
@@ -57,6 +59,7 @@ Primary Type: fire
 | tm | flareblitz |  
 | tm | frustration |  
 | tm | gigaimpact |  
+| tm | heatcrash |  
 | tm | heatwave |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -81,6 +84,7 @@ Primary Type: fire
 | tm | round |  
 | tm | safeguard |  
 | tm | scaryface |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | sleeptalk |  
 | tm | snarl |  
@@ -92,6 +96,7 @@ Primary Type: fire
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thief |  
 | tm | thunderfang |  
@@ -113,12 +118,10 @@ Primary Type: fire
 | tutor | dragonrage |  
 | tutor | ember |  
 | tutor | endure |  
-| tutor | extremespeed |  
 | tutor | facade |  
 | tutor | fireblast |  
 | tutor | flamethrower |  
 | tutor | flamewheel |  
-| tutor | flareblitz |  
 | tutor | frustration |  
 | tutor | headbutt |  
 | tutor | heatwave |  
@@ -133,7 +136,6 @@ Primary Type: fire
 | tutor | mudslap |  
 | tutor | outrage |  
 | tutor | playrough |  
-| tutor | protect |  
 | tutor | rage |  
 | tutor | reflect |  
 | tutor | rest |  
@@ -154,5 +156,4 @@ Primary Type: fire
 | tutor | teleport |  
 | tutor | thunderfang |  
 | tutor | toxic |  
-| tutor | willowisp |  
   

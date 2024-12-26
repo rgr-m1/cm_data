@@ -37,6 +37,7 @@ Primary Type: grass
 | tm | bodyslam |  
 | tm | bulletseed |  
 | tm | drainpunch |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -46,7 +47,9 @@ Primary Type: grass
 | tm | gigadrain |  
 | tm | grassknot |  
 | tm | grasspledge |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
+| tm | knockoff |  
 | tm | leafstorm |  
 | tm | lowkick |  
 | tm | magicalleaf |  

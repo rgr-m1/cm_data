@@ -6,7 +6,6 @@ Levels: 35-49
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
   
@@ -27,7 +26,7 @@ Levels: 35-49
   * #cobblemon:is_temperate
   
   
-## vileplume-valencian-1  
+## vileplume-valencian-3  
 Rarity: common  
 Levels: 35-49  
   

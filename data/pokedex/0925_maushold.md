@@ -32,11 +32,13 @@ Primary Type: normal
 | 53 | populationbomb |  
 | tm | aerialace |  
 | tm | agility |  
+| tm | batonpass |  
 | tm | bulletseed |  
 | tm | charm |  
 | tm | chillingwater |  
 | tm | crunch |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | encore |  
 | tm | endure |  
 | tm | facade |  
@@ -59,6 +61,7 @@ Primary Type: normal
 | tm | sleeptalk |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | swift |  
 | tm | takedown |  
 | tm | taunt |  

@@ -1,0 +1,184 @@
+# Qwilfish  
+Primary Type: water  
+Secondary Type: poison  
+  
+## Spawn Locations  
+[Qwilfish](/data/spawn_presets/qwilfish.md)  
+  
+## Abilities  
+  * poisonpoint
+  * swiftswim
+  * h:intimidate
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | hydropump |  
+| 1 | poisonsting |  
+| 1 | tackle |  
+| 4 | harden |  
+| 8 | watergun |  
+| 12 | fellstinger |  
+| 13 | bubble |  
+| 16 | minimize |  
+| 17 | rollout |  
+| 20 | spikes |  
+| 24 | brine |  
+| 28 | poisonjab |  
+| 28 | revenge |  
+| 32 | pinmissile |  
+| 36 | toxicspikes |  
+| 40 | spitup |  
+| 40 | stockpile |  
+| 44 | toxic |  
+| 48 | aquatail |  
+| 48 | takedown |  
+| 52 | acupressure |  
+| 56 | destinybond |  
+| egg | acidspray |  
+| egg | aquajet |  
+| egg | astonish |  
+| egg | barbbarrage |  
+| egg | brine |  
+| egg | bubblebeam |  
+| egg | flail |  
+| egg | haze |  
+| egg | poisonjab |  
+| egg | selfdestruct |  
+| egg | signalbeam |  
+| egg | supersonic |  
+| egg | waterpulse |  
+| tm | acidspray |  
+| tm | agility |  
+| tm | assurance |  
+| tm | attract |  
+| tm | blizzard |  
+| tm | bounce |  
+| tm | brine |  
+| tm | captivate |  
+| tm | chillingwater |  
+| tm | confide |  
+| tm | crunch |  
+| tm | curse |  
+| tm | dive |  
+| tm | doubleedge |  
+| tm | doubleteam |  
+| tm | endure |  
+| tm | explosion |  
+| tm | facade |  
+| tm | flipturn |  
+| tm | frustration |  
+| tm | gigaimpact |  
+| tm | gunkshot |  
+| tm | gyroball |  
+| tm | hail |  
+| tm | haze |  
+| tm | hex |  
+| tm | hiddenpower |  
+| tm | hydropump |  
+| tm | icebeam |  
+| tm | icywind |  
+| tm | liquidation |  
+| tm | mudshot |  
+| tm | naturalgift |  
+| tm | painsplit |  
+| tm | payback |  
+| tm | pinmissile |  
+| tm | poisonjab |  
+| tm | poisontail |  
+| tm | protect |  
+| tm | raindance |  
+| tm | rest |  
+| tm | return |  
+| tm | revenge |  
+| tm | reversal |  
+| tm | round |  
+| tm | scald |  
+| tm | scaleshot |  
+| tm | scaryface |  
+| tm | secretpower |  
+| tm | selfdestruct |  
+| tm | shadowball |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | sludgebomb |  
+| tm | sludgewave |  
+| tm | snore |  
+| tm | spikes |  
+| tm | spite |  
+| tm | substitute |  
+| tm | surf |  
+| tm | swagger |  
+| tm | swift |  
+| tm | swordsdance |  
+| tm | takedown |  
+| tm | taunt |  
+| tm | terablast |  
+| tm | throatchop |  
+| tm | thunderwave |  
+| tm | toxic |  
+| tm | toxicspikes |  
+| tm | venomdrench |  
+| tm | venoshock |  
+| tm | waterfall |  
+| tm | waterpulse |  
+| tm | whirlpool |  
+| tutor | aquajet |  
+| tutor | aquatail |  
+| tutor | attract |  
+| tutor | blizzard |  
+| tutor | bounce |  
+| tutor | bubblebeam |  
+| tutor | curse |  
+| tutor | defensecurl |  
+| tutor | dive |  
+| tutor | doubleedge |  
+| tutor | doubleteam |  
+| tutor | endure |  
+| tutor | flail |  
+| tutor | frustration |  
+| tutor | harden |  
+| tutor | haze |  
+| tutor | headbutt |  
+| tutor | hiddenpower |  
+| tutor | hydropump |  
+| tutor | icywind |  
+| tutor | liquidation |  
+| tutor | mimic |  
+| tutor | minimize |  
+| tutor | painsplit |  
+| tutor | pinmissile |  
+| tutor | poisonsting |  
+| tutor | protect |  
+| tutor | raindance |  
+| tutor | rest |  
+| tutor | return |  
+| tutor | rollout |  
+| tutor | scaleshot |  
+| tutor | secretpower |  
+| tutor | selfdestruct |  
+| tutor | shockwave |  
+| tutor | signalbeam |  
+| tutor | sleeptalk |  
+| tutor | sludgebomb |  
+| tutor | snore |  
+| tutor | spikes |  
+| tutor | steelroller |  
+| tutor | substitute |  
+| tutor | supersonic |  
+| tutor | surf |  
+| tutor | swagger |  
+| tutor | swift |  
+| tutor | swordsdance |  
+| tutor | tackle |  
+| tutor | takedown |  
+| tutor | throatchop |  
+| tutor | thunderwave |  
+| tutor | toxic |  
+| tutor | waterfall |  
+| tutor | watergun |  
+| tutor | waterpulse |  
+| tutor | whirlpool |  
+  

@@ -15,23 +15,20 @@ Levels: 28-44
   * #cobblemon:is_taiga
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## perrserker-2  
 Rarity: common  
 Levels: 28-44  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_freezing
   * #cobblemon:is_taiga
+  
+  
+#### Structures  
+  * #minecraft:village
   

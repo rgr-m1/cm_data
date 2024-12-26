@@ -5,21 +5,39 @@ Rarity: common
 Levels: 18-43  
   
 ### World Presets  
-* [freshwater](/data/world_presets/freshwater.md)  
 * [natural](/data/world_presets/natural.md)  
 * [treetop](/data/world_presets/treetop.md)  
   
 ### Conditions  
   
+#### Biomes  
+  * #cobblemon:is_freshwater
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
 ## illumise-2  
-Rarity: common  
+Rarity: uncommon  
 Levels: 18-43  
   
 ### World Presets  
-* [freshwater](/data/world_presets/freshwater.md)  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
   
 ## illumise-3  
 Rarity: common  
@@ -38,11 +56,11 @@ Levels: 18-43
   
   
 ## illumise-4  
-Rarity: common  
+Rarity: uncommon  
 Levels: 18-43  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   

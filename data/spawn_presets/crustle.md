@@ -2,7 +2,7 @@
   
 ## crustle-1  
 Rarity: common  
-Levels: 34-48  
+Levels: 34-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  

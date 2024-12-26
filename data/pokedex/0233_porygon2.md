@@ -27,16 +27,18 @@ Primary Type: normal
 | 35 | recover |  
 | 40 | discharge |  
 | 45 | triattack |  
+| 50 | lockon |  
 | 50 | magiccoat |  
-| 55 | lockon |  
-| 60 | zapcannon |  
-| 65 | hyperbeam |  
+| 55 | zapcannon |  
+| 60 | hyperbeam |  
 | tm | aerialace |  
 | tm | agility |  
 | tm | allyswitch |  
 | tm | blizzard |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dreameater |  
 | tm | eerieimpulse |  
@@ -47,6 +49,7 @@ Primary Type: normal
 | tm | foulplay |  
 | tm | frustration |  
 | tm | gigaimpact |  
+| tm | gravity |  
 | tm | guardswap |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
@@ -56,6 +59,7 @@ Primary Type: normal
 | tm | naturalgift |  
 | tm | powerswap |  
 | tm | protect |  
+| tm | psybeam |  
 | tm | psychic |  
 | tm | psychup |  
 | tm | psyshock |  
@@ -75,6 +79,8 @@ Primary Type: normal
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swift |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | thief |  
 | tm | thunder |  
 | tm | thunderbolt |  

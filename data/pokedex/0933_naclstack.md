@@ -32,7 +32,9 @@ Primary Type: rock
 | tm | bodypress |  
 | tm | bodyslam |  
 | tm | bulldoze |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | earthpower |  
 | tm | earthquake |  
 | tm | endure |  
@@ -44,6 +46,7 @@ Primary Type: rock
 | tm | hyperbeam |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | meteorbeam |  
 | tm | mudshot |  
 | tm | powergem |  
 | tm | protect |  
@@ -52,6 +55,7 @@ Primary Type: rock
 | tm | rockslide |  
 | tm | sandstorm |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | stealthrock |  
 | tm | stompingtantrum |  
 | tm | stoneedge |  

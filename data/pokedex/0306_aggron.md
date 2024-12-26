@@ -1,0 +1,184 @@
+# Aggron  
+Primary Type: steel  
+Secondary Type: rock  
+  
+## Spawn Locations  
+[Aggron](/data/spawn_presets/aggron.md)  
+  
+## Abilities  
+  * sturdy
+  * rockhead
+  * h:heavymetal
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | harden |  
+| 1 | metalclaw |  
+| 1 | mudslap |  
+| 1 | rocktomb |  
+| 1 | tackle |  
+| 12 | roar |  
+| 16 | headbutt |  
+| 20 | protect |  
+| 24 | rockslide |  
+| 28 | ironhead |  
+| 35 | metalsound |  
+| 40 | takedown |  
+| 48 | autotomize |  
+| 56 | irontail |  
+| 64 | irondefense |  
+| 72 | heavyslam |  
+| 80 | doubleedge |  
+| 88 | metalburst |  
+| tm | aerialace |  
+| tm | attract |  
+| tm | avalanche |  
+| tm | blizzard |  
+| tm | bodypress |  
+| tm | bodyslam |  
+| tm | brickbreak |  
+| tm | brutalswing |  
+| tm | bulldoze |  
+| tm | captivate |  
+| tm | confide |  
+| tm | crunch |  
+| tm | cut |  
+| tm | darkpulse |  
+| tm | dig |  
+| tm | doubleteam |  
+| tm | dragonclaw |  
+| tm | dragonpulse |  
+| tm | dragontail |  
+| tm | earthpower |  
+| tm | earthquake |  
+| tm | endure |  
+| tm | facade |  
+| tm | fireblast |  
+| tm | firepunch |  
+| tm | flamethrower |  
+| tm | flashcannon |  
+| tm | fling |  
+| tm | focusblast |  
+| tm | focuspunch |  
+| tm | frustration |  
+| tm | gigaimpact |  
+| tm | heavyslam |  
+| tm | hiddenpower |  
+| tm | highhorsepower |  
+| tm | honeclaws |  
+| tm | hydropump |  
+| tm | hyperbeam |  
+| tm | icebeam |  
+| tm | icepunch |  
+| tm | icywind |  
+| tm | incinerate |  
+| tm | irondefense |  
+| tm | ironhead |  
+| tm | irontail |  
+| tm | lowkick |  
+| tm | megakick |  
+| tm | megapunch |  
+| tm | naturalgift |  
+| tm | outrage |  
+| tm | payback |  
+| tm | poweruppunch |  
+| tm | protect |  
+| tm | raindance |  
+| tm | rest |  
+| tm | return |  
+| tm | reversal |  
+| tm | roar |  
+| tm | rockblast |  
+| tm | rockclimb |  
+| tm | rockpolish |  
+| tm | rockslide |  
+| tm | rocksmash |  
+| tm | rocktomb |  
+| tm | round |  
+| tm | sandstorm |  
+| tm | sandtomb |  
+| tm | scaryface |  
+| tm | screech |  
+| tm | secretpower |  
+| tm | shadowclaw |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | smackdown |  
+| tm | smartstrike |  
+| tm | snore |  
+| tm | solarbeam |  
+| tm | stealthrock |  
+| tm | stompingtantrum |  
+| tm | stoneedge |  
+| tm | strength |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | superpower |  
+| tm | surf |  
+| tm | swagger |  
+| tm | taunt |  
+| tm | thunder |  
+| tm | thunderbolt |  
+| tm | thunderpunch |  
+| tm | thunderwave |  
+| tm | toxic |  
+| tm | uproar |  
+| tm | waterpulse |  
+| tm | whirlpool |  
+| tutor | ancientpower |  
+| tutor | aquatail |  
+| tutor | block |  
+| tutor | bodyslam |  
+| tutor | counter |  
+| tutor | darkpulse |  
+| tutor | defensecurl |  
+| tutor | doubleedge |  
+| tutor | dragonpulse |  
+| tutor | dynamicpunch |  
+| tutor | earthpower |  
+| tutor | earthquake |  
+| tutor | endeavor |  
+| tutor | endure |  
+| tutor | firepunch |  
+| tutor | focuspunch |  
+| tutor | furycutter |  
+| tutor | headbutt |  
+| tutor | headsmash |  
+| tutor | icepunch |  
+| tutor | icywind |  
+| tutor | irondefense |  
+| tutor | ironhead |  
+| tutor | irontail |  
+| tutor | lowkick |  
+| tutor | magnetrise |  
+| tutor | megakick |  
+| tutor | megapunch |  
+| tutor | metalsound |  
+| tutor | meteorbeam |  
+| tutor | mimic |  
+| tutor | mudslap |  
+| tutor | outrage |  
+| tutor | protect |  
+| tutor | rockslide |  
+| tutor | rollout |  
+| tutor | seismictoss |  
+| tutor | shockwave |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | spite |  
+| tutor | stealthrock |  
+| tutor | steelbeam |  
+| tutor | steelroller |  
+| tutor | stompingtantrum |  
+| tutor | substitute |  
+| tutor | superpower |  
+| tutor | swagger |  
+| tutor | takedown |  
+| tutor | thunderpunch |  
+| tutor | thunderwave |  
+| tutor | uproar |  
+| tutor | waterpulse |  
+  

@@ -69,6 +69,7 @@ Secondary Type: flying
 | tm | assurance |  
 | tm | attract |  
 | tm | beatup |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | captivate |  
 | tm | confide |  
@@ -77,6 +78,8 @@ Secondary Type: flying
 | tm | cut |  
 | tm | defog |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | flash |  
@@ -90,12 +93,14 @@ Secondary Type: flying
 | tm | hurricane |  
 | tm | hyperbeam |  
 | tm | infestation |  
+| tm | lunge |  
 | tm | naturalgift |  
 | tm | pinmissile |  
 | tm | pollenpuff |  
 | tm | pounce |  
 | tm | powergem |  
 | tm | protect |  
+| tm | psychicnoise |  
 | tm | quash |  
 | tm | raindance |  
 | tm | rest |  
@@ -108,10 +113,12 @@ Secondary Type: flying
 | tm | screech |  
 | tm | secretpower |  
 | tm | silverwind |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | sludgebomb |  
 | tm | snore |  
 | tm | spikes |  
+| tm | spite |  
 | tm | strugglebug |  
 | tm | substitute |  
 | tm | sunnyday |  

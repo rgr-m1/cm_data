@@ -11,11 +11,10 @@ Levels: 36-51
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_swamp
-  * #cobblemon:is_taiga
+  * #cobblemon:is_spooky
   
   
-## honchkrow-2  
+## honchkrow-3  
 Rarity: common  
 Levels: 36-51  
   
@@ -26,10 +25,11 @@ Levels: 36-51
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_spooky
+  * #cobblemon:is_swamp
+  * #cobblemon:is_taiga
   
   
-## honchkrow-3  
+## honchkrow-5  
 Rarity: common  
 Levels: 36-51  
   

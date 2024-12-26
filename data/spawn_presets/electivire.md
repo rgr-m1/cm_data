@@ -10,6 +10,6 @@ Levels: 45-54
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_plains
   * #cobblemon:is_hills
+  * #cobblemon:is_plains
   

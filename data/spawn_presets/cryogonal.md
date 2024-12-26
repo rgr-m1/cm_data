@@ -23,5 +23,5 @@ Levels: 27-52
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
   

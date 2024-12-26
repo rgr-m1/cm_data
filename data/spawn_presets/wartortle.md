@@ -6,16 +6,109 @@ Levels: 16-40
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [river](/data/world_presets/river.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_hills
+  * #cobblemon:is_jungle
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+#### Needed Nearby Blocks  
+  * #minecraft:water
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
   
 ## wartortle-2  
 Rarity: ultra-rare  
 Levels: 16-40  
   
 ### World Presets  
-* [river](/data/world_presets/river.md)  
-* [underwater](/data/world_presets/underwater.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_hills
+  * #cobblemon:is_jungle
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
+## wartortle-3  
+Rarity: ultra-rare  
+Levels: 16-40  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_hills
+  * #cobblemon:is_jungle
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
+## wartortle-4  
+Rarity: ultra-rare  
+Levels: 16-40  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_hills
+  * #cobblemon:is_jungle
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  
+  
+## wartortle-5  
+Rarity: ultra-rare  
+Levels: 16-40  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freshwater
+  * #cobblemon:is_hills
+  * #cobblemon:is_jungle
+  * #cobblemon:is_temperate
+  * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
+  

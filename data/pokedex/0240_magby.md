@@ -38,6 +38,7 @@ Primary Type: fire
 | egg | flareblitz |  
 | egg | focusenergy |  
 | egg | focuspunch |  
+| egg | followme |  
 | egg | irontail |  
 | egg | karatechop |  
 | egg | machpunch |  
@@ -45,11 +46,16 @@ Primary Type: fire
 | egg | powerswap |  
 | egg | screech |  
 | egg | thunderpunch |  
+| tm | acidspray |  
 | tm | attract |  
 | tm | bodyslam |  
 | tm | brickbreak |  
+| tm | burningjealousy |  
 | tm | captivate |  
 | tm | confide |  
+| tm | confuseray |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | endure |  
 | tm | facade |  
@@ -73,6 +79,7 @@ Primary Type: fire
 | tm | megapunch |  
 | tm | naturalgift |  
 | tm | overheat |  
+| tm | poisonjab |  
 | tm | powerswap |  
 | tm | poweruppunch |  
 | tm | protect |  
@@ -89,6 +96,9 @@ Primary Type: fire
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  
+| tm | takedown |  
+| tm | temperflare |  
+| tm | terablast |  
 | tm | thief |  
 | tm | thunderpunch |  
 | tm | toxic |  

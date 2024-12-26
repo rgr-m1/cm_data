@@ -1,6 +1,6 @@
 # data/spawn_presets/unfezant spawns  
   
-## unfezant-1  
+## unfezant-2  
 Rarity: common  
 Levels: 32-49  
   
@@ -15,11 +15,12 @@ Levels: 32-49
   * #cobblemon:is_sky
   
   
-## unfezant-2  
+## unfezant-3  
 Rarity: common  
 Levels: 32-49  
   
 ### World Presets  
+* [natural](/data/world_presets/natural.md)  
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
@@ -35,21 +36,21 @@ Levels: 32-49
   * #cobblemon:is_tundra
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
-## unfezant-3  
+## unfezant-4  
 Rarity: common  
 Levels: 32-49  
   
 ### World Presets  
-* [village](/data/world_presets/village.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

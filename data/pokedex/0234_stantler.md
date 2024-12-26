@@ -54,7 +54,9 @@ Primary Type: normal
 | tm | chargebeam |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dreameater |  
 | tm | earthpower |  
@@ -64,13 +66,16 @@ Primary Type: normal
 | tm | facade |  
 | tm | flash |  
 | tm | frustration |  
+| tm | futuresight |  
 | tm | gigaimpact |  
+| tm | gravity |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | imprison |  
 | tm | irontail |  
 | tm | lightscreen |  
+| tm | lunge |  
 | tm | naturalgift |  
 | tm | protect |  
 | tm | psybeam |  
@@ -91,6 +96,7 @@ Primary Type: normal
 | tm | skillswap |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
+| tm | spite |  
 | tm | storedpower |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -99,6 +105,7 @@ Primary Type: normal
 | tm | takedown |  
 | tm | terablast |  
 | tm | thief |  
+| tm | throatchop |  
 | tm | thunder |  
 | tm | thunderbolt |  
 | tm | thunderwave |  
@@ -106,6 +113,7 @@ Primary Type: normal
 | tm | trailblaze |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | uproar |  
 | tm | wildcharge |  
 | tm | workup |  
 | tm | zenheadbutt |  

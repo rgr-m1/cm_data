@@ -20,22 +20,21 @@ Levels: 32-50
   * #cobblemon:is_desert
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## stoutland-2  
 Rarity: common  
 Levels: 32-50  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

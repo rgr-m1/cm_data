@@ -29,3 +29,9 @@ Levels: 10-40
 #### Biomes  
   * #the_bumblezone:the_bumblezone
   
+  
+### Anti-Conditions  
+  
+#### Structures  
+  * #the_bumblezone:sempiternal_sanctums
+  

@@ -2,7 +2,7 @@
   
 ## crobat-1  
 Rarity: common  
-Levels: 45-53  
+Levels: 41-54  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -11,10 +11,6 @@ Levels: 45-53
   
 #### Biomes  
   * #cobblemon:is_forest
-  * #cobblemon:is_grassland
-  * #cobblemon:is_hills
-  * #cobblemon:is_jungle
-  * #cobblemon:is_sky
   * #cobblemon:is_swamp
   
   
@@ -25,9 +21,30 @@ Levels: 45-53
   * #cobblemon:is_freezing
   
   
-## crobat-2  
+## crobat-3  
 Rarity: common  
-Levels: 45-53  
+Levels: 41-54  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_spooky
+  * #cobblemon:is_freezing
+  
+  
+## crobat-4  
+Rarity: common  
+Levels: 41-54  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -42,11 +59,13 @@ Levels: 45-53
   
 #### Biomes  
   * #cobblemon:is_deep_dark
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
   
   
-## crobat-3  
+## crobat-5  
 Rarity: uncommon  
-Levels: 45-53  
+Levels: 41-54  
   
 ### World Presets  
 * [derelict](/data/world_presets/derelict.md)  
@@ -61,11 +80,13 @@ Levels: 45-53
   
 #### Biomes  
   * #cobblemon:is_deep_dark
+  * #cobblemon:is_forest
+  * #cobblemon:is_swamp
   
   
-## crobat-4  
+## crobat-6  
 Rarity: common  
-Levels: 45-53  
+Levels: 41-54  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
@@ -74,4 +95,17 @@ Levels: 45-53
   
 #### Biomes  
   * #cobblemon:is_spooky
+  
+  
+## crobat-8  
+Rarity: uncommon  
+Levels: 41-54  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_deep_dark
   

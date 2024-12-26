@@ -4,6 +4,9 @@
 Rarity: uncommon  
 Levels: 24-46  
   
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
 ### Conditions  
   
 #### Biomes  
@@ -17,8 +20,25 @@ Levels: 24-46
 Rarity: uncommon  
 Levels: 24-46  
   
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_magical
+  
+  
+## chimecho-3  
+Rarity: uncommon  
+Levels: 24-46  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * minecraft:bell
   

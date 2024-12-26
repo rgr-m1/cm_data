@@ -34,6 +34,7 @@ Primary Type: grass
 | 1 | toxic |  
 | 49 | petalblizzard |  
 | 55 | solarbeam |  
+| tm | acidspray |  
 | tm | attract |  
 | tm | batonpass |  
 | tm | bulletseed |  
@@ -44,6 +45,8 @@ Primary Type: grass
 | tm | dazzlinggleam |  
 | tm | doubleteam |  
 | tm | drainpunch |  
+| tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -53,6 +56,7 @@ Primary Type: grass
 | tm | gigadrain |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -63,7 +67,9 @@ Primary Type: grass
 | tm | magicalleaf |  
 | tm | naturalgift |  
 | tm | naturepower |  
+| tm | petalblizzard |  
 | tm | playrough |  
+| tm | pollenpuff |  
 | tm | protect |  
 | tm | rest |  
 | tm | return |  
@@ -75,13 +81,18 @@ Primary Type: grass
 | tm | sludgebomb |  
 | tm | snore |  
 | tm | solarbeam |  
+| tm | solarblade |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swordsdance |  
+| tm | terablast |  
 | tm | toxic |  
+| tm | trailblaze |  
+| tm | tripleaxel |  
 | tm | uproar |  
 | tm | venoshock |  
+| tm | weatherball |  
 | tutor | absorb |  
 | tutor | afteryou |  
 | tutor | attract |  

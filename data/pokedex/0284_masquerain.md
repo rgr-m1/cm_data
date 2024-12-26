@@ -39,12 +39,14 @@ Secondary Type: flying
 | tm | attract |  
 | tm | batonpass |  
 | tm | blizzard |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | captivate |  
 | tm | chillingwater |  
 | tm | confide |  
 | tm | defog |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -53,6 +55,7 @@ Secondary Type: flying
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | gigaimpact |  
+| tm | haze |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hurricane |  
@@ -63,6 +66,7 @@ Secondary Type: flying
 | tm | infestation |  
 | tm | leechlife |  
 | tm | liquidation |  
+| tm | lunge |  
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | naturalgift |  
@@ -80,6 +84,7 @@ Secondary Type: flying
 | tm | secretpower |  
 | tm | shadowball |  
 | tm | silverwind |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
 | tm | strugglebug |  
@@ -96,6 +101,7 @@ Secondary Type: flying
 | tm | uturn |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | weatherball |  
 | tutor | aircutter |  
 | tutor | bugbite |  
 | tutor | defog |  

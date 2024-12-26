@@ -11,5 +11,12 @@ Levels: 42-49
 ### Conditions  
   
 #### Biomes  
+  * #cobblemon:is_mountain
   * #cobblemon:is_savanna
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_cold
   

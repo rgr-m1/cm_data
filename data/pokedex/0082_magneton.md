@@ -35,6 +35,7 @@ Secondary Type: steel
 | 52 | lightscreen |  
 | 58 | lockon |  
 | 64 | zapcannon |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | confuseray |  
@@ -50,6 +51,7 @@ Secondary Type: steel
 | tm | flashcannon |  
 | tm | frustration |  
 | tm | gigaimpact |  
+| tm | gravity |  
 | tm | gyroball |  
 | tm | heavyslam |  
 | tm | helpinghand |  
@@ -58,6 +60,7 @@ Secondary Type: steel
 | tm | irondefense |  
 | tm | ironhead |  
 | tm | lightscreen |  
+| tm | metalsound |  
 | tm | naturalgift |  
 | tm | protect |  
 | tm | psychup |  

@@ -14,8 +14,8 @@ Levels: 5-30
   
   
 #### Needed Nearby Blocks  
+  * #minecraft:redstone_ores
   * #c:redstone_ores
-  * minecraft:rail
   
   
 ### Anti-Conditions  
@@ -29,7 +29,21 @@ Rarity: common
 Levels: 5-30  
   
 ### World Presets  
+* [natural](/data/world_presets/natural.md)  
 * [redstone](/data/world_presets/redstone.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+## klink-3  
+Rarity: common  
+Levels: 5-30  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   

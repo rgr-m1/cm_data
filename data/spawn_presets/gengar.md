@@ -1,19 +1,6 @@
 # data/spawn_presets/gengar spawns  
   
 ## gengar-1  
-Rarity: uncommon  
-Levels: 36-50  
-  
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_deep_dark
-  
-  
-## gengar-2  
 Rarity: common  
 Levels: 36-50  
   
@@ -32,7 +19,7 @@ Levels: 36-50
   * #cobblemon:is_deep_dark
   
   
-## gengar-3  
+## gengar-2  
 Rarity: uncommon  
 Levels: 36-50  
   
@@ -51,7 +38,7 @@ Levels: 36-50
   * #cobblemon:is_deep_dark
   
   
-## gengar-4  
+## gengar-3  
 Rarity: common  
 Levels: 36-50  
   
@@ -64,7 +51,7 @@ Levels: 36-50
   * #cobblemon:is_spooky
   
   
-## gengar-5  
+## gengar-4  
 Rarity: common  
 Levels: 36-50  
   

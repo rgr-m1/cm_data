@@ -1,7 +1,7 @@
 # data/spawn_presets/tinkaton spawns  
   
 ## tinkaton-1  
-Rarity: rare  
+Rarity: common  
 Levels: 38-51  
   
 ### World Presets  
@@ -11,5 +11,9 @@ Levels: 38-51
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_hills
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #cobblemon:ruin
   

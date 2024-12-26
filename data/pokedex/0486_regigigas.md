@@ -1,0 +1,154 @@
+# Regigigas  
+Primary Type: normal  
+  
+## Spawn Locations  
+[Regigigas](/data/spawn_presets/regigigas.md)  
+  
+## Abilities  
+  * slowstart
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | confuseray |  
+| 1 | crushgrip |  
+| 1 | dizzypunch |  
+| 1 | firepunch |  
+| 1 | foresight |  
+| 1 | heavyslam |  
+| 1 | icepunch |  
+| 1 | knockoff |  
+| 1 | megapunch |  
+| 1 | pound |  
+| 1 | stomp |  
+| 1 | thunderpunch |  
+| 6 | payback |  
+| 12 | facade |  
+| 12 | revenge |  
+| 18 | stomp |  
+| 24 | protect |  
+| 25 | revenge |  
+| 25 | superpower |  
+| 30 | knockoff |  
+| 36 | megapunch |  
+| 40 | wideguard |  
+| 42 | bodypress |  
+| 48 | wideguard |  
+| 50 | zenheadbutt |  
+| 54 | zenheadbutt |  
+| 60 | heavyslam |  
+| 65 | payback |  
+| 66 | hammerarm |  
+| 72 | gigaimpact |  
+| 75 | crushgrip |  
+| 78 | crushgrip |  
+| 90 | heavyslam |  
+| 100 | gigaimpact |  
+| tm | aerialace |  
+| tm | avalanche |  
+| tm | bodypress |  
+| tm | bodyslam |  
+| tm | brickbreak |  
+| tm | bulldoze |  
+| tm | confide |  
+| tm | confuseray |  
+| tm | darkestlariat |  
+| tm | doubleteam |  
+| tm | doubleedge |  
+| tm | drainpunch |  
+| tm | earthpower |  
+| tm | earthquake |  
+| tm | endure |  
+| tm | facade |  
+| tm | firepunch |  
+| tm | fling |  
+| tm | focusblast |  
+| tm | focuspunch |  
+| tm | frustration |  
+| tm | gigaimpact |  
+| tm | gravity |  
+| tm | hardpress |  
+| tm | heatcrash |  
+| tm | heavyslam |  
+| tm | hiddenpower |  
+| tm | highhorsepower |  
+| tm | hyperbeam |  
+| tm | icepunch |  
+| tm | icywind |  
+| tm | ironhead |  
+| tm | knockoff |  
+| tm | megakick |  
+| tm | megapunch |  
+| tm | naturalgift |  
+| tm | naturepower |  
+| tm | payback |  
+| tm | poweruppunch |  
+| tm | protect |  
+| tm | psychup |  
+| tm | raindance |  
+| tm | rest |  
+| tm | retaliate |  
+| tm | return |  
+| tm | revenge |  
+| tm | rockclimb |  
+| tm | rockpolish |  
+| tm | rockslide |  
+| tm | rocksmash |  
+| tm | rocktomb |  
+| tm | round |  
+| tm | safeguard |  
+| tm | secretpower |  
+| tm | shockwave |  
+| tm | sleeptalk |  
+| tm | smackdown |  
+| tm | snore |  
+| tm | stompingtantrum |  
+| tm | stoneedge |  
+| tm | strength |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | superpower |  
+| tm | swagger |  
+| tm | terablast |  
+| tm | thunder |  
+| tm | thunderbolt |  
+| tm | thunderpunch |  
+| tm | thunderwave |  
+| tm | toxic |  
+| tm | zenheadbutt |  
+| tutor | ancientpower |  
+| tutor | block |  
+| tutor | confuseray |  
+| tutor | crushgrip |  
+| tutor | dizzypunch |  
+| tutor | drainpunch |  
+| tutor | earthpower |  
+| tutor | firepunch |  
+| tutor | focuspunch |  
+| tutor | foresight |  
+| tutor | gigaimpact |  
+| tutor | gravity |  
+| tutor | hammerarm |  
+| tutor | headbutt |  
+| tutor | heavyslam |  
+| tutor | icepunch |  
+| tutor | icywind |  
+| tutor | ironhead |  
+| tutor | knockoff |  
+| tutor | mudslap |  
+| tutor | payback |  
+| tutor | revenge |  
+| tutor | rockslide |  
+| tutor | shockwave |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | stomp |  
+| tutor | stompingtantrum |  
+| tutor | superpower |  
+| tutor | terrainpulse |  
+| tutor | thunderpunch |  
+| tutor | wideguard |  
+| tutor | zenheadbutt |  
+  

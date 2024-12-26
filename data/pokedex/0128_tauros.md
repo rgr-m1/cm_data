@@ -41,9 +41,12 @@ Primary Type: normal
 | tm | captivate |  
 | tm | closecombat |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -59,6 +62,7 @@ Primary Type: normal
 | tm | incinerate |  
 | tm | ironhead |  
 | tm | irontail |  
+| tm | lashout |  
 | tm | megahorn |  
 | tm | naturalgift |  
 | tm | outrage |  

@@ -14,24 +14,21 @@ Levels: 9-34
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## koffing-2  
 Rarity: common  
 Levels: 9-34  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## koffing-3  
@@ -44,5 +41,5 @@ Levels: 9-34
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_toxic
+  * #cobblemon:nether/is_toxic
   

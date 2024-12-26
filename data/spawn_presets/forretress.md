@@ -13,7 +13,7 @@ Levels: 31-47
   * #cobblemon:is_taiga
   
   
-## forretress-shulker-1  
+## forretress-shulker-2  
 Rarity: uncommon  
 Levels: 31-47  
   
@@ -24,5 +24,5 @@ Levels: 31-47
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   

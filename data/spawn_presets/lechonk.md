@@ -30,15 +30,7 @@ Levels: 1-25
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_overgrowth
-  * #cobblemon:is_nether_fungus
-  * #cobblemon:is_nether_crimson
-  
-  
-### Anti-Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_nether_warped
+  * #cobblemon:is_swamp
   
   
 ## lechonk-3  
@@ -51,5 +43,13 @@ Levels: 1-25
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_swamp
+  * #cobblemon:nether/is_crimson
+  * #cobblemon:nether/is_fungus
+  * #cobblemon:nether/is_overgrowth
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:nether/is_warped
   

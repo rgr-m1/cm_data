@@ -6,6 +6,7 @@ Primary Type: bug
   
 ## Abilities  
   * shedskin
+  * h:shedskin
   
   
 ## Moves  

@@ -38,6 +38,7 @@ Secondary Type: psychic
 | tm | agility |  
 | tm | attract |  
 | tm | blastburn |  
+| tm | burningjealousy |  
 | tm | calmmind |  
 | tm | charm |  
 | tm | confide |  
@@ -50,6 +51,7 @@ Secondary Type: psychic
 | tm | embargo |  
 | tm | encore |  
 | tm | endure |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | fireblast |  
 | tm | firepledge |  
@@ -61,6 +63,7 @@ Secondary Type: psychic
 | tm | focusblast |  
 | tm | foulplay |  
 | tm | frustration |  
+| tm | futuresight |  
 | tm | gigaimpact |  
 | tm | grassknot |  
 | tm | heatwave |  
@@ -83,6 +86,7 @@ Secondary Type: psychic
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
+| tm | psychicnoise |  
 | tm | psychicterrain |  
 | tm | psychup |  
 | tm | psyshock |  
@@ -92,6 +96,7 @@ Secondary Type: psychic
 | tm | return |  
 | tm | round |  
 | tm | safeguard |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | shadowball |  
 | tm | skillswap |  

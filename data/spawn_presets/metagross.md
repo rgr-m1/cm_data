@@ -1,7 +1,7 @@
 # data/spawn_presets/metagross spawns  
   
 ## metagross-1  
-Rarity: rare  
+Rarity: ultra-rare  
 Levels: 45-60  
   
 ### World Presets  
@@ -24,7 +24,7 @@ Levels: 45-60
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_end
+  * #cobblemon:is_end
   
   
 ## metagross-3  

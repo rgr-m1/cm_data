@@ -18,7 +18,7 @@ Rarity: common
 Levels: 5-30  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
@@ -30,16 +30,13 @@ Levels: 5-30
 Rarity: common  
 Levels: 5-30  
   
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:is_frozen_ocean
   
   
-## bergmite-3  
+## bergmite-4  
 Rarity: common  
 Levels: 5-30  
   
@@ -49,5 +46,15 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
+  
+  
+## bergmite-5  
+Rarity: common  
+Levels: 5-30  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
   

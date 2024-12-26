@@ -43,8 +43,10 @@ Secondary Type: flying
 | tm | cosmicpower |  
 | tm | crunch |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dracometeor |  
+| tm | dragoncheer |  
 | tm | dragonclaw |  
 | tm | dragondance |  
 | tm | dragonpulse |  
@@ -75,6 +77,7 @@ Secondary Type: flying
 | tm | incinerate |  
 | tm | ironhead |  
 | tm | irontail |  
+| tm | meteorbeam |  
 | tm | naturalgift |  
 | tm | outrage |  
 | tm | overheat |  
@@ -89,6 +92,7 @@ Secondary Type: flying
 | tm | rocktomb |  
 | tm | round |  
 | tm | sandstorm |  
+| tm | scaleshot |  
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | shadowclaw |  
@@ -133,15 +137,12 @@ Secondary Type: flying
 | tutor | dragonascent |  
 | tutor | dragonclaw |  
 | tutor | dragondance |  
-| tutor | dragonpulse |  
 | tutor | earthpower |  
 | tutor | endure |  
 | tutor | extremespeed |  
-| tutor | fly |  
 | tutor | furycutter |  
 | tutor | headbutt |  
 | tutor | hyperbeam |  
-| tutor | hypervoice |  
 | tutor | icywind |  
 | tutor | ironhead |  
 | tutor | irontail |  
@@ -150,7 +151,6 @@ Secondary Type: flying
 | tutor | mudslap |  
 | tutor | outrage |  
 | tutor | psychup |  
-| tutor | rest |  
 | tutor | rockslide |  
 | tutor | scaleshot |  
 | tutor | shockwave |  

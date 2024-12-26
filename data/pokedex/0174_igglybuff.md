@@ -37,6 +37,7 @@ Secondary Type: fairy
 | egg | rollout |  
 | egg | sleeptalk |  
 | egg | wish |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | bodyslam |  
 | tm | bounce |  
@@ -46,11 +47,13 @@ Secondary Type: fairy
 | tm | dazzlinggleam |  
 | tm | dig |  
 | tm | disarmingvoice |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
 | tm | dreameater |  
 | tm | echoedvoice |  
 | tm | encore |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -60,6 +63,7 @@ Secondary Type: fairy
 | tm | fling |  
 | tm | frustration |  
 | tm | grassknot |  
+| tm | gravity |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hypervoice |  
@@ -70,6 +74,7 @@ Secondary Type: fairy
 | tm | megapunch |  
 | tm | mistyterrain |  
 | tm | naturalgift |  
+| tm | painsplit |  
 | tm | playrough |  
 | tm | protect |  
 | tm | psychic |  

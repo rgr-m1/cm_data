@@ -55,9 +55,12 @@ Primary Type: water
 | tm | crunch |  
 | tm | cut |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
+| tm | flipturn |  
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | hail |  
@@ -79,6 +82,7 @@ Primary Type: water
 | tm | reversal |  
 | tm | round |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | sleeptalk |  

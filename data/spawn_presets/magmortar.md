@@ -18,12 +18,6 @@ Levels: 45-54
   * minecraft:magma_block
   
   
-### Anti-Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_volcanic
-  
-  
 ## magmortar-2  
 Rarity: common  
 Levels: 45-54  
@@ -47,6 +41,6 @@ Levels: 45-54
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:nether/is_basalt
+  * #cobblemon:nether/is_wasteland
   

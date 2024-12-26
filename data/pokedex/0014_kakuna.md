@@ -7,6 +7,7 @@ Secondary Type: poison
   
 ## Abilities  
   * shedskin
+  * h:shedskin
   
   
 ## Moves  

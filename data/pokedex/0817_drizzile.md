@@ -32,6 +32,7 @@ Primary Type: water
 | tm | endure |  
 | tm | facade |  
 | tm | fling |  
+| tm | haze |  
 | tm | hydropump |  
 | tm | lightscreen |  
 | tm | liquidation |  

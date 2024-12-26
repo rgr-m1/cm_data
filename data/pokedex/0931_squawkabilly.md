@@ -39,9 +39,13 @@ Secondary Type: flying
 | tm | aircutter |  
 | tm | airslash |  
 | tm | bravebird |  
+| tm | doubleedge |  
+| tm | dualwingbeat |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
+| tm | featherdance |  
 | tm | fly |  
 | tm | foulplay |  
 | tm | gigaimpact |  
@@ -50,6 +54,7 @@ Secondary Type: flying
 | tm | hurricane |  
 | tm | hyperbeam |  
 | tm | hypervoice |  
+| tm | lashout |  
 | tm | pounce |  
 | tm | protect |  
 | tm | rest |  
@@ -63,5 +68,6 @@ Secondary Type: flying
 | tm | taunt |  
 | tm | terablast |  
 | tm | thief |  
+| tm | uproar |  
 | tm | uturn |  
   

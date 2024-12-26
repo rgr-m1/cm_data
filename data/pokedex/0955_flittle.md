@@ -60,6 +60,7 @@ Primary Type: psychic
 | tm | thief |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | uproar |  
 | tm | uturn |  
 | tm | zenheadbutt |  
   

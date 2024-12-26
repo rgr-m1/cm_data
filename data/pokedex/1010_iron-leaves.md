@@ -38,6 +38,8 @@ Secondary Type: psychic
 | tm | brickbreak |  
 | tm | calmmind |  
 | tm | closecombat |  
+| tm | coaching |  
+| tm | doubleedge |  
 | tm | electricterrain |  
 | tm | endure |  
 | tm | energyball |  
@@ -48,12 +50,14 @@ Secondary Type: psychic
 | tm | gigaimpact |  
 | tm | grassknot |  
 | tm | grassyterrain |  
+| tm | gravity |  
 | tm | helpinghand |  
 | tm | hyperbeam |  
 | tm | imprison |  
 | tm | irondefense |  
 | tm | leafstorm |  
 | tm | magicalleaf |  
+| tm | metalsound |  
 | tm | protect |  
 | tm | psychicterrain |  
 | tm | rest |  
@@ -62,17 +66,15 @@ Secondary Type: psychic
 | tm | sleeptalk |  
 | tm | smartstrike |  
 | tm | solarbeam |  
+| tm | solarblade |  
 | tm | substitute |  
 | tm | swift |  
 | tm | swordsdance |  
 | tm | takedown |  
 | tm | taunt |  
 | tm | terablast |  
+| tm | throatchop |  
 | tm | trailblaze |  
 | tm | wildcharge |  
 | tm | xscissor |  
-| tutor | leafblade |  
-| tutor | megahorn |  
-| tutor | psyblade |  
-| tutor | swordsdance |  
   

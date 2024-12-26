@@ -1,6 +1,6 @@
 # data/spawn_presets/pidove spawns  
   
-## pidove-1  
+## pidove-2  
 Rarity: common  
 Levels: 1-26  
   
@@ -15,11 +15,12 @@ Levels: 1-26
   * #cobblemon:is_sky
   
   
-## pidove-2  
+## pidove-3  
 Rarity: common  
 Levels: 1-26  
   
 ### World Presets  
+* [natural](/data/world_presets/natural.md)  
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
@@ -35,21 +36,21 @@ Levels: 1-26
   * #cobblemon:is_tundra
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
-## pidove-3  
+## pidove-4  
 Rarity: common  
 Levels: 1-26  
   
 ### World Presets  
-* [village](/data/world_presets/village.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

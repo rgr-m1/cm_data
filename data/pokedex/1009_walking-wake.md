@@ -32,9 +32,12 @@ Secondary Type: dragon
 | 84 | hydropump |  
 | tm | agility |  
 | tm | bodyslam |  
+| tm | breakingswipe |  
 | tm | chillingwater |  
 | tm | crunch |  
+| tm | doubleedge |  
 | tm | dracometeor |  
+| tm | dragoncheer |  
 | tm | dragonclaw |  
 | tm | dragondance |  
 | tm | dragonpulse |  
@@ -43,10 +46,12 @@ Secondary Type: dragon
 | tm | facade |  
 | tm | firefang |  
 | tm | flamethrower |  
+| tm | flipturn |  
 | tm | gigaimpact |  
 | tm | hurricane |  
 | tm | hydropump |  
 | tm | hyperbeam |  
+| tm | knockoff |  
 | tm | liquidation |  
 | tm | lowkick |  
 | tm | mudshot |  
@@ -54,6 +59,8 @@ Secondary Type: dragon
 | tm | protect |  
 | tm | raindance |  
 | tm | rest |  
+| tm | roar |  
+| tm | scald |  
 | tm | scaryface |  
 | tm | sleeptalk |  
 | tm | snarl |  
@@ -65,8 +72,6 @@ Secondary Type: dragon
 | tm | terablast |  
 | tm | waterfall |  
 | tm | waterpulse |  
-| tutor | dragonpulse |  
-| tutor | flamethrower |  
-| tutor | hydrosteam |  
-| tutor | nobleroar |  
+| tm | weatherball |  
+| tm | whirlpool |  
   

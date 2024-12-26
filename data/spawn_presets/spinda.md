@@ -1,7 +1,7 @@
 # data/spawn_presets/spinda spawns  
   
 ## spinda-1  
-Rarity: rare  
+Rarity: uncommon  
 Levels: 11-36  
   
 ### World Presets  
@@ -15,8 +15,8 @@ Levels: 11-36
   * #cobblemon:is_hills
   
   
-## spinda-2  
-Rarity: rare  
+## spinda-1-2  
+Rarity: uncommon  
 Levels: 11-36  
   
 ### World Presets  
@@ -30,8 +30,8 @@ Levels: 11-36
   * #cobblemon:is_hills
   
   
-## spinda-3  
-Rarity: rare  
+## spinda-2-3  
+Rarity: uncommon  
 Levels: 11-36  
   
 ### World Presets  
@@ -45,8 +45,8 @@ Levels: 11-36
   * #cobblemon:is_hills
   
   
-## spinda-4  
-Rarity: rare  
+## spinda-3-4  
+Rarity: uncommon  
 Levels: 11-36  
   
 ### World Presets  
@@ -60,8 +60,8 @@ Levels: 11-36
   * #cobblemon:is_hills
   
   
-## spinda-5  
-Rarity: rare  
+## spinda-4-5  
+Rarity: uncommon  
 Levels: 11-36  
   
 ### World Presets  

@@ -31,6 +31,7 @@ Secondary Type: poison
 | 44 | naturalgift |  
 | 49 | petalblizzard |  
 | 50 | petaldance |  
+| tm | acidspray |  
 | tm | attract |  
 | tm | bulletseed |  
 | tm | captivate |  
@@ -48,11 +49,17 @@ Secondary Type: poison
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
+| tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | infestation |  
+| tm | leafstorm |  
+| tm | magicalleaf |  
 | tm | naturalgift |  
 | tm | naturepower |  
+| tm | petalblizzard |  
+| tm | pollenpuff |  
 | tm | protect |  
 | tm | rest |  
 | tm | return |  
@@ -67,7 +74,9 @@ Secondary Type: poison
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swordsdance |  
+| tm | terablast |  
 | tm | toxic |  
+| tm | trailblaze |  
 | tm | venoshock |  
 | tutor | absorb |  
 | tutor | acid |  

@@ -42,6 +42,7 @@ Primary Type: electric
 | tm | attract |  
 | tm | bodyslam |  
 | tm | captivate |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | charm |  
 | tm | confide |  
@@ -96,7 +97,6 @@ Primary Type: electric
 | tutor | attract |  
 | tutor | bide |  
 | tutor | bodyslam |  
-| tutor | charge |  
 | tutor | charm |  
 | tutor | counter |  
 | tutor | covet |  
@@ -109,13 +109,11 @@ Primary Type: electric
 | tutor | electroweb |  
 | tutor | encore |  
 | tutor | endeavor |  
-| tutor | endure |  
 | tutor | flash |  
 | tutor | followme |  
 | tutor | frustration |  
 | tutor | grassknot |  
 | tutor | headbutt |  
-| tutor | helpinghand |  
 | tutor | hiddenpower |  
 | tutor | irontail |  
 | tutor | magnetrise |  
@@ -149,7 +147,6 @@ Primary Type: electric
 | tutor | thunderwave |  
 | tutor | toxic |  
 | tutor | uproar |  
-| tutor | volttackle |  
 | tutor | wish |  
 | tutor | zapcannon |  
   

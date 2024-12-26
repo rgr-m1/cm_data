@@ -56,11 +56,13 @@ Primary Type: water
 | tm | crunch |  
 | tm | dig |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
 | tm | endure |  
 | tm | facade |  
 | tm | fling |  
+| tm | flipturn |  
 | tm | focusblast |  
 | tm | focuspunch |  
 | tm | frustration |  
@@ -80,6 +82,7 @@ Primary Type: water
 | tm | lowkick |  
 | tm | lowsweep |  
 | tm | metronome |  
+| tm | muddywater |  
 | tm | mudslap |  
 | tm | naturalgift |  
 | tm | payback |  

@@ -45,15 +45,18 @@ Primary Type: fighting
 | tm | bulldoze |  
 | tm | chillingwater |  
 | tm | closecombat |  
+| tm | coaching |  
 | tm | confide |  
 | tm | dig |  
 | tm | doubleteam |  
 | tm | drainpunch |  
 | tm | earthquake |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fling |  
 | tm | focusblast |  
+| tm | focuspunch |  
 | tm | frostbreath |  
 | tm | frustration |  
 | tm | gunkshot |  
@@ -62,6 +65,7 @@ Primary Type: fighting
 | tm | icepunch |  
 | tm | irondefense |  
 | tm | ironhead |  
+| tm | knockoff |  
 | tm | liquidation |  
 | tm | mudshot |  
 | tm | mudslap |  
@@ -87,6 +91,7 @@ Primary Type: fighting
 | tm | thief |  
 | tm | thunderpunch |  
 | tm | toxic |  
+| tm | upperhand |  
 | tm | workup |  
 | tm | zenheadbutt |  
 | tutor | drainpunch |  

@@ -43,12 +43,14 @@ Primary Type: ghost
 | egg | wonderroom |  
 | tm | aerialace |  
 | tm | attract |  
+| tm | burningjealousy |  
 | tm | calmmind |  
 | tm | captivate |  
 | tm | chargebeam |  
 | tm | charm |  
 | tm | confide |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | darkpulse |  
 | tm | dazzlinggleam |  
 | tm | doubleteam |  
@@ -63,6 +65,7 @@ Primary Type: ghost
 | tm | flash |  
 | tm | foulplay |  
 | tm | frustration |  
+| tm | futuresight |  
 | tm | gigaimpact |  
 | tm | grassknot |  
 | tm | helpinghand |  
@@ -76,12 +79,15 @@ Primary Type: ghost
 | tm | nastyplot |  
 | tm | naturalgift |  
 | tm | nightshade |  
+| tm | painsplit |  
 | tm | payback |  
 | tm | phantomforce |  
+| tm | poltergeist |  
 | tm | powergem |  
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
+| tm | psychicnoise |  
 | tm | psychup |  
 | tm | psyshock |  
 | tm | raindance |  
@@ -96,6 +102,7 @@ Primary Type: ghost
 | tm | sleeptalk |  
 | tm | snatch |  
 | tm | snowscape |  
+| tm | spite |  
 | tm | storedpower |  
 | tm | substitute |  
 | tm | sunnyday |  

@@ -33,3 +33,13 @@ Levels: 36-47
 #### Biomes  
   * #cobblemon:is_deep_dark
   
+  
+## galvantula-3  
+Rarity: common  
+Levels: 36-47  
+  
+### World Presets  
+* [webs](/data/world_presets/webs.md)  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  

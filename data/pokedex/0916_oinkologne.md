@@ -34,17 +34,22 @@ Primary Type: normal
 | tm | bulldoze |  
 | tm | bulletseed |  
 | tm | chillingwater |  
+| tm | curse |  
 | tm | dig |  
 | tm | disarmingvoice |  
+| tm | doubleedge |  
 | tm | earthpower |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
 | tm | gigaimpact |  
 | tm | helpinghand |  
+| tm | highhorsepower |  
 | tm | hyperbeam |  
 | tm | hypervoice |  
 | tm | ironhead |  
+| tm | lashout |  
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | playrough |  
@@ -56,9 +61,11 @@ Primary Type: normal
 | tm | stompingtantrum |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | takedown |  
 | tm | terablast |  
 | tm | thief |  
 | tm | trailblaze |  
+| tm | uproar |  
 | tm | zenheadbutt |  
   

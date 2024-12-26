@@ -19,12 +19,15 @@ Levels: 5-30
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [flowers](/data/world_presets/flowers.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * #cobblemon:flowers
   
   
 ### Anti-Conditions  
@@ -41,7 +44,7 @@ Levels: 5-30
   
 #### Biomes  
   * the_bumblezone:floral_meadow
-  * the_bumblezone:polinated_fields
+  * the_bumblezone:pollinated_fields
   
   
 ### Anti-Conditions  

@@ -18,10 +18,7 @@ Levels: 6-31
   
 #### Biomes  
   * #cobblemon:is_sandy
-  
-  
-#### Structures  
-  * #minecraft:village
+  * #cobblemon:is_tundra
   
   
 ## timburr-2  
@@ -30,7 +27,6 @@ Levels: 6-31
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
@@ -38,8 +34,13 @@ Levels: 6-31
   * #cobblemon:is_overworld
   
   
+#### Structures  
+  * #minecraft:village
+  
+  
 ### Anti-Conditions  
   
 #### Biomes  
   * #cobblemon:is_sandy
+  * #cobblemon:is_tundra
   

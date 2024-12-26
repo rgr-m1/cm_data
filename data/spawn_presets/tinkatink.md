@@ -1,7 +1,7 @@
 # data/spawn_presets/tinkatink spawns  
   
 ## tinkatink-1  
-Rarity: rare  
+Rarity: common  
 Levels: 5-30  
   
 ### World Presets  
@@ -11,5 +11,9 @@ Levels: 5-30
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_hills
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #cobblemon:ruin
   

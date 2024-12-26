@@ -55,6 +55,7 @@ Secondary Type: psychic
 | tm | captivate |  
 | tm | chillingwater |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
 | tm | dive |  
 | tm | doubleteam |  
@@ -62,6 +63,7 @@ Secondary Type: psychic
 | tm | earthquake |  
 | tm | echoedvoice |  
 | tm | endure |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | fireblast |  
 | tm | flamethrower |  

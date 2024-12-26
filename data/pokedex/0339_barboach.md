@@ -49,6 +49,7 @@ Secondary Type: ground
 | tm | chillingwater |  
 | tm | confide |  
 | tm | dive |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | dragondance |  
 | tm | earthpower |  
@@ -60,6 +61,7 @@ Secondary Type: ground
 | tm | hail |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
+| tm | highhorsepower |  
 | tm | hydropump |  
 | tm | icebeam |  
 | tm | icywind |  

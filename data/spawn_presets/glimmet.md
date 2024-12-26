@@ -10,23 +10,30 @@ Levels: 10-35
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_quartz
+  * #cobblemon:is_overworld
   
   
-#### Needed Base Blocks  
-  * minecraft:quartz_block
+#### Needed Nearby Blocks  
+  * #cobblemon:gemstones
   
   
 ## glimmet-2  
 Rarity: common  
 Levels: 10-35  
   
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-* [gemstones](/data/world_presets/gemstones.md)  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:nether/is_quartz
+  
+  
+## glimmet-3  
+Rarity: common  
+Levels: 10-35  
   
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_overworld
+  * the_bumblezone:crystal_canyon
+  * biomesoplenty:crystalline_chasm
   

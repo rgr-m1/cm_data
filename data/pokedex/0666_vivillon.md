@@ -35,6 +35,7 @@ Secondary Type: flying
 | tm | aircutter |  
 | tm | airslash |  
 | tm | attract |  
+| tm | bugbite |  
 | tm | bugbuzz |  
 | tm | calmmind |  
 | tm | confide |  
@@ -68,6 +69,7 @@ Secondary Type: flying
 | tm | round |  
 | tm | safeguard |  
 | tm | secretpower |  
+| tm | skittersmack |  
 | tm | sleeptalk |  
 | tm | solarbeam |  
 | tm | strugglebug |  
@@ -80,6 +82,7 @@ Secondary Type: flying
 | tm | thief |  
 | tm | toxic |  
 | tm | uturn |  
+| tm | weatherball |  
 | tutor | bugbite |  
 | tutor | defog |  
 | tutor | electroweb |  

@@ -42,7 +42,9 @@ Primary Type: water
 | tm | blizzard |  
 | tm | brine |  
 | tm | charm |  
+| tm | chillingwater |  
 | tm | confide |  
+| tm | disarmingvoice |  
 | tm | dive |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
@@ -50,6 +52,7 @@ Primary Type: water
 | tm | encore |  
 | tm | endure |  
 | tm | facade |  
+| tm | flipturn |  
 | tm | frustration |  
 | tm | hail |  
 | tm | helpinghand |  
@@ -57,6 +60,7 @@ Primary Type: water
 | tm | hydropump |  
 | tm | hypervoice |  
 | tm | icebeam |  
+| tm | icespinner |  
 | tm | icywind |  
 | tm | irontail |  
 | tm | mistyterrain |  
@@ -72,9 +76,14 @@ Primary Type: water
 | tm | substitute |  
 | tm | surf |  
 | tm | swagger |  
+| tm | swift |  
+| tm | terablast |  
 | tm | toxic |  
+| tm | tripleaxel |  
 | tm | uproar |  
 | tm | waterfall |  
+| tm | waterpledge |  
+| tm | waterpulse |  
 | tm | whirlpool |  
 | tm | wonderroom |  
 | tm | workup |  

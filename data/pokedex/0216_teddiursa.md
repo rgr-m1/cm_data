@@ -62,6 +62,7 @@ Primary Type: normal
 | tm | crunch |  
 | tm | cut |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthquake |  
 | tm | endure |  
@@ -98,6 +99,7 @@ Primary Type: normal
 | tm | seedbomb |  
 | tm | shadowclaw |  
 | tm | sleeptalk |  
+| tm | smackdown |  
 | tm | strength |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -112,6 +114,7 @@ Primary Type: normal
 | tm | torment |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | uproar |  
 | tm | workup |  
 | tutor | attract |  
 | tutor | bodyslam |  

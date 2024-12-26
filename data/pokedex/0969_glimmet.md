@@ -39,6 +39,7 @@ Secondary Type: poison
 | tm | gunkshot |  
 | tm | irondefense |  
 | tm | lightscreen |  
+| tm | meteorbeam |  
 | tm | mudshot |  
 | tm | powergem |  
 | tm | protect |  
@@ -49,14 +50,18 @@ Secondary Type: poison
 | tm | rockslide |  
 | tm | rocktomb |  
 | tm | sandstorm |  
+| tm | sandtomb |  
 | tm | sleeptalk |  
 | tm | sludgebomb |  
+| tm | sludgewave |  
+| tm | smackdown |  
 | tm | spikes |  
 | tm | stealthrock |  
 | tm | stoneedge |  
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | terablast |  
+| tm | toxic |  
 | tm | toxicspikes |  
 | tm | venoshock |  
   

@@ -16,7 +16,7 @@ Levels: 35-50
   * #cobblemon:is_taiga
   
   
-## talonflame-2  
+## talonflame-3  
 Rarity: common  
 Levels: 35-50  
   
@@ -27,6 +27,12 @@ Levels: 35-50
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
-  * #cobblemon:is_nether_fungus
+  * #cobblemon:nether/is_forest
+  * #cobblemon:nether/is_fungus
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:nether/is_warped
   

@@ -19,6 +19,7 @@ Primary Type: fairy
 | 10 | sweetscent |  
 | 15 | drainingkiss |  
 | 20 | aromatherapy |  
+| 20 | charm |  
 | 25 | attract |  
 | 30 | acidarmor |  
 | 35 | dazzlinggleam |  
@@ -43,6 +44,7 @@ Primary Type: fairy
 | tm | snore |  
 | tm | storedpower |  
 | tm | substitute |  
+| tm | terablast |  
 | tutor | attract |  
 | tutor | celebrate |  
 | tutor | entrainment |  

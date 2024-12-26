@@ -8,6 +8,7 @@ Levels: 1-24
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
+Min Y: 32  
   
 #### Biomes  
   * #cobblemon:is_hills

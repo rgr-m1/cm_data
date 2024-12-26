@@ -66,13 +66,10 @@ Rarity: common
 Levels: 22-40  
   
 ### World Presets  
+* [webs](/data/world_presets/webs.md)  
 * [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
-  
-#### Biomes  
-  * terralith:cave/infested_caves
-  
   
 ## ariados-5  
 Rarity: common  

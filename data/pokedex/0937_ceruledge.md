@@ -38,6 +38,7 @@ Secondary Type: ghost
 | tm | bulkup |  
 | tm | closecombat |  
 | tm | confuseray |  
+| tm | curse |  
 | tm | dragonclaw |  
 | tm | endure |  
 | tm | facade |  
@@ -58,12 +59,16 @@ Secondary Type: ghost
 | tm | overheat |  
 | tm | phantomforce |  
 | tm | poisonjab |  
+| tm | poltergeist |  
 | tm | protect |  
+| tm | psychup |  
 | tm | reflect |  
 | tm | rest |  
 | tm | shadowball |  
 | tm | shadowclaw |  
 | tm | sleeptalk |  
+| tm | solarblade |  
+| tm | spite |  
 | tm | storedpower |  
 | tm | substitute |  
 | tm | sunnyday |  
@@ -71,6 +76,8 @@ Secondary Type: ghost
 | tm | takedown |  
 | tm | taunt |  
 | tm | terablast |  
+| tm | throatchop |  
+| tm | vacuumwave |  
 | tm | willowisp |  
 | tm | xscissor |  
   

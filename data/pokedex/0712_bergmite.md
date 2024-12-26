@@ -45,6 +45,8 @@ Primary Type: ice
 | tm | chillingwater |  
 | tm | confide |  
 | tm | crunch |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | endure |  
 | tm | facade |  

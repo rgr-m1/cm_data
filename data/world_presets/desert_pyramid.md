@@ -8,12 +8,7 @@ Min Y: 62
   
   
 ### Needed Nearby Blocks  
-  * minecraft:chiseled_sandstone
-  * minecraft:cut_sandstone
-  * minecraft:orange_terracotta
-  * minecraft:sandstone
-  * minecraft:sandstone_slab
-  * minecraft:sandstone_stairs
+  * #cobblemon:desert_pyramid_blocks
   
   
 ## Anti-Conditions  

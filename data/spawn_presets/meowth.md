@@ -22,22 +22,21 @@ Levels: 4-29
   * #cobblemon:is_taiga
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
 ## meowth-2  
 Rarity: common  
 Levels: 4-29  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  
@@ -62,19 +61,12 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## meowth-4  
 Rarity: common  
 Levels: 4-29  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
@@ -82,7 +74,11 @@ Levels: 4-29
   * #cobblemon:is_arid
   
   
-## meowth-alolan-1  
+#### Structures  
+  * #minecraft:village
+  
+  
+## meowth-alolan-5  
 Rarity: common  
 Levels: 4-29  
   
@@ -103,7 +99,7 @@ Levels: 4-29
   * #cobblemon:is_freezing
   
   
-## meowth-alolan-2  
+## meowth-alolan-6  
 Rarity: common  
 Levels: 4-29  
   
@@ -118,7 +114,7 @@ Levels: 4-29
   * #cobblemon:is_freezing
   
   
-## meowth-alolan-3  
+## meowth-alolan-7  
 Rarity: uncommon  
 Levels: 4-29  
   
@@ -132,7 +128,7 @@ Min Y: 62
   * #cobblemon:is_overworld
   
   
-## meowth-galarian-1  
+## meowth-galarian-8  
 Rarity: common  
 Levels: 4-29  
   
@@ -147,23 +143,20 @@ Levels: 4-29
   * #cobblemon:is_taiga
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
-## meowth-galarian-2  
+## meowth-galarian-9  
 Rarity: common  
 Levels: 4-29  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_freezing
   * #cobblemon:is_taiga
+  
+  
+#### Structures  
+  * #minecraft:village
   

@@ -5,7 +5,7 @@ Rarity: uncommon
 Levels: 29-54  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
@@ -14,11 +14,11 @@ Levels: 29-54
   
   
 ## lapras-2  
-Rarity: rare  
+Rarity: ultra-rare  
 Levels: 29-54  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
@@ -32,12 +32,31 @@ Levels: 29-54
   * #cobblemon:is_frozen_ocean
   
   
-## lapras-2  
-Rarity: rare  
+## lapras-3  
+Rarity: uncommon  
 Levels: 29-54  
   
-### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  
+  
+### Anti-Conditions  
+  
+## lapras-4  
+Rarity: common  
+Levels: 29-54  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  
+  
+## lapras-5  
+Rarity: ultra-rare  
+Levels: 29-54  
   
 ### Conditions  
   
@@ -48,5 +67,43 @@ Levels: 29-54
 ### Anti-Conditions  
   
 #### Biomes  
-  * #cobblemon:is_frozen
+  * #cobblemon:is_frozen_ocean
+  
+  
+## lapras-6  
+Rarity: uncommon  
+Levels: 29-54  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  
+  
+### Anti-Conditions  
+  
+## lapras-7  
+Rarity: common  
+Levels: 29-54  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
+  
+  
+## lapras-8  
+Rarity: ultra-rare  
+Levels: 29-54  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_ocean
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
   

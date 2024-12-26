@@ -52,9 +52,11 @@ Secondary Type: flying
 | tm | confide |  
 | tm | defog |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | echoedvoice |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fling |  
 | tm | fly |  
 | tm | frustration |  
@@ -68,7 +70,9 @@ Secondary Type: flying
 | tm | hyperbeam |  
 | tm | icebeam |  
 | tm | icywind |  
+| tm | knockoff |  
 | tm | liquidation |  
+| tm | muddywater |  
 | tm | naturalgift |  
 | tm | payback |  
 | tm | pluck |  

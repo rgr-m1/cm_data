@@ -14,24 +14,21 @@ Levels: 30-49
   * #cobblemon:is_overworld
   
   
-### Anti-Conditions  
-  
-#### Structures  
-  * #minecraft:village
-  
-  
 ## electrode-2  
 Rarity: common  
 Levels: 30-49  
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ## electrode-3  
@@ -46,4 +43,21 @@ Levels: 30-49
   
 #### Needed Nearby Blocks  
   * minecraft:lightning_rod
+  
+  
+## electrode-hisuian-4  
+Rarity: uncommon  
+Levels: 30-49  
+  
+### World Presets  
+* [natural](/data/world_presets/natural.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Needed Nearby Blocks  
+  * #cobblemon:apricorns
   

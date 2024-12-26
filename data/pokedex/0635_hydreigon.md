@@ -1,0 +1,159 @@
+# Hydreigon  
+Primary Type: dark  
+Secondary Type: dragon  
+  
+## Spawn Locations  
+[Hydreigon](/data/spawn_presets/hydreigon.md)  
+  
+## Abilities  
+  * levitate
+  
+  
+## Moves  
+  
+| Source | Move |  
+|:---:|:---:|  
+| 1 | bite |  
+| 1 | doublehit |  
+| 1 | dragonbreath |  
+| 1 | dragonrage |  
+| 1 | focusenergy |  
+| 1 | tackle |  
+| 1 | triattack |  
+| 12 | roar |  
+| 16 | assurance |  
+| 20 | headbutt |  
+| 24 | workup |  
+| 28 | slam |  
+| 32 | crunch |  
+| 36 | scaryface |  
+| 40 | dragonpulse |  
+| 44 | bodyslam |  
+| 48 | hypervoice |  
+| 54 | dragonrush |  
+| 60 | nastyplot |  
+| 68 | outrage |  
+| 76 | hyperbeam |  
+| tm | acrobatics |  
+| tm | assurance |  
+| tm | attract |  
+| tm | beatup |  
+| tm | bodyslam |  
+| tm | breakingswipe |  
+| tm | brutalswing |  
+| tm | bulldoze |  
+| tm | chargebeam |  
+| tm | confide |  
+| tm | crunch |  
+| tm | darkpulse |  
+| tm | doubleteam |  
+| tm | dracometeor |  
+| tm | dragoncheer |  
+| tm | dragondance |  
+| tm | dragonpulse |  
+| tm | dragontail |  
+| tm | dualwingbeat |  
+| tm | earthpower |  
+| tm | earthquake |  
+| tm | echoedvoice |  
+| tm | endure |  
+| tm | facade |  
+| tm | fireblast |  
+| tm | firefang |  
+| tm | firespin |  
+| tm | flamethrower |  
+| tm | flashcannon |  
+| tm | fly |  
+| tm | focusblast |  
+| tm | focusenergy |  
+| tm | frustration |  
+| tm | gigaimpact |  
+| tm | heatwave |  
+| tm | helpinghand |  
+| tm | hiddenpower |  
+| tm | hydropump |  
+| tm | hyperbeam |  
+| tm | hypervoice |  
+| tm | icefang |  
+| tm | incinerate |  
+| tm | irontail |  
+| tm | lashout |  
+| tm | nastyplot |  
+| tm | outrage |  
+| tm | payback |  
+| tm | protect |  
+| tm | psychup |  
+| tm | raindance |  
+| tm | reflect |  
+| tm | rest |  
+| tm | return |  
+| tm | roar |  
+| tm | rockslide |  
+| tm | rocksmash |  
+| tm | rocktomb |  
+| tm | roost |  
+| tm | round |  
+| tm | scaleshot |  
+| tm | scaryface |  
+| tm | screech |  
+| tm | secretpower |  
+| tm | sleeptalk |  
+| tm | snarl |  
+| tm | snore |  
+| tm | spite |  
+| tm | stealthrock |  
+| tm | steelwing |  
+| tm | stompingtantrum |  
+| tm | stoneedge |  
+| tm | strength |  
+| tm | substitute |  
+| tm | sunnyday |  
+| tm | superpower |  
+| tm | surf |  
+| tm | swagger |  
+| tm | tailwind |  
+| tm | takedown |  
+| tm | taunt |  
+| tm | terablast |  
+| tm | thief |  
+| tm | throatchop |  
+| tm | thunderfang |  
+| tm | thunderwave |  
+| tm | torment |  
+| tm | toxic |  
+| tm | triattack |  
+| tm | uproar |  
+| tm | uturn |  
+| tm | workup |  
+| tm | zenheadbutt |  
+| tutor | aquatail |  
+| tutor | crunch |  
+| tutor | darkpulse |  
+| tutor | defog |  
+| tutor | dracometeor |  
+| tutor | dragonbreath |  
+| tutor | dragonpulse |  
+| tutor | dragonrush |  
+| tutor | dualwingbeat |  
+| tutor | earthpower |  
+| tutor | flamethrower |  
+| tutor | focusblast |  
+| tutor | frustration |  
+| tutor | heatwave |  
+| tutor | hypervoice |  
+| tutor | irontail |  
+| tutor | outrage |  
+| tutor | rockslide |  
+| tutor | roost |  
+| tutor | scaleshot |  
+| tutor | shockwave |  
+| tutor | signalbeam |  
+| tutor | sleeptalk |  
+| tutor | snore |  
+| tutor | spite |  
+| tutor | superpower |  
+| tutor | tailwind |  
+| tutor | throatchop |  
+| tutor | uproar |  
+| tutor | zenheadbutt |  
+  

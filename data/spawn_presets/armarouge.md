@@ -1,7 +1,7 @@
 # data/spawn_presets/armarouge spawns  
   
 ## armarouge-1  
-Rarity: common  
+Rarity: uncommon  
 Levels: 21-53  
   
 ### World Presets  

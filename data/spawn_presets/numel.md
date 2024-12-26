@@ -23,8 +23,7 @@ Levels: 6-31
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_overgrowth
-  * #cobblemon:is_nether_wasteland
+  * #cobblemon:is_volcanic
   
   
 ## numel-3  
@@ -37,5 +36,6 @@ Levels: 6-31
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_volcanic
+  * #cobblemon:nether/is_overgrowth
+  * #cobblemon:nether/is_wasteland
   

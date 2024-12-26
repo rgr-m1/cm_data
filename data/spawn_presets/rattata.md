@@ -59,7 +59,7 @@ Min Y: 0
   * #cobblemon:is_deep_dark
   
   
-## rattata-alolan-1  
+## rattata-alolan-4  
 Rarity: common  
 Levels: 1-25  
   
@@ -79,7 +79,7 @@ Max Y: 0
   * #cobblemon:is_deep_dark
   
   
-## rattata-alolan-2  
+## rattata-alolan-5  
 Rarity: uncommon  
 Levels: 1-25  
   
@@ -99,7 +99,7 @@ Max Y: 0
   * #cobblemon:is_deep_dark
   
   
-## rattata-alolan-3  
+## rattata-alolan-6  
 Rarity: common  
 Levels: 1-25  
   
@@ -112,7 +112,7 @@ Levels: 1-25
   * #cobblemon:is_spooky
   
   
-## rattata-alolan-4  
+## rattata-alolan-7  
 Rarity: uncommon  
 Levels: 1-25  
   

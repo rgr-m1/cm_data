@@ -60,6 +60,7 @@ Primary Type: grass
 | 71 | leafblade |  
 | 78 | swordsdance |  
 | tm | aerialace |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | batonpass |  
 | tm | bodyslam |  
@@ -68,7 +69,9 @@ Primary Type: grass
 | tm | captivate |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
 | tm | endure |  
@@ -81,11 +84,13 @@ Primary Type: grass
 | tm | gigadrain |  
 | tm | gigaimpact |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
 | tm | hyperbeam |  
 | tm | hypervoice |  
 | tm | irontail |  
+| tm | knockoff |  
 | tm | leafblade |  
 | tm | leafstorm |  
 | tm | magicalleaf |  

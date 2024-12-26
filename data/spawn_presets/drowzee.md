@@ -11,14 +11,13 @@ Levels: 8-33
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_jungle
-  * #cobblemon:is_savanna
+  * #cobblemon:is_overworld
   
   
 ### Anti-Conditions  
   
-#### Structures  
-  * #minecraft:village
+#### Biomes  
+  * #cobblemon:is_freezing
   
   
 ## drowzee-2  
@@ -27,11 +26,19 @@ Levels: 8-33
   
 ### World Presets  
 * [natural](/data/world_presets/natural.md)  
-* [village](/data/world_presets/village.md)  
   
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_jungle
-  * #cobblemon:is_savanna
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
   

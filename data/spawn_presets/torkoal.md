@@ -15,7 +15,7 @@ Levels: 22-47
   
   
 #### Needed Nearby Blocks  
-  * minecraft:coal_ore
+  * #minecraft:coal_ores
   
   
 ## torkoal-2  
@@ -28,11 +28,11 @@ Levels: 22-47
 ### Conditions  
   
 #### Biomes  
-  * #minecraft:is_overworld
+  * #cobblemon:is_overworld
   
   
 #### Needed Nearby Blocks  
-  * minecraft:coal_ore
+  * #minecraft:coal_ores
   
   
 ### Anti-Conditions  
@@ -53,5 +53,5 @@ Levels: 22-47
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_basalt
+  * #cobblemon:nether/is_basalt
   

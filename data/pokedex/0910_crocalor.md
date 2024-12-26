@@ -29,8 +29,10 @@ Primary Type: fire
 | 47 | fireblast |  
 | tm | bodyslam |  
 | tm | crunch |  
+| tm | curse |  
 | tm | dig |  
 | tm | disarmingvoice |  
+| tm | encore |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -48,6 +50,7 @@ Primary Type: fire
 | tm | overheat |  
 | tm | protect |  
 | tm | rest |  
+| tm | roar |  
 | tm | seedbomb |  
 | tm | sleeptalk |  
 | tm | snarl |  
@@ -55,6 +58,7 @@ Primary Type: fire
 | tm | substitute |  
 | tm | sunnyday |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | thunderfang |  
 | tm | willowisp |  

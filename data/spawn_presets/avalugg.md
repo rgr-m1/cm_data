@@ -18,7 +18,7 @@ Rarity: common
 Levels: 37-51  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
@@ -30,16 +30,13 @@ Levels: 37-51
 Rarity: common  
 Levels: 37-51  
   
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:is_frozen_ocean
   
   
-## avalugg-3  
+## avalugg-4  
 Rarity: common  
 Levels: 37-51  
   
@@ -49,5 +46,15 @@ Levels: 37-51
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
+  
+  
+## avalugg-5  
+Rarity: common  
+Levels: 37-51  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_frozen_ocean
   

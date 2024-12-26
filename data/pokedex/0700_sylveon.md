@@ -37,16 +37,19 @@ Primary Type: fairy
 | 45 | psychup |  
 | 50 | moonblast |  
 | 55 | lastresort |  
+| tm | alluringvoice |  
 | tm | attract |  
 | tm | batonpass |  
 | tm | bodyslam |  
 | tm | calmmind |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
 | tm | dazzlinggleam |  
 | tm | dig |  
 | tm | disarmingvoice |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
 | tm | echoedvoice |  
@@ -64,7 +67,9 @@ Primary Type: fairy
 | tm | irontail |  
 | tm | lightscreen |  
 | tm | magicalleaf |  
+| tm | mistyexplosion |  
 | tm | mistyterrain |  
+| tm | mudslap |  
 | tm | mysticalfire |  
 | tm | payday |  
 | tm | playrough |  
@@ -77,6 +82,7 @@ Primary Type: fairy
 | tm | rest |  
 | tm | retaliate |  
 | tm | return |  
+| tm | roar |  
 | tm | round |  
 | tm | safeguard |  
 | tm | secretpower |  

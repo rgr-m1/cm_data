@@ -38,6 +38,7 @@ Primary Type: fire
 | egg | wish |  
 | tm | agility |  
 | tm | attract |  
+| tm | burningjealousy |  
 | tm | calmmind |  
 | tm | charm |  
 | tm | confide |  

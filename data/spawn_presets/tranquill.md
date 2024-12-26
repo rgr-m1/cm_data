@@ -1,6 +1,6 @@
 # data/spawn_presets/tranquill spawns  
   
-## tranquill-1  
+## tranquill-2  
 Rarity: common  
 Levels: 21-36  
   
@@ -15,11 +15,12 @@ Levels: 21-36
   * #cobblemon:is_sky
   
   
-## tranquill-2  
+## tranquill-3  
 Rarity: common  
 Levels: 21-36  
   
 ### World Presets  
+* [natural](/data/world_presets/natural.md)  
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
@@ -35,21 +36,21 @@ Levels: 21-36
   * #cobblemon:is_tundra
   
   
-#### Structures  
-  * #minecraft:village
-  
-  
-## tranquill-3  
+## tranquill-4  
 Rarity: common  
 Levels: 21-36  
   
 ### World Presets  
-* [village](/data/world_presets/village.md)  
+* [natural](/data/world_presets/natural.md)  
   
 ### Conditions  
   
 #### Biomes  
   * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
   
   
 ### Anti-Conditions  

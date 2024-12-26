@@ -11,9 +11,10 @@ Levels: 28-53
   
 #### Biomes  
   * #cobblemon:is_jungle
+  * #cobblemon:is_savanna
   
   
-## exeggutor-alolan-1  
+## exeggutor-alolan-2  
 Rarity: uncommon  
 Levels: 28-53  
   
@@ -25,4 +26,10 @@ Levels: 28-53
 #### Biomes  
   * #cobblemon:is_beach
   * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
   

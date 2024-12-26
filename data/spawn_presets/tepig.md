@@ -23,6 +23,6 @@ Levels: 5-31
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_crimson
-  * #cobblemon:is_nether_overgrowth
+  * #cobblemon:nether/is_crimson
+  * #cobblemon:nether/is_overgrowth
   

@@ -32,17 +32,3 @@ Levels: 8-33
 #### Needed Nearby Blocks  
   * minecraft:lightning_rod
   
-  
-## magnemite-2  
-Rarity: uncommon  
-Levels: 8-33  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_overworld
-  
-  
-#### Needed Nearby Blocks  
-  * minecraft:lightning_rod
-  

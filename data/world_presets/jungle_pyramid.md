@@ -8,13 +8,10 @@ Min Y: 62
   
   
 ### Needed Base Blocks  
-  * #minecraft:cobblestone
+  * minecraft:cobblestone
   * #minecraft:mossy_cobblestone
   
   
 ### Needed Nearby Blocks  
-  * minecraft:chiseled_stone_bricks
-  * minecraft:cobblestone
-  * minecraft:cobblestone_stairs
-  * minecraft:mossy_cobblestone
+  * #cobblemon:jungle_pyramid_blocks
   

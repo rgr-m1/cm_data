@@ -39,9 +39,12 @@ Primary Type: psychic
 | tm | confuseray |  
 | tm | dazzlinggleam |  
 | tm | disarmingvoice |  
+| tm | doubleedge |  
 | tm | endure |  
 | tm | energyball |  
+| tm | expandingforce |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | flashcannon |  
 | tm | foulplay |  
 | tm | gigaimpact |  
@@ -58,6 +61,7 @@ Primary Type: psychic
 | tm | psybeam |  
 | tm | psychic |  
 | tm | psychicterrain |  
+| tm | psychup |  
 | tm | psyshock |  
 | tm | raindance |  
 | tm | reflect |  
@@ -76,6 +80,7 @@ Primary Type: psychic
 | tm | thief |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | uproar |  
 | tm | uturn |  
 | tm | zenheadbutt |  
   

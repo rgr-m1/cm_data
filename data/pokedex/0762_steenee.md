@@ -36,6 +36,7 @@ Primary Type: grass
 | tm | dazzlinggleam |  
 | tm | doubleteam |  
 | tm | drainingkiss |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | energyball |  
 | tm | facade |  
@@ -43,6 +44,7 @@ Primary Type: grass
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
@@ -52,6 +54,7 @@ Primary Type: grass
 | tm | magicalleaf |  
 | tm | naturepower |  
 | tm | payback |  
+| tm | petalblizzard |  
 | tm | playrough |  
 | tm | protect |  
 | tm | reflect |  
@@ -71,6 +74,7 @@ Primary Type: grass
 | tm | terablast |  
 | tm | toxic |  
 | tm | trailblaze |  
+| tm | tripleaxel |  
 | tm | zenheadbutt |  
 | tutor | bounce |  
 | tutor | covet |  

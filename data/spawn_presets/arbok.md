@@ -13,7 +13,7 @@ Levels: 22-45
   * #cobblemon:is_arid
   
   
-## arbok-legacy-1  
+## arbok-legacy-2  
 Rarity: common  
 Levels: 22-45  
   
@@ -26,7 +26,7 @@ Levels: 22-45
   * #cobblemon:is_arid
   
   
-## arbok-attack-1  
+## arbok-attack-2  
 Rarity: common  
 Levels: 22-45  
   
@@ -39,7 +39,7 @@ Levels: 22-45
   * #cobblemon:is_arid
   
   
-## arbok-speed-1  
+## arbok-speed-2  
 Rarity: common  
 Levels: 22-45  
   
@@ -52,7 +52,7 @@ Levels: 22-45
   * #cobblemon:is_arid
   
   
-## arbok-elusive-1  
+## arbok-elusive-2  
 Rarity: common  
 Levels: 22-45  
   
@@ -65,7 +65,7 @@ Levels: 22-45
   * #cobblemon:is_arid
   
   
-## arbok-sound-1  
+## arbok-sound-2  
 Rarity: common  
 Levels: 22-45  
   
@@ -78,7 +78,7 @@ Levels: 22-45
   * #cobblemon:is_arid
   
   
-## arbok-dark-1  
+## arbok-dark-3  
 Rarity: common  
 Levels: 22-45  
   
@@ -88,5 +88,5 @@ Levels: 22-45
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_desert
+  * #cobblemon:nether/is_desert
   

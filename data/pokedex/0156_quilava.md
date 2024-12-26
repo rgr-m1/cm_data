@@ -34,11 +34,15 @@ Primary Type: fire
 | tm | attract |  
 | tm | bodyslam |  
 | tm | brickbreak |  
+| tm | burningjealousy |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | fireblast |  
@@ -73,6 +77,7 @@ Primary Type: fire
 | tm | swagger |  
 | tm | swift |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | toxic |  
 | tm | wildcharge |  

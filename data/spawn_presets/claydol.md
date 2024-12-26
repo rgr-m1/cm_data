@@ -29,6 +29,7 @@ Levels: 36-50
 * [desert_pyramid](/data/world_presets/desert_pyramid.md)  
   
 ### Conditions  
+Min Y: 48  
   
 #### Biomes  
   * #cobblemon:is_overworld

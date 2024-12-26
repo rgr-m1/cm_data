@@ -1,7 +1,7 @@
 # data/spawn_presets/ceruledge spawns  
   
 ## ceruledge-1  
-Rarity: common  
+Rarity: uncommon  
 Levels: 21-53  
   
 ### World Presets  

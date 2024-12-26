@@ -39,10 +39,14 @@ Secondary Type: flying
 | tm | closecombat |  
 | tm | confide |  
 | tm | defog |  
+| tm | doubleedge |  
 | tm | doubleteam |  
+| tm | dualwingbeat |  
 | tm | echoedvoice |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
+| tm | featherdance |  
 | tm | fly |  
 | tm | frustration |  
 | tm | gigaimpact |  
@@ -73,6 +77,7 @@ Secondary Type: flying
 | tm | terablast |  
 | tm | thief |  
 | tm | toxic |  
+| tm | uproar |  
 | tm | uturn |  
 | tm | workup |  
 | tutor | aircutter |  

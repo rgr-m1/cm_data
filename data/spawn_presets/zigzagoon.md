@@ -13,7 +13,7 @@ Levels: 1-24
   * #cobblemon:is_temperate
   
   
-## zigzagoon-galarian-1  
+## zigzagoon-galarian-2  
 Rarity: common  
 Levels: 1-24  
   

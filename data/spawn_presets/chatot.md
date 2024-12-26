@@ -41,3 +41,19 @@ Levels: 16-41
 #### Biomes  
   * #cobblemon:is_sky
   
+  
+## chatot-4  
+Rarity: common  
+Levels: 16-41  
+  
+### Conditions  
+Min Y: -41  
+Max Y: 9  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * cobblemon:shipwreck_coves/lush_shipwreck_cove
+  

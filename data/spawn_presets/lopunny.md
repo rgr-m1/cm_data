@@ -14,5 +14,6 @@ Levels: 30-48
   * #cobblemon:is_forest
   * #cobblemon:is_hills
   * #cobblemon:is_snowy_forest
+  * #cobblemon:is_snowy_taiga
   * #cobblemon:is_taiga
   

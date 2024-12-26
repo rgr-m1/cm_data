@@ -30,16 +30,16 @@ Levels: 25-51
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_forest
+  * #cobblemon:nether/is_forest
   
   
 ### Anti-Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
   
   
-## ninetales-alolan-1  
+## ninetales-alolan-3  
 Rarity: uncommon  
 Levels: 25-51  
   
@@ -50,9 +50,10 @@ Levels: 25-51
   
 #### Biomes  
   * #cobblemon:is_snowy_forest
+  * #cobblemon:is_snowy_taiga
   
   
-## ninetales-alolan-2  
+## ninetales-alolan-4  
 Rarity: common  
 Levels: 25-51  
   
@@ -62,5 +63,5 @@ Levels: 25-51
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_frozen
+  * #cobblemon:nether/is_frozen
   

@@ -34,6 +34,7 @@ Secondary Type: fairy
 | 48 | dreameater |  
 | 51 | storedpower |  
 | 53 | futuresight |  
+| tm | alluringvoice |  
 | tm | allyswitch |  
 | tm | attract |  
 | tm | bodyslam |  
@@ -51,6 +52,7 @@ Secondary Type: fairy
 | tm | echoedvoice |  
 | tm | encore |  
 | tm | endure |  
+| tm | expandingforce |  
 | tm | facade |  
 | tm | firepunch |  
 | tm | flash |  
@@ -65,6 +67,7 @@ Secondary Type: fairy
 | tm | icepunch |  
 | tm | icywind |  
 | tm | imprison |  
+| tm | knockoff |  
 | tm | lightscreen |  
 | tm | magicalleaf |  
 | tm | magicroom |  
@@ -73,6 +76,7 @@ Secondary Type: fairy
 | tm | metronome |  
 | tm | mistyterrain |  
 | tm | naturalgift |  
+| tm | painsplit |  
 | tm | protect |  
 | tm | psybeam |  
 | tm | psychic |  
@@ -109,6 +113,7 @@ Secondary Type: fairy
 | tm | toxic |  
 | tm | trick |  
 | tm | trickroom |  
+| tm | tripleaxel |  
 | tm | willowisp |  
 | tm | wonderroom |  
 | tm | zenheadbutt |  

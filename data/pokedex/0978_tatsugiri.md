@@ -32,6 +32,7 @@ Secondary Type: water
 | tm | batonpass |  
 | tm | chillingwater |  
 | tm | dracometeor |  
+| tm | dragoncheer |  
 | tm | dragondance |  
 | tm | dragonpulse |  
 | tm | endure |  
@@ -41,6 +42,8 @@ Secondary Type: water
 | tm | hydropump |  
 | tm | hyperbeam |  
 | tm | icywind |  
+| tm | lunge |  
+| tm | muddywater |  
 | tm | nastyplot |  
 | tm | outrage |  
 | tm | protect |  
@@ -53,8 +56,5 @@ Secondary Type: water
 | tm | taunt |  
 | tm | terablast |  
 | tm | waterpulse |  
-| tutor | dragonpulse |  
-| tutor | icywind |  
-| tutor | muddywater |  
-| tutor | taunt |  
+| tm | whirlpool |  
   

@@ -11,9 +11,10 @@ Levels: 8-33
   
 #### Biomes  
   * #cobblemon:is_jungle
+  * #cobblemon:is_savanna
   
   
-## exeggcute-alolan-1  
+## exeggcute-alola-2  
 Rarity: uncommon  
 Levels: 8-33  
   
@@ -25,4 +26,10 @@ Levels: 8-33
 #### Biomes  
   * #cobblemon:is_beach
   * #cobblemon:is_tropical_island
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_freezing
   

@@ -56,6 +56,7 @@ Primary Type: normal
 | tm | fling |  
 | tm | frustration |  
 | tm | grassknot |  
+| tm | gravity |  
 | tm | hail |  
 | tm | helpinghand |  
 | tm | hiddenpower |  

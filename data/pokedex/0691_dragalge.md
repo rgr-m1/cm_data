@@ -46,17 +46,20 @@ Secondary Type: dragon
 | tm | dragontail |  
 | tm | endure |  
 | tm | facade |  
+| tm | flipturn |  
 | tm | focusblast |  
 | tm | frustration |  
 | tm | gigaimpact |  
 | tm | gunkshot |  
 | tm | hail |  
+| tm | haze |  
 | tm | hiddenpower |  
 | tm | hydropump |  
 | tm | hyperbeam |  
 | tm | icywind |  
 | tm | irontail |  
 | tm | liquidation |  
+| tm | muddywater |  
 | tm | mudshot |  
 | tm | mudslap |  
 | tm | outrage |  
@@ -68,6 +71,7 @@ Secondary Type: dragon
 | tm | return |  
 | tm | round |  
 | tm | scald |  
+| tm | scaleshot |  
 | tm | scaryface |  
 | tm | secretpower |  
 | tm | shadowball |  
@@ -76,6 +80,7 @@ Secondary Type: dragon
 | tm | sludgewave |  
 | tm | snore |  
 | tm | snowscape |  
+| tm | spite |  
 | tm | substitute |  
 | tm | surf |  
 | tm | swagger |  
@@ -90,6 +95,7 @@ Secondary Type: dragon
 | tm | venoshock |  
 | tm | waterfall |  
 | tm | waterpulse |  
+| tm | whirlpool |  
 | tutor | aquatail |  
 | tutor | bounce |  
 | tutor | dracometeor |  

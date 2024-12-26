@@ -13,9 +13,5 @@
   
   
 ### Needed Nearby Blocks  
-  * minecraft:end_stone_bricks
-  * minecraft:purpur_block
-  * minecraft:purpur_pillar
-  * minecraft:purpur_slab
-  * minecraft:purpur_stairs
+  * #cobblemon:end_city_blocks
   

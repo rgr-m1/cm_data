@@ -1,11 +1,11 @@
 # data/spawn_presets/grimer spawns  
   
 ## grimer-1  
-Rarity: common  
+Rarity: uncommon  
 Levels: 8-33  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
@@ -14,11 +14,11 @@ Levels: 8-33
   
   
 ## grimer-2  
-Rarity: common  
+Rarity: uncommon  
 Levels: 8-33  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
+* [water](/data/world_presets/water.md)  
 * [urban](/data/world_presets/urban.md)  
   
 ### Conditions  
@@ -29,17 +29,16 @@ Levels: 8-33
   
 ### Anti-Conditions  
   
-#### Structures  
-  * #minecraft:village
+#### Biomes  
+  * #cobblemon:is_swamp
   
   
 ## grimer-3  
-Rarity: common  
+Rarity: uncommon  
 Levels: 8-33  
   
 ### World Presets  
-* [water_surface](/data/world_presets/water_surface.md)  
-* [village](/data/world_presets/village.md)  
+* [water](/data/world_presets/water.md)  
   
 ### Conditions  
   
@@ -47,7 +46,73 @@ Levels: 8-33
   * #cobblemon:is_overworld
   
   
+#### Structures  
+  * #minecraft:village
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
 ## grimer-4  
+Rarity: common  
+Levels: 8-33  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## grimer-5  
+Rarity: common  
+Levels: 8-33  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+* [urban](/data/world_presets/urban.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## grimer-6  
+Rarity: common  
+Levels: 8-33  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## grimer-7  
 Rarity: common  
 Levels: 8-33  
   
@@ -57,5 +122,61 @@ Levels: 8-33
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_toxic
+  * #cobblemon:nether/is_toxic
+  
+  
+## grimer-8  
+Rarity: common  
+Levels: 8-33  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## grimer-9  
+Rarity: common  
+Levels: 8-33  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+* [urban](/data/world_presets/urban.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
+  
+  
+## grimer-10  
+Rarity: common  
+Levels: 8-33  
+  
+### World Presets  
+* [water](/data/world_presets/water.md)  
+  
+### Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_overworld
+  
+  
+#### Structures  
+  * #minecraft:village
+  
+  
+### Anti-Conditions  
+  
+#### Biomes  
+  * #cobblemon:is_swamp
   

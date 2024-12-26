@@ -44,14 +44,17 @@ Primary Type: electric
 | tm | attract |  
 | tm | bodyslam |  
 | tm | captivate |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | confuseray |  
 | tm | crunch |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | eerieimpulse |  
 | tm | electricterrain |  
 | tm | electroball |  
+| tm | electroweb |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  
@@ -83,6 +86,7 @@ Primary Type: electric
 | tm | strength |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | supercellslam |  
 | tm | superpower |  
 | tm | swagger |  
 | tm | swift |  

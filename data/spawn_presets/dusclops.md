@@ -1,7 +1,7 @@
 # data/spawn_presets/dusclops spawns  
   
 ## dusclops-1  
-Rarity: uncommon  
+Rarity: common  
 Levels: 37-46  
   
 ### World Presets  
@@ -10,7 +10,7 @@ Levels: 37-46
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_deep_dark
+  * #cobblemon:is_spooky
   
   
 ## dusclops-2  
@@ -23,18 +23,5 @@ Levels: 37-46
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_soul_sand
-  
-  
-## dusclops-3  
-Rarity: common  
-Levels: 37-46  
-  
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-  
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_spooky
+  * #cobblemon:nether/is_soul_sand
   

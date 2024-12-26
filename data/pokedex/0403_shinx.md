@@ -59,14 +59,17 @@ Primary Type: electric
 | egg | thunderfang |  
 | tm | attract |  
 | tm | captivate |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | confuseray |  
 | tm | crunch |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | eerieimpulse |  
 | tm | electricterrain |  
 | tm | electroball |  
+| tm | electroweb |  
 | tm | endure |  
 | tm | facade |  
 | tm | faketears |  

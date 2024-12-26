@@ -7,7 +7,5 @@
   
   
 ### Needed Nearby Blocks  
-  * minecraft:crying_obsidian
-  * minecraft:netherack
-  * minecraft:obsidian
+  * ruined_portal_blocks
   

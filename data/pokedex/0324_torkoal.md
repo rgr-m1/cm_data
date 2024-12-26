@@ -51,8 +51,11 @@ Primary Type: fire
 | tm | bodypress |  
 | tm | bodyslam |  
 | tm | bulldoze |  
+| tm | burningjealousy |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthpower |  
 | tm | earthquake |  
@@ -87,6 +90,7 @@ Primary Type: fire
 | tm | rocktomb |  
 | tm | round |  
 | tm | sandstorm |  
+| tm | scorchingsands |  
 | tm | secretpower |  
 | tm | selfdestruct |  
 | tm | sleeptalk |  
@@ -102,6 +106,7 @@ Primary Type: fire
 | tm | superpower |  
 | tm | swagger |  
 | tm | takedown |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | toxic |  
 | tm | weatherball |  

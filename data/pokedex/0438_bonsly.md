@@ -72,7 +72,9 @@ Primary Type: rock
 | tm | calmmind |  
 | tm | captivate |  
 | tm | confide |  
+| tm | curse |  
 | tm | dig |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | earthpower |  
 | tm | earthquake |  

@@ -28,6 +28,7 @@ Secondary Type: poison
 | 27 | synthesis |  
 | 30 | worryseed |  
 | 33 | doubleedge |  
+| 33 | powerwhip |  
 | 36 | solarbeam |  
 | egg | amnesia |  
 | egg | charm |  
@@ -47,6 +48,7 @@ Secondary Type: poison
 | egg | skullbash |  
 | egg | sludge |  
 | egg | toxic |  
+| tm | acidspray |  
 | tm | amnesia |  
 | tm | attract |  
 | tm | bodyslam |  
@@ -54,7 +56,9 @@ Secondary Type: poison
 | tm | captivate |  
 | tm | charm |  
 | tm | confide |  
+| tm | curse |  
 | tm | cut |  
+| tm | doubleedge |  
 | tm | doubleteam |  
 | tm | echoedvoice |  
 | tm | endure |  
@@ -65,9 +69,12 @@ Secondary Type: poison
 | tm | frustration |  
 | tm | gigadrain |  
 | tm | grassknot |  
+| tm | grasspledge |  
+| tm | grassyglide |  
 | tm | grassyterrain |  
 | tm | helpinghand |  
 | tm | hiddenpower |  
+| tm | knockoff |  
 | tm | leafstorm |  
 | tm | lightscreen |  
 | tm | magicalleaf |  
@@ -91,7 +98,10 @@ Secondary Type: poison
 | tm | sunnyday |  
 | tm | swagger |  
 | tm | swordsdance |  
+| tm | takedown |  
+| tm | terablast |  
 | tm | toxic |  
+| tm | trailblaze |  
 | tm | venoshock |  
 | tm | weatherball |  
 | tm | workup |  

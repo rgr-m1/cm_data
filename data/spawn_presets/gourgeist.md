@@ -14,6 +14,7 @@ Levels: 29-49
   
   
 #### Needed Nearby Blocks  
+  * minecraft:pumpkin
   * minecraft:carved_pumpkin
   
   
@@ -27,5 +28,5 @@ Levels: 29-49
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_overgrowth
+  * #cobblemon:nether/is_overgrowth
   

@@ -15,7 +15,7 @@ Levels: 25-47
   * #cobblemon:is_plateau
   
   
-## xatu-2  
+## xatu-3  
 Rarity: common  
 Levels: 25-47  
   

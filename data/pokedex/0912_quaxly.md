@@ -46,11 +46,15 @@ Primary Type: water
 | tm | lowkick |  
 | tm | mistyterrain |  
 | tm | protect |  
+| tm | psychup |  
 | tm | raindance |  
 | tm | rest |  
+| tm | sleeptalk |  
+| tm | substitute |  
 | tm | surf |  
 | tm | swift |  
 | tm | takedown |  
 | tm | terablast |  
 | tm | waterpledge |  
+| tm | whirlpool |  
   

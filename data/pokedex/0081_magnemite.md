@@ -36,6 +36,7 @@ Secondary Type: steel
 | 52 | zapcannon |  
 | egg | electroweb |  
 | egg | explosion |  
+| tm | charge |  
 | tm | chargebeam |  
 | tm | confide |  
 | tm | confuseray |  
@@ -50,6 +51,7 @@ Secondary Type: steel
 | tm | flash |  
 | tm | flashcannon |  
 | tm | frustration |  
+| tm | gravity |  
 | tm | gyroball |  
 | tm | heavyslam |  
 | tm | helpinghand |  
@@ -57,6 +59,7 @@ Secondary Type: steel
 | tm | irondefense |  
 | tm | ironhead |  
 | tm | lightscreen |  
+| tm | metalsound |  
 | tm | naturalgift |  
 | tm | protect |  
 | tm | psychup |  

@@ -36,6 +36,8 @@ Primary Type: fire
 | tm | batonpass |  
 | tm | blazekick |  
 | tm | bounce |  
+| tm | burningjealousy |  
+| tm | doubleedge |  
 | tm | electroball |  
 | tm | endure |  
 | tm | facade |  
@@ -63,9 +65,11 @@ Primary Type: fire
 | tm | snore |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | swift |  
 | tm | takedown |  
 | tm | taunt |  
+| tm | temperflare |  
 | tm | terablast |  
 | tm | trailblaze |  
 | tm | uturn |  

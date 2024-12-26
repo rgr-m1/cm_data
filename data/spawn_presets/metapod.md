@@ -36,7 +36,7 @@ Levels: 7-21
   * #cobblemon:is_plains
   
   
-## metapod-valencian-1  
+## metapod-valencian-3  
 Rarity: common  
 Levels: 7-21  
   
@@ -51,7 +51,7 @@ Levels: 7-21
   * #cobblemon:is_tropical_island
   
   
-## metapod-valencian-2  
+## metapod-valencian-4  
 Rarity: common  
 Levels: 7-21  
   

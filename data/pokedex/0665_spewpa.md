@@ -14,6 +14,7 @@ Primary Type: bug
 | Source | Move |  
 |:---:|:---:|  
 | 1 | harden |  
+| tm | bugbite |  
 | 1 | protect |  
 | tm | irondefense |  
 | tm | pounce |  

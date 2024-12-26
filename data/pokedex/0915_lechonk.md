@@ -36,8 +36,11 @@ Primary Type: normal
 | tm | bulldoze |  
 | tm | bulletseed |  
 | tm | chillingwater |  
+| tm | curse |  
 | tm | dig |  
 | tm | disarmingvoice |  
+| tm | doubleedge |  
+| tm | endeavor |  
 | tm | endure |  
 | tm | facade |  
 | tm | helpinghand |  
@@ -53,9 +56,11 @@ Primary Type: normal
 | tm | sleeptalk |  
 | tm | substitute |  
 | tm | sunnyday |  
+| tm | superfang |  
 | tm | takedown |  
 | tm | terablast |  
 | tm | thief |  
 | tm | trailblaze |  
+| tm | uproar |  
 | tm | zenheadbutt |  
   

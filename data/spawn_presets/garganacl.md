@@ -19,29 +19,16 @@ Rarity: common
 Levels: 38-50  
   
 ### World Presets  
+* [salt](/data/world_presets/salt.md)  
 * [natural](/data/world_presets/natural.md)  
 * [wild](/data/world_presets/wild.md)  
   
-### Conditions  
-  
-#### Biomes  
-  * #cobblemon:is_salt
-  
-  
-## garganacl-quartz-1  
+## garganacl-3  
 Rarity: common  
 Levels: 38-50  
   
-### World Presets  
-* [natural](/data/world_presets/natural.md)  
-* [wild](/data/world_presets/wild.md)  
-  
 ### Conditions  
   
 #### Biomes  
-  * #cobblemon:is_nether_quartz
-  
-  
-#### Needed Base Blocks  
-  * minecraft:quartz_block
+  * #cobblemon:nether/is_quartz
   
